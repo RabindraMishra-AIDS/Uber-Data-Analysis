@@ -1,0 +1,6274 @@
+Crop,Year,Month,Price
+Bajra,2013,January,131.6
+Barley,2013,January,119.4
+Castorseed,2013,January,83.7
+Cotton,2013,January,91.8
+Cotton (Meal/Cake),2013,January,109.2
+Cotton Oil,2013,January,101.8
+Gram,2013,January,134.0
+Groundnut,2013,January,128.7
+Groundnut Oil,2013,January,127.4
+Jowar,2013,January,95.2
+Jute,2013,January,111.5
+Lentil,2013,January,119.8
+Linseed,2013,January,133.6
+Maize,2013,January,123.4
+Mesta,2013,January,109.0
+Moong,2013,January,116.9
+Nigerseed,2013,January,116.1
+Onion,2013,January,190.0
+Paddy,2013,January,116.7
+Palm oil,2013,January,93.0
+Peas,2013,January,118.4
+Potato,2013,January,142.3
+Ragi,2013,January,159.7
+Rajma,2013,January,149.2
+Rapeseed & Mustard,2013,January,138.0
+Rapeseed & Mustard (Meal/Cake),2013,January,165.3
+Rapeseed & Mustard Oil,2013,January,116.2
+Rice,2013,January,116.5
+Safflower,2013,January,112.8
+Sesamum,2013,January,159.3
+Soya oil,2013,January,111.1
+Soybean,2013,January,139.0
+Sugarcane,2013,January,104.9
+Sunflower,2013,January,115.0
+Sunflower oil,2013,January,108.3
+Tobacco,2013,January,104.0
+Tomato,2013,January,88.3
+Tur,2013,January,109.1
+Urad,2013,January,96.5
+Wheat,2013,January,121.6
+Wheat Atta,2013,January,122.1
+Bajra,2014,January,132.3
+Barley,2014,January,123.9
+Castorseed,2014,January,93.0
+Cotton,2014,January,111.7
+Cotton (Meal/Cake),2014,January,120.2
+Cotton Oil,2014,January,99.5
+Gram,2014,January,103.6
+Groundnut,2014,January,100.7
+Groundnut Oil,2014,January,91.2
+Jowar,2014,January,100.8
+Jute,2014,January,126.3
+Lentil,2014,January,136.4
+Linseed,2014,January,127.0
+Maize,2014,January,120.1
+Mesta,2014,January,122.0
+Moong,2014,January,126.5
+Nigerseed,2014,January,114.6
+Onion,2014,January,163.3
+Paddy,2014,January,131.1
+Palm oil,2014,January,107.7
+Peas,2014,January,103.4
+Potato,2014,January,155.6
+Ragi,2014,January,156.6
+Rajma,2014,January,186.6
+Rapeseed & Mustard,2014,January,120.4
+Rapeseed & Mustard (Meal/Cake),2014,January,149.1
+Rapeseed & Mustard Oil,2014,January,108.1
+Rice,2014,January,125.6
+Safflower,2014,January,108.2
+Sesamum,2014,January,147.8
+Soya oil,2014,January,106.1
+Soybean,2014,January,157.8
+Sugarcane,2014,January,124.3
+Sunflower,2014,January,110.4
+Sunflower oil,2014,January,100.9
+Tobacco,2014,January,108.5
+Tomato,2014,January,79.5
+Tur,2014,January,118.1
+Urad,2014,January,105.7
+Wheat,2014,January,130.0
+Wheat Atta,2014,January,127.3
+Bajra,2015,January,125.0
+Barley,2015,January,135.4
+Castorseed,2015,January,94.9
+Cotton,2015,January,86.5
+Cotton (Meal/Cake),2015,January,119.5
+Cotton Oil,2015,January,93.4
+Gram,2015,January,107.5
+Groundnut,2015,January,110.0
+Groundnut Oil,2015,January,97.6
+Jowar,2015,January,119.2
+Jute,2015,January,136.8
+Lentil,2015,January,166.8
+Linseed,2015,January,129.0
+Maize,2015,January,118.6
+Mesta,2015,January,129.8
+Moong,2015,January,159.1
+Nigerseed,2015,January,138.8
+Onion,2015,January,193.5
+Paddy,2015,January,133.5
+Palm oil,2015,January,94.9
+Peas,2015,January,113.6
+Potato,2015,January,137.5
+Ragi,2015,January,160.6
+Rajma,2015,January,157.8
+Rapeseed & Mustard,2015,January,127.1
+Rapeseed & Mustard (Meal/Cake),2015,January,166.4
+Rapeseed & Mustard Oil,2015,January,116.8
+Rice,2015,January,129.8
+Safflower,2015,January,93.7
+Sesamum,2015,January,125.5
+Soya oil,2015,January,102.6
+Soybean,2015,January,144.6
+Sugarcane,2015,January,124.3
+Sunflower,2015,January,108.0
+Sunflower oil,2015,January,95.9
+Tobacco,2015,January,113.6
+Tomato,2015,January,131.3
+Tur,2015,January,134.3
+Urad,2015,January,131.6
+Wheat,2015,January,126.3
+Wheat Atta,2015,January,132.8
+Bajra,2016,January,142.9
+Barley,2016,January,138.5
+Castorseed,2016,January,79.9
+Cotton,2016,January,90.4
+Cotton (Meal/Cake),2016,January,154.9
+Cotton Oil,2016,January,97.1
+Gram,2016,January,149.5
+Groundnut,2016,January,123.3
+Groundnut Oil,2016,January,110.0
+Jowar,2016,January,115.4
+Jute,2016,January,217.3
+Lentil,2016,January,190.5
+Linseed,2016,January,136.1
+Maize,2016,January,133.8
+Mesta,2016,January,173.2
+Moong,2016,January,167.1
+Nigerseed,2016,January,238.3
+Onion,2016,January,184.3
+Paddy,2016,January,135.8
+Palm oil,2016,January,89.2
+Peas,2016,January,120.5
+Potato,2016,January,123.0
+Ragi,2016,January,164.3
+Rajma,2016,January,155.0
+Rapeseed & Mustard,2016,January,154.3
+Rapeseed & Mustard (Meal/Cake),2016,January,245.7
+Rapeseed & Mustard Oil,2016,January,124.3
+Rice,2016,January,130.1
+Safflower,2016,January,109.0
+Sesamum,2016,January,108.5
+Soya oil,2016,January,100.8
+Soybean,2016,January,151.3
+Sugarcane,2016,January,159.7
+Sunflower,2016,January,118.5
+Sunflower oil,2016,January,104.2
+Tobacco,2016,January,113.6
+Tomato,2016,January,144.8
+Tur,2016,January,215.8
+Urad,2016,January,206.1
+Wheat,2016,January,134.1
+Wheat Atta,2016,January,130.0
+Bajra,2017,January,151.9
+Barley,2017,January,161.6
+Castorseed,2017,January,87.9
+Cotton,2017,January,111.4
+Cotton (Meal/Cake),2017,January,159.5
+Cotton Oil,2017,January,102.9
+Gram,2017,January,235.9
+Groundnut,2017,January,134.1
+Groundnut Oil,2017,January,114.0
+Jowar,2017,January,132.3
+Jute,2017,January,190.2
+Lentil,2017,January,161.1
+Linseed,2017,January,171.5
+Maize,2017,January,134.6
+Mesta,2017,January,127.9
+Moong,2017,January,119.7
+Nigerseed,2017,January,198.0
+Onion,2017,January,117.8
+Paddy,2017,January,143.8
+Palm oil,2017,January,108.7
+Peas,2017,January,120.2
+Potato,2017,January,102.5
+Ragi,2017,January,242.6
+Rajma,2017,January,165.5
+Rapeseed & Mustard,2017,January,147.7
+Rapeseed & Mustard (Meal/Cake),2017,January,226.7
+Rapeseed & Mustard Oil,2017,January,125.8
+Rice,2017,January,146.2
+Safflower,2017,January,114.1
+Sesamum,2017,January,116.4
+Soya oil,2017,January,108.1
+Soybean,2017,January,127.8
+Sugarcane,2017,January,167.6
+Sunflower,2017,January,110.0
+Sunflower oil,2017,January,106.4
+Tobacco,2017,January,113.6
+Tomato,2017,January,91.4
+Tur,2017,January,140.7
+Urad,2017,January,167.6
+Wheat,2017,January,151.3
+Wheat Atta,2017,January,151.3
+Bajra,2018,January,131.7
+Barley,2018,January,141.6
+Castorseed,2018,January,97.9
+Cotton,2018,January,110.6
+Cotton (Meal/Cake),2018,January,141.7
+Cotton Oil,2018,January,103.7
+Gram,2018,January,140.8
+Groundnut,2018,January,113.4
+Groundnut Oil,2018,January,104.3
+Jowar,2018,January,118.3
+Jute,2018,January,159.5
+Lentil,2018,January,126.7
+Linseed,2018,January,152.5
+Maize,2018,January,116.4
+Mesta,2018,January,107.9
+Moong,2018,January,112.2
+Nigerseed,2018,January,200.8
+Onion,2018,January,346.2
+Paddy,2018,January,150.4
+Palm oil,2018,January,111.6
+Peas,2018,January,130.0
+Potato,2018,January,111.4
+Ragi,2018,January,207.9
+Rajma,2018,January,141.2
+Rapeseed & Mustard,2018,January,137.6
+Rapeseed & Mustard (Meal/Cake),2018,January,180.4
+Rapeseed & Mustard Oil,2018,January,120.8
+Rice,2018,January,152.1
+Safflower,2018,January,138.8
+Sesamum,2018,January,132.2
+Soya oil,2018,January,110.7
+Soybean,2018,January,136.6
+Sugarcane,2018,January,169.5
+Sunflower,2018,January,99.8
+Sunflower oil,2018,January,105.8
+Tobacco,2018,January,113.6
+Tomato,2018,January,119.7
+Tur,2018,January,114.9
+Urad,2018,January,114.8
+Wheat,2018,January,140.8
+Wheat Atta,2018,January,140.5
+Bajra,2019,January,171.2
+Barley,2019,January,159.2
+Castorseed,2019,January,121.8
+Cotton,2019,January,115.5
+Cotton (Meal/Cake),2019,January,151.5
+Cotton Oil,2019,January,106.7
+Gram,2019,January,147.4
+Groundnut,2019,January,123.8
+Groundnut Oil,2019,January,112.6
+Jowar,2019,January,143.0
+Jute,2019,January,198.5
+Lentil,2019,January,127.5
+Linseed,2019,January,151.9
+Maize,2019,January,147.9
+Mesta,2019,January,128.5
+Moong,2019,January,125.8
+Nigerseed,2019,January,140.8
+Onion,2019,January,119.1
+Paddy,2019,January,155.8
+Palm oil,2019,January,111.0
+Peas,2019,January,167.7
+Potato,2019,January,141.4
+Ragi,2019,January,223.4
+Rajma,2019,January,133.6
+Rapeseed & Mustard,2019,January,144.5
+Rapeseed & Mustard (Meal/Cake),2019,January,190.2
+Rapeseed & Mustard Oil,2019,January,124.7
+Rice,2019,January,150.7
+Safflower,2019,January,155.3
+Sesamum,2019,January,171.0
+Soya oil,2019,January,112.7
+Soybean,2019,January,151.5
+Sugarcane,2019,January,169.5
+Sunflower,2019,January,119.7
+Sunflower oil,2019,January,110.4
+Tobacco,2019,January,113.6
+Tomato,2019,January,167.5
+Tur,2019,January,127.8
+Urad,2019,January,123.5
+Wheat,2019,January,154.8
+Wheat Atta,2019,January,153.9
+Bajra,2020,January,201.6
+Barley,2020,January,180.4
+Castorseed,2020,January,101.5
+Cotton,2020,January,109.0
+Cotton (Meal/Cake),2020,January,156.7
+Cotton Oil,2020,January,121.7
+Gram,2020,January,145.6
+Groundnut,2020,January,139.0
+Groundnut Oil,2020,January,125.7
+Jowar,2020,January,177.1
+Jute,2020,January,207.1
+Lentil,2020,January,147.9
+Linseed,2020,January,172.0
+Maize,2020,January,178.8
+Mesta,2020,January,138.6
+Moong,2020,January,151.3
+Nigerseed,2020,January,171.5
+Onion,2020,January,468.5
+Paddy,2020,January,162.3
+Palm oil,2020,January,138.1
+Peas,2020,January,182.4
+Potato,2020,January,262.3
+Ragi,2020,January,213.8
+Rajma,2020,January,141.8
+Rapeseed & Mustard,2020,January,152.9
+Rapeseed & Mustard (Meal/Cake),2020,January,203.2
+Rapeseed & Mustard Oil,2020,January,133.4
+Rice,2020,January,154.7
+Safflower,2020,January,200.3
+Sesamum,2020,January,184.7
+Soya oil,2020,January,121.7
+Soybean,2020,January,181.8
+Sugarcane,2020,January,169.5
+Sunflower,2020,January,124.2
+Sunflower oil,2020,January,116.2
+Tobacco,2020,January,113.6
+Tomato,2020,January,200.0
+Tur,2020,January,152.0
+Urad,2020,January,180.9
+Wheat,2020,January,168.7
+Wheat Atta,2020,January,160.7
+Bajra,2021,January,148.3
+Barley,2021,January,151.6
+Castorseed,2021,January,107.5
+Cotton,2021,January,109.9
+Cotton (Meal/Cake),2021,January,159.5
+Cotton Oil,2021,January,146.4
+Gram,2021,January,155.6
+Groundnut,2021,January,156.4
+Groundnut Oil,2021,January,151.8
+Jowar,2021,January,151.9
+Jute,2021,January,253.8
+Lentil,2021,January,165.4
+Linseed,2021,January,176.9
+Maize,2021,January,137.4
+Mesta,2021,January,183.2
+Moong,2021,January,166.7
+Nigerseed,2021,January,206.7
+Onion,2021,January,316.0
+Paddy,2021,January,162.0
+Palm oil,2021,January,166.7
+Peas,2021,January,172.9
+Potato,2021,January,200.7
+Ragi,2021,January,226.2
+Rajma,2021,January,179.5
+Rapeseed & Mustard,2021,January,177.5
+Rapeseed & Mustard (Meal/Cake),2021,January,222.4
+Rapeseed & Mustard Oil,2021,January,173.6
+Rice,2021,January,151.3
+Safflower,2021,January,167.2
+Sesamum,2021,January,173.0
+Soya oil,2021,January,151.6
+Soybean,2021,January,188.0
+Sugarcane,2021,January,189.4
+Sunflower,2021,January,142.5
+Sunflower oil,2021,January,150.9
+Tobacco,2021,January,113.6
+Tomato,2021,January,175.7
+Tur,2021,January,166.8
+Urad,2021,January,194.0
+Wheat,2021,January,149.1
+Wheat Atta,2021,January,143.3
+Bajra,2022,January,183.2
+Barley,2022,January,183.6
+Castorseed,2022,January,124.6
+Cotton,2022,January,159.1
+Cotton (Meal/Cake),2022,January,204.5
+Cotton Oil,2022,January,158.0
+Gram,2022,January,165.4
+Groundnut,2022,January,167.3
+Groundnut Oil,2022,January,154.1
+Jowar,2022,January,142.7
+Jute,2022,January,289.4
+Lentil,2022,January,202.9
+Linseed,2022,January,251.4
+Maize,2022,January,157.4
+Mesta,2022,January,187.9
+Moong,2022,January,164.1
+Nigerseed,2022,January,254.5
+Onion,2022,January,265.5
+Paddy,2022,January,162.9
+Palm oil,2022,January,189.6
+Peas,2022,January,191.4
+Potato,2022,January,171.7
+Ragi,2022,January,232.2
+Rajma,2022,January,248.7
+Rapeseed & Mustard,2022,January,216.8
+Rapeseed & Mustard (Meal/Cake),2022,January,246.9
+Rapeseed & Mustard Oil,2022,January,224.5
+Rice,2022,January,152.8
+Safflower,2022,January,217.6
+Sesamum,2022,January,184.5
+Soya oil,2022,January,170.2
+Soybean,2022,January,263.7
+Sugarcane,2022,January,199.8
+Sunflower,2022,January,169.5
+Sunflower oil,2022,January,152.3
+Tobacco,2022,January,113.6
+Tomato,2022,January,272.8
+Tur,2022,January,175.8
+Urad,2022,January,178.0
+Wheat,2022,January,164.6
+Wheat Atta,2022,January,155.0
+Bajra,2023,January,224.1
+Barley,2023,January,239.7
+Castorseed,2023,January,134.8
+Cotton,2023,January,172.7
+Cotton (Meal/Cake),2023,January,200.5
+Cotton Oil,2023,January,154.3
+Gram,2023,January,164.8
+Groundnut,2023,January,189.7
+Groundnut Oil,2023,January,175.4
+Jowar,2023,January,204.0
+Jute,2023,January,257.4
+Lentil,2023,January,199.0
+Linseed,2023,January,220.0
+Maize,2023,January,190.9
+Mesta,2023,January,201.5
+Moong,2023,January,167.7
+Nigerseed,2023,January,248.3
+Onion,2023,January,200.5
+Paddy,2023,January,174.6
+Palm oil,2023,January,163.8
+Peas,2023,January,160.4
+Potato,2023,January,184.6
+Ragi,2023,January,221.6
+Rajma,2023,January,239.6
+Rapeseed & Mustard,2023,January,196.2
+Rapeseed & Mustard (Meal/Cake),2023,January,196.8
+Rapeseed & Mustard Oil,2023,January,189.1
+Rice,2023,January,171.7
+Safflower,2023,January,208.2
+Sesamum,2023,January,206.6
+Soya oil,2023,January,171.5
+Soybean,2023,January,237.9
+Sugarcane,2023,January,210.1
+Sunflower,2023,January,163.9
+Sunflower oil,2023,January,155.6
+Tobacco,2023,January,113.6
+Tomato,2023,January,162.3
+Tur,2023,January,195.4
+Urad,2023,January,189.0
+Wheat,2023,January,203.9
+Wheat Atta,2023,January,194.7
+Bajra,2024,January,246.2
+Barley,2024,January,200.0
+Castorseed,2024,January,110.0
+Cotton,2024,January,152.8
+Cotton (Meal/Cake),2024,January,186.4
+Cotton Oil,2024,January,118.2
+Gram,2024,January,187.6
+Groundnut,2024,January,195.9
+Groundnut Oil,2024,January,171.4
+Jowar,2024,January,236.4
+Jute,2024,January,229.2
+Lentil,2024,January,189.4
+Linseed,2024,January,182.2
+Maize,2024,January,195.1
+Mesta,2024,January,172.5
+Moong,2024,January,200.9
+Nigerseed,2024,January,277.4
+Onion,2024,January,259.0
+Paddy,2024,January,191.3
+Palm oil,2024,January,144.8
+Peas,2024,January,181.1
+Potato,2024,January,169.1
+Ragi,2024,January,279.0
+Rajma,2024,January,233.5
+Rapeseed & Mustard,2024,January,163.6
+Rapeseed & Mustard (Meal/Cake),2024,January,228.3
+Rapeseed & Mustard Oil,2024,January,153.7
+Rice,2024,January,184.6
+Safflower,2024,January,183.4
+Sesamum,2024,January,239.2
+Soya oil,2024,January,125.2
+Soybean,2024,January,210.8
+Sugarcane,2024,January,217.0
+Sunflower,2024,January,132.9
+Sunflower oil,2024,January,124.4
+Tobacco,2024,January,113.6
+Tomato,2024,January,254.8
+Tur,2024,January,256.2
+Urad,2024,January,211.6
+Wheat,2024,January,197.5
+Wheat Atta,2024,January,190.6
+Bajra,2013,February,132.7
+Barley,2013,February,120.2
+Castorseed,2013,February,81.6
+Cotton,2013,February,93.9
+Cotton (Meal/Cake),2013,February,108.9
+Cotton Oil,2013,February,99.7
+Gram,2013,February,124.1
+Groundnut,2013,February,125.3
+Groundnut Oil,2013,February,127.6
+Jowar,2013,February,97.9
+Jute,2013,February,116.3
+Lentil,2013,February,120.1
+Linseed,2013,February,134.0
+Maize,2013,February,122.9
+Mesta,2013,February,111.5
+Moong,2013,February,117.1
+Nigerseed,2013,February,116.1
+Onion,2013,February,216.2
+Paddy,2013,February,117.9
+Palm oil,2013,February,93.4
+Peas,2013,February,113.0
+Potato,2013,February,129.8
+Ragi,2013,February,170.2
+Rajma,2013,February,161.4
+Rapeseed & Mustard,2013,February,132.6
+Rapeseed & Mustard (Meal/Cake),2013,February,152.2
+Rapeseed & Mustard Oil,2013,February,114.6
+Rice,2013,February,118.7
+Safflower,2013,February,115.7
+Sesamum,2013,February,161.2
+Soya oil,2013,February,112.1
+Soybean,2013,February,137.7
+Sugarcane,2013,February,104.9
+Sunflower,2013,February,116.1
+Sunflower oil,2013,February,109.3
+Tobacco,2013,February,104.0
+Tomato,2013,February,73.7
+Tur,2013,February,110.6
+Urad,2013,February,96.3
+Wheat,2013,February,123.6
+Wheat Atta,2013,February,122.1
+Bajra,2014,February,131.5
+Barley,2014,February,123.5
+Castorseed,2014,February,90.9
+Cotton,2014,February,111.8
+Cotton (Meal/Cake),2014,February,122.8
+Cotton Oil,2014,February,100.3
+Gram,2014,February,101.7
+Groundnut,2014,February,99.4
+Groundnut Oil,2014,February,90.1
+Jowar,2014,February,103.0
+Jute,2014,February,126.2
+Lentil,2014,February,136.6
+Linseed,2014,February,126.4
+Maize,2014,February,118.9
+Mesta,2014,February,121.3
+Moong,2014,February,129.3
+Nigerseed,2014,February,112.6
+Onion,2014,February,133.1
+Paddy,2014,February,132.3
+Palm oil,2014,February,108.2
+Peas,2014,February,105.8
+Potato,2014,February,144.3
+Ragi,2014,February,158.1
+Rajma,2014,February,183.8
+Rapeseed & Mustard,2014,February,119.3
+Rapeseed & Mustard (Meal/Cake),2014,February,148.1
+Rapeseed & Mustard Oil,2014,February,105.8
+Rice,2014,February,127.9
+Safflower,2014,February,107.1
+Sesamum,2014,February,142.5
+Soya oil,2014,February,105.8
+Soybean,2014,February,162.0
+Sugarcane,2014,February,124.3
+Sunflower,2014,February,112.2
+Sunflower oil,2014,February,101.2
+Tobacco,2014,February,109.4
+Tomato,2014,February,79.6
+Tur,2014,February,118.4
+Urad,2014,February,108.5
+Wheat,2014,February,128.8
+Wheat Atta,2014,February,130.1
+Bajra,2015,February,123.2
+Barley,2015,February,134.7
+Castorseed,2015,February,88.6
+Cotton,2015,February,83.4
+Cotton (Meal/Cake),2015,February,120.1
+Cotton Oil,2015,February,93.3
+Gram,2015,February,109.4
+Groundnut,2015,February,111.1
+Groundnut Oil,2015,February,98.6
+Jowar,2015,February,119.6
+Jute,2015,February,140.8
+Lentil,2015,February,166.2
+Linseed,2015,February,129.9
+Maize,2015,February,119.3
+Mesta,2015,February,130.0
+Moong,2015,February,155.7
+Nigerseed,2015,February,143.3
+Onion,2015,February,198.0
+Paddy,2015,February,134.1
+Palm oil,2015,February,95.0
+Peas,2015,February,106.5
+Potato,2015,February,116.2
+Ragi,2015,February,161.1
+Rajma,2015,February,156.2
+Rapeseed & Mustard,2015,February,128.0
+Rapeseed & Mustard (Meal/Cake),2015,February,162.0
+Rapeseed & Mustard Oil,2015,February,114.3
+Rice,2015,February,129.4
+Safflower,2015,February,94.8
+Sesamum,2015,February,121.9
+Soya oil,2015,February,102.1
+Soybean,2015,February,142.2
+Sugarcane,2015,February,124.3
+Sunflower,2015,February,109.8
+Sunflower oil,2015,February,95.8
+Tobacco,2015,February,113.6
+Tomato,2015,February,119.2
+Tur,2015,February,139.1
+Urad,2015,February,132.1
+Wheat,2015,February,125.9
+Wheat Atta,2015,February,130.8
+Bajra,2016,February,144.2
+Barley,2016,February,141.6
+Castorseed,2016,February,78.2
+Cotton,2016,February,87.7
+Cotton (Meal/Cake),2016,February,157.2
+Cotton Oil,2016,February,97.4
+Gram,2016,February,145.8
+Groundnut,2016,February,124.6
+Groundnut Oil,2016,February,109.8
+Jowar,2016,February,116.1
+Jute,2016,February,221.7
+Lentil,2016,February,184.0
+Linseed,2016,February,133.8
+Maize,2016,February,135.9
+Mesta,2016,February,173.9
+Moong,2016,February,161.0
+Nigerseed,2016,February,243.5
+Onion,2016,February,144.9
+Paddy,2016,February,135.3
+Palm oil,2016,February,91.8
+Peas,2016,February,112.4
+Potato,2016,February,127.6
+Ragi,2016,February,166.9
+Rajma,2016,February,155.0
+Rapeseed & Mustard,2016,February,135.3
+Rapeseed & Mustard (Meal/Cake),2016,February,237.2
+Rapeseed & Mustard Oil,2016,February,119.7
+Rice,2016,February,131.2
+Safflower,2016,February,111.1
+Sesamum,2016,February,105.7
+Soya oil,2016,February,99.9
+Soybean,2016,February,150.2
+Sugarcane,2016,February,159.7
+Sunflower,2016,February,118.1
+Sunflower oil,2016,February,102.8
+Tobacco,2016,February,113.6
+Tomato,2016,February,103.6
+Tur,2016,February,205.5
+Urad,2016,February,199.3
+Wheat,2016,February,134.1
+Wheat Atta,2016,February,130.9
+Bajra,2017,February,151.3
+Barley,2017,February,161.9
+Castorseed,2017,February,88.6
+Cotton,2017,February,113.9
+Cotton (Meal/Cake),2017,February,162.2
+Cotton Oil,2017,February,104.1
+Gram,2017,February,200.4
+Groundnut,2017,February,132.4
+Groundnut Oil,2017,February,114.5
+Jowar,2017,February,136.0
+Jute,2017,February,190.6
+Lentil,2017,February,156.2
+Linseed,2017,February,169.7
+Maize,2017,February,135.6
+Mesta,2017,February,126.0
+Moong,2017,February,116.9
+Nigerseed,2017,February,200.4
+Onion,2017,February,114.5
+Paddy,2017,February,146.4
+Palm oil,2017,February,108.3
+Peas,2017,February,119.7
+Potato,2017,February,96.8
+Ragi,2017,February,242.9
+Rajma,2017,February,165.1
+Rapeseed & Mustard,2017,February,143.4
+Rapeseed & Mustard (Meal/Cake),2017,February,199.8
+Rapeseed & Mustard Oil,2017,February,120.1
+Rice,2017,February,147.9
+Safflower,2017,February,117.0
+Sesamum,2017,February,117.8
+Soya oil,2017,February,106.2
+Soybean,2017,February,126.0
+Sugarcane,2017,February,167.6
+Sunflower,2017,February,108.5
+Sunflower oil,2017,February,105.6
+Tobacco,2017,February,113.6
+Tomato,2017,February,110.1
+Tur,2017,February,133.1
+Urad,2017,February,158.1
+Wheat,2017,February,149.3
+Wheat Atta,2017,February,148.4
+Bajra,2018,February,127.9
+Barley,2018,February,141.0
+Castorseed,2018,February,99.2
+Cotton,2018,February,106.9
+Cotton (Meal/Cake),2018,February,140.2
+Cotton Oil,2018,February,105.3
+Gram,2018,February,134.7
+Groundnut,2018,February,114.9
+Groundnut Oil,2018,February,106.1
+Jowar,2018,February,115.9
+Jute,2018,February,166.8
+Lentil,2018,February,122.1
+Linseed,2018,February,148.6
+Maize,2018,February,117.3
+Mesta,2018,February,116.9
+Moong,2018,February,113.0
+Nigerseed,2018,February,190.2
+Onion,2018,February,250.7
+Paddy,2018,February,151.4
+Palm oil,2018,February,113.5
+Peas,2018,February,127.3
+Potato,2018,February,108.1
+Ragi,2018,February,214.9
+Rajma,2018,February,137.0
+Rapeseed & Mustard,2018,February,136.8
+Rapeseed & Mustard (Meal/Cake),2018,February,187.9
+Rapeseed & Mustard Oil,2018,February,120.6
+Rice,2018,February,153.9
+Safflower,2018,February,139.2
+Sesamum,2018,February,133.4
+Soya oil,2018,February,111.3
+Soybean,2018,February,152.2
+Sugarcane,2018,February,169.5
+Sunflower,2018,February,100.6
+Sunflower oil,2018,February,106.3
+Tobacco,2018,February,113.6
+Tomato,2018,February,95.5
+Tur,2018,February,116.5
+Urad,2018,February,112.6
+Wheat,2018,February,140.0
+Wheat Atta,2018,February,140.7
+Bajra,2019,February,178.3
+Barley,2019,February,163.4
+Castorseed,2019,February,121.4
+Cotton,2019,February,113.1
+Cotton (Meal/Cake),2019,February,153.0
+Cotton Oil,2019,February,109.7
+Gram,2019,February,146.5
+Groundnut,2019,February,125.2
+Groundnut Oil,2019,February,113.5
+Jowar,2019,February,146.6
+Jute,2019,February,201.3
+Lentil,2019,February,129.5
+Linseed,2019,February,150.8
+Maize,2019,February,158.9
+Mesta,2019,February,132.8
+Moong,2019,February,128.2
+Nigerseed,2019,February,143.5
+Onion,2019,February,105.3
+Paddy,2019,February,156.5
+Palm oil,2019,February,112.9
+Peas,2019,February,155.7
+Potato,2019,February,131.4
+Ragi,2019,February,224.9
+Rajma,2019,February,133.0
+Rapeseed & Mustard,2019,February,143.3
+Rapeseed & Mustard (Meal/Cake),2019,February,187.6
+Rapeseed & Mustard Oil,2019,February,123.6
+Rice,2019,February,150.6
+Safflower,2019,February,157.5
+Sesamum,2019,February,174.4
+Soya oil,2019,February,113.5
+Soybean,2019,February,159.8
+Sugarcane,2019,February,169.5
+Sunflower,2019,February,127.4
+Sunflower oil,2019,February,110.5
+Tobacco,2019,February,113.6
+Tomato,2019,February,133.4
+Tur,2019,February,133.6
+Urad,2019,February,124.5
+Wheat,2019,February,157.2
+Wheat Atta,2019,February,155.4
+Bajra,2020,February,193.7
+Barley,2020,February,181.7
+Castorseed,2020,February,98.7
+Cotton,2020,February,107.5
+Cotton (Meal/Cake),2020,February,151.2
+Cotton Oil,2020,February,118.4
+Gram,2020,February,142.0
+Groundnut,2020,February,142.7
+Groundnut Oil,2020,February,127.7
+Jowar,2020,February,165.6
+Jute,2020,February,212.4
+Lentil,2020,February,147.1
+Linseed,2020,February,167.7
+Maize,2020,February,167.0
+Mesta,2020,February,137.2
+Moong,2020,February,156.6
+Nigerseed,2020,February,166.9
+Onion,2020,February,276.2
+Paddy,2020,February,162.3
+Palm oil,2020,February,135.7
+Peas,2020,February,182.3
+Potato,2020,February,211.2
+Ragi,2020,February,211.9
+Rajma,2020,February,142.7
+Rapeseed & Mustard,2020,February,150.5
+Rapeseed & Mustard (Meal/Cake),2020,February,197.7
+Rapeseed & Mustard Oil,2020,February,131.3
+Rice,2020,February,154.5
+Safflower,2020,February,186.7
+Sesamum,2020,February,188.7
+Soya oil,2020,February,121.3
+Soybean,2020,February,171.6
+Sugarcane,2020,February,169.5
+Sunflower,2020,February,123.6
+Sunflower oil,2020,February,114.1
+Tobacco,2020,February,113.6
+Tomato,2020,February,158.4
+Tur,2020,February,152.8
+Urad,2020,February,179.6
+Wheat,2020,February,167.3
+Wheat Atta,2020,February,158.6
+Bajra,2021,February,145.7
+Barley,2021,February,149.1
+Castorseed,2021,February,106.6
+Cotton,2021,February,113.9
+Cotton (Meal/Cake),2021,February,170.3
+Cotton Oil,2021,February,150.4
+Gram,2021,February,156.3
+Groundnut,2021,February,162.1
+Groundnut Oil,2021,February,159.0
+Jowar,2021,February,148.7
+Jute,2021,February,263.0
+Lentil,2021,February,166.3
+Linseed,2021,February,179.9
+Maize,2021,February,135.4
+Mesta,2021,February,181.5
+Moong,2021,February,169.7
+Nigerseed,2021,February,204.4
+Onion,2021,February,362.6
+Paddy,2021,February,161.7
+Palm oil,2021,February,173.8
+Peas,2021,February,178.6
+Potato,2021,February,147.5
+Ragi,2021,February,226.8
+Rajma,2021,February,183.7
+Rapeseed & Mustard,2021,February,178.9
+Rapeseed & Mustard (Meal/Cake),2021,February,224.1
+Rapeseed & Mustard Oil,2021,February,175.9
+Rice,2021,February,151.6
+Safflower,2021,February,169.4
+Sesamum,2021,February,174.1
+Soya oil,2021,February,153.5
+Soybean,2021,February,194.4
+Sugarcane,2021,February,196.3
+Sunflower,2021,February,161.5
+Sunflower oil,2021,February,157.6
+Tobacco,2021,February,113.6
+Tomato,2021,February,163.4
+Tur,2021,February,173.2
+Urad,2021,February,196.6
+Wheat,2021,February,149.6
+Wheat Atta,2021,February,143.8
+Bajra,2022,February,187.7
+Barley,2022,February,188.4
+Castorseed,2022,February,133.8
+Cotton,2022,February,173.3
+Cotton (Meal/Cake),2022,February,207.6
+Cotton Oil,2022,February,173.9
+Gram,2022,February,163.4
+Groundnut,2022,February,165.7
+Groundnut Oil,2022,February,158.4
+Jowar,2022,February,148.9
+Jute,2022,February,291.2
+Lentil,2022,February,204.9
+Linseed,2022,February,248.0
+Maize,2022,February,162.4
+Mesta,2022,February,192.0
+Moong,2022,February,166.1
+Nigerseed,2022,February,256.9
+Onion,2022,February,266.8
+Paddy,2022,February,161.7
+Palm oil,2022,February,201.8
+Peas,2022,February,195.1
+Potato,2022,February,170.6
+Ragi,2022,February,235.4
+Rajma,2022,February,244.9
+Rapeseed & Mustard,2022,February,216.6
+Rapeseed & Mustard (Meal/Cake),2022,February,245.3
+Rapeseed & Mustard Oil,2022,February,223.4
+Rice,2022,February,152.6
+Safflower,2022,February,209.9
+Sesamum,2022,February,184.4
+Soya oil,2022,February,178.1
+Soybean,2022,February,275.7
+Sugarcane,2022,February,199.8
+Sunflower,2022,February,182.6
+Sunflower oil,2022,February,156.4
+Tobacco,2022,February,113.6
+Tomato,2022,February,194.1
+Tur,2022,February,176.4
+Urad,2022,February,175.9
+Wheat,2022,February,166.1
+Wheat Atta,2022,February,155.6
+Bajra,2023,February,219.6
+Barley,2023,February,238.9
+Castorseed,2023,February,129.4
+Cotton,2023,February,171.1
+Cotton (Meal/Cake),2023,February,193.2
+Cotton Oil,2023,February,145.6
+Gram,2023,February,165.6
+Groundnut,2023,February,198.3
+Groundnut Oil,2023,February,177.3
+Jowar,2023,February,208.8
+Jute,2023,February,257.0
+Lentil,2023,February,196.3
+Linseed,2023,February,219.9
+Maize,2023,February,193.1
+Mesta,2023,February,192.8
+Moong,2023,February,167.8
+Nigerseed,2023,February,246.4
+Onion,2023,February,159.5
+Paddy,2023,February,175.6
+Palm oil,2023,February,164.2
+Peas,2023,February,160.2
+Potato,2023,February,146.0
+Ragi,2023,February,222.0
+Rajma,2023,February,240.6
+Rapeseed & Mustard,2023,February,185.9
+Rapeseed & Mustard (Meal/Cake),2023,February,192.9
+Rapeseed & Mustard Oil,2023,February,180.5
+Rice,2023,February,170.2
+Safflower,2023,February,197.8
+Sesamum,2023,February,211.3
+Soya oil,2023,February,163.8
+Soybean,2023,February,234.6
+Sugarcane,2023,February,210.1
+Sunflower,2023,February,165.9
+Sunflower oil,2023,February,147.3
+Tobacco,2023,February,113.6
+Tomato,2023,February,167.8
+Tur,2023,February,197.3
+Urad,2023,February,184.6
+Wheat,2023,February,196.8
+Wheat Atta,2023,February,189.8
+Bajra,2024,February,242.8
+Barley,2024,February,198.2
+Castorseed,2024,February,108.8
+Cotton,2024,February,151.0
+Cotton (Meal/Cake),2024,February,181.1
+Cotton Oil,2024,February,118.9
+Gram,2024,February,192.4
+Groundnut,2024,February,190.4
+Groundnut Oil,2024,February,168.3
+Jowar,2024,February,231.8
+Jute,2024,February,231.4
+Lentil,2024,February,188.5
+Linseed,2024,February,185.4
+Maize,2024,February,198.3
+Mesta,2024,February,169.5
+Moong,2024,February,202.4
+Nigerseed,2024,February,292.3
+Onion,2024,February,206.1
+Paddy,2024,February,193.6
+Palm oil,2024,February,147.4
+Peas,2024,February,180.2
+Potato,2024,February,168.4
+Ragi,2024,February,285.6
+Rajma,2024,February,233.7
+Rapeseed & Mustard,2024,February,162.8
+Rapeseed & Mustard (Meal/Cake),2024,February,217.0
+Rapeseed & Mustard Oil,2024,February,151.1
+Rice,2024,February,187.7
+Safflower,2024,February,178.8
+Sesamum,2024,February,232.5
+Soya oil,2024,February,125.1
+Soybean,2024,February,202.9
+Sugarcane,2024,February,217.0
+Sunflower,2024,February,125.7
+Sunflower oil,2024,February,128.5
+Tobacco,2024,February,113.6
+Tomato,2024,February,269.3
+Tur,2024,February,263.6
+Urad,2024,February,215.8
+Wheat,2024,February,201.4
+Wheat Atta,2024,February,187.7
+Bajra,2013,March,132.5
+Barley,2013,March,119.5
+Castorseed,2013,March,80.7
+Cotton,2013,March,100.2
+Cotton (Meal/Cake),2013,March,114.7
+Cotton Oil,2013,March,99.6
+Gram,2013,March,117.5
+Groundnut,2013,March,121.1
+Groundnut Oil,2013,March,123.8
+Jowar,2013,March,101.9
+Jute,2013,March,123.8
+Lentil,2013,March,119.5
+Linseed,2013,March,130.6
+Maize,2013,March,121.8
+Mesta,2013,March,119.3
+Moong,2013,March,118.3
+Nigerseed,2013,March,117.9
+Onion,2013,March,159.1
+Paddy,2013,March,118.7
+Palm oil,2013,March,94.2
+Peas,2013,March,123.2
+Potato,2013,March,124.1
+Ragi,2013,March,173.8
+Rajma,2013,March,164.8
+Rapeseed & Mustard,2013,March,121.6
+Rapeseed & Mustard (Meal/Cake),2013,March,148.3
+Rapeseed & Mustard Oil,2013,March,109.3
+Rice,2013,March,121.7
+Safflower,2013,March,115.2
+Sesamum,2013,March,161.6
+Soya oil,2013,March,107.5
+Soybean,2013,March,150.9
+Sugarcane,2013,March,104.9
+Sunflower,2013,March,111.1
+Sunflower oil,2013,March,107.1
+Tobacco,2013,March,104.0
+Tomato,2013,March,84.1
+Tur,2013,March,116.3
+Urad,2013,March,96.5
+Wheat,2013,March,122.8
+Wheat Atta,2013,March,120.6
+Bajra,2014,March,133.6
+Barley,2014,March,124.1
+Castorseed,2014,March,90.7
+Cotton,2014,March,107.4
+Cotton (Meal/Cake),2014,March,123.2
+Cotton Oil,2014,March,103.9
+Gram,2014,March,103.5
+Groundnut,2014,March,99.3
+Groundnut Oil,2014,March,92.0
+Jowar,2014,March,111.3
+Jute,2014,March,124.8
+Lentil,2014,March,140.8
+Linseed,2014,March,126.7
+Maize,2014,March,121.0
+Mesta,2014,March,120.7
+Moong,2014,March,132.6
+Nigerseed,2014,March,112.6
+Onion,2014,March,126.8
+Paddy,2014,March,132.6
+Palm oil,2014,March,111.8
+Peas,2014,March,116.7
+Potato,2014,March,158.3
+Ragi,2014,March,162.5
+Rajma,2014,March,183.2
+Rapeseed & Mustard,2014,March,118.5
+Rapeseed & Mustard (Meal/Cake),2014,March,152.5
+Rapeseed & Mustard Oil,2014,March,107.4
+Rice,2014,March,127.8
+Safflower,2014,March,112.0
+Sesamum,2014,March,145.4
+Soya oil,2014,March,107.4
+Soybean,2014,March,169.5
+Sugarcane,2014,March,124.3
+Sunflower,2014,March,114.5
+Sunflower oil,2014,March,100.5
+Tobacco,2014,March,110.0
+Tomato,2014,March,82.1
+Tur,2014,March,119.0
+Urad,2014,March,108.3
+Wheat,2014,March,127.5
+Wheat Atta,2014,March,127.9
+Bajra,2015,March,124.8
+Barley,2015,March,132.6
+Castorseed,2015,March,86.5
+Cotton,2015,March,83.6
+Cotton (Meal/Cake),2015,March,125.8
+Cotton Oil,2015,March,92.7
+Gram,2015,March,110.9
+Groundnut,2015,March,115.0
+Groundnut Oil,2015,March,103.0
+Jowar,2015,March,114.4
+Jute,2015,March,141.6
+Lentil,2015,March,164.9
+Linseed,2015,March,129.7
+Maize,2015,March,122.4
+Mesta,2015,March,133.1
+Moong,2015,March,150.7
+Nigerseed,2015,March,146.7
+Onion,2015,March,185.0
+Paddy,2015,March,132.0
+Palm oil,2015,March,96.3
+Peas,2015,March,124.7
+Potato,2015,March,109.2
+Ragi,2015,March,166.7
+Rajma,2015,March,155.0
+Rapeseed & Mustard,2015,March,126.7
+Rapeseed & Mustard (Meal/Cake),2015,March,164.9
+Rapeseed & Mustard Oil,2015,March,112.4
+Rice,2015,March,128.7
+Safflower,2015,March,94.5
+Sesamum,2015,March,119.8
+Soya oil,2015,March,100.0
+Soybean,2015,March,141.3
+Sugarcane,2015,March,124.3
+Sunflower,2015,March,106.9
+Sunflower oil,2015,March,94.1
+Tobacco,2015,March,112.7
+Tomato,2015,March,122.7
+Tur,2015,March,144.8
+Urad,2015,March,133.7
+Wheat,2015,March,125.9
+Wheat Atta,2015,March,128.0
+Bajra,2016,March,147.7
+Barley,2016,March,139.4
+Castorseed,2016,March,77.8
+Cotton,2016,March,85.7
+Cotton (Meal/Cake),2016,March,161.7
+Cotton Oil,2016,March,98.6
+Gram,2016,March,143.8
+Groundnut,2016,March,128.9
+Groundnut Oil,2016,March,112.2
+Jowar,2016,March,115.8
+Jute,2016,March,225.8
+Lentil,2016,March,182.3
+Linseed,2016,March,135.0
+Maize,2016,March,135.8
+Mesta,2016,March,170.7
+Moong,2016,March,158.7
+Nigerseed,2016,March,241.2
+Onion,2016,March,133.2
+Paddy,2016,March,135.2
+Palm oil,2016,March,95.5
+Peas,2016,March,112.4
+Potato,2016,March,133.2
+Ragi,2016,March,167.3
+Rajma,2016,March,155.0
+Rapeseed & Mustard,2016,March,132.3
+Rapeseed & Mustard (Meal/Cake),2016,March,231.4
+Rapeseed & Mustard Oil,2016,March,117.6
+Rice,2016,March,132.5
+Safflower,2016,March,110.1
+Sesamum,2016,March,104.7
+Soya oil,2016,March,99.7
+Soybean,2016,March,151.4
+Sugarcane,2016,March,159.7
+Sunflower,2016,March,118.1
+Sunflower oil,2016,March,101.3
+Tobacco,2016,March,113.6
+Tomato,2016,March,99.4
+Tur,2016,March,201.2
+Urad,2016,March,198.2
+Wheat,2016,March,134.1
+Wheat Atta,2016,March,130.5
+Bajra,2017,March,152.6
+Barley,2017,March,156.9
+Castorseed,2017,March,100.5
+Cotton,2017,March,114.3
+Cotton (Meal/Cake),2017,March,162.6
+Cotton Oil,2017,March,100.4
+Gram,2017,March,181.9
+Groundnut,2017,March,137.7
+Groundnut Oil,2017,March,118.7
+Jowar,2017,March,132.1
+Jute,2017,March,188.3
+Lentil,2017,March,154.0
+Linseed,2017,March,162.3
+Maize,2017,March,135.2
+Mesta,2017,March,129.1
+Moong,2017,March,115.4
+Nigerseed,2017,March,202.3
+Onion,2017,March,110.6
+Paddy,2017,March,147.7
+Palm oil,2017,March,106.8
+Peas,2017,March,122.2
+Potato,2017,March,91.1
+Ragi,2017,March,258.0
+Rajma,2017,March,163.0
+Rapeseed & Mustard,2017,March,135.3
+Rapeseed & Mustard (Meal/Cake),2017,March,195.8
+Rapeseed & Mustard Oil,2017,March,117.6
+Rice,2017,March,147.2
+Safflower,2017,March,124.8
+Sesamum,2017,March,115.6
+Soya oil,2017,March,105.4
+Soybean,2017,March,124.9
+Sugarcane,2017,March,167.6
+Sunflower,2017,March,106.8
+Sunflower oil,2017,March,103.9
+Tobacco,2017,March,113.6
+Tomato,2017,March,126.1
+Tur,2017,March,126.0
+Urad,2017,March,151.1
+Wheat,2017,March,142.9
+Wheat Atta,2017,March,145.3
+Bajra,2018,March,126.8
+Barley,2018,March,140.8
+Castorseed,2018,March,98.4
+Cotton,2018,March,103.3
+Cotton (Meal/Cake),2018,March,137.9
+Cotton Oil,2018,March,109.0
+Gram,2018,March,130.3
+Groundnut,2018,March,114.3
+Groundnut Oil,2018,March,103.7
+Jowar,2018,March,118.1
+Jute,2018,March,165.8
+Lentil,2018,March,120.6
+Linseed,2018,March,146.5
+Maize,2018,March,117.3
+Mesta,2018,March,122.9
+Moong,2018,March,114.1
+Nigerseed,2018,March,179.4
+Onion,2018,March,157.3
+Paddy,2018,March,152.6
+Palm oil,2018,March,118.1
+Peas,2018,March,129.0
+Potato,2018,March,130.5
+Ragi,2018,March,220.8
+Rajma,2018,March,134.1
+Rapeseed & Mustard,2018,March,136.1
+Rapeseed & Mustard (Meal/Cake),2018,March,190.4
+Rapeseed & Mustard Oil,2018,March,119.3
+Rice,2018,March,151.5
+Safflower,2018,March,139.0
+Sesamum,2018,March,130.1
+Soya oil,2018,March,112.6
+Soybean,2018,March,156.0
+Sugarcane,2018,March,169.5
+Sunflower,2018,March,104.4
+Sunflower oil,2018,March,107.4
+Tobacco,2018,March,113.6
+Tomato,2018,March,92.7
+Tur,2018,March,116.6
+Urad,2018,March,112.1
+Wheat,2018,March,141.2
+Wheat Atta,2018,March,140.8
+Bajra,2019,March,182.0
+Barley,2019,March,163.9
+Castorseed,2019,March,122.8
+Cotton,2019,March,117.1
+Cotton (Meal/Cake),2019,March,158.0
+Cotton Oil,2019,March,108.3
+Gram,2019,March,141.5
+Groundnut,2019,March,126.8
+Groundnut Oil,2019,March,112.7
+Jowar,2019,March,150.4
+Jute,2019,March,202.6
+Lentil,2019,March,130.1
+Linseed,2019,March,151.5
+Maize,2019,March,163.7
+Mesta,2019,March,133.9
+Moong,2019,March,127.8
+Nigerseed,2019,March,165.3
+Onion,2019,March,108.0
+Paddy,2019,March,156.6
+Palm oil,2019,March,110.3
+Peas,2019,March,168.2
+Potato,2019,March,133.8
+Ragi,2019,March,221.4
+Rajma,2019,March,131.2
+Rapeseed & Mustard,2019,March,139.4
+Rapeseed & Mustard (Meal/Cake),2019,March,187.6
+Rapeseed & Mustard Oil,2019,March,122.9
+Rice,2019,March,151.1
+Safflower,2019,March,156.8
+Sesamum,2019,March,170.3
+Soya oil,2019,March,112.5
+Soybean,2019,March,157.5
+Sugarcane,2019,March,169.5
+Sunflower,2019,March,122.9
+Sunflower oil,2019,March,109.4
+Tobacco,2019,March,113.6
+Tomato,2019,March,161.8
+Tur,2019,March,132.4
+Urad,2019,March,122.1
+Wheat,2019,March,155.5
+Wheat Atta,2019,March,154.4
+Bajra,2020,March,187.5
+Barley,2020,March,182.3
+Castorseed,2020,March,97.7
+Cotton,2020,March,107.0
+Cotton (Meal/Cake),2020,March,146.4
+Cotton Oil,2020,March,115.7
+Gram,2020,March,138.5
+Groundnut,2020,March,149.8
+Groundnut Oil,2020,March,132.1
+Jowar,2020,March,158.2
+Jute,2020,March,210.2
+Lentil,2020,March,146.0
+Linseed,2020,March,164.4
+Maize,2020,March,158.5
+Mesta,2020,March,136.6
+Moong,2020,March,162.0
+Nigerseed,2020,March,164.5
+Onion,2020,March,229.3
+Paddy,2020,March,159.3
+Palm oil,2020,March,132.8
+Peas,2020,March,180.1
+Potato,2020,March,215.9
+Ragi,2020,March,215.0
+Rajma,2020,March,142.2
+Rapeseed & Mustard,2020,March,148.2
+Rapeseed & Mustard (Meal/Cake),2020,March,200.6
+Rapeseed & Mustard Oil,2020,March,131.4
+Rice,2020,March,155.5
+Safflower,2020,March,164.5
+Sesamum,2020,March,189.8
+Soya oil,2020,March,118.2
+Soybean,2020,March,157.2
+Sugarcane,2020,March,169.5
+Sunflower,2020,March,114.8
+Sunflower oil,2020,March,112.8
+Tobacco,2020,March,113.6
+Tomato,2020,March,135.7
+Tur,2020,March,150.9
+Urad,2020,March,176.9
+Wheat,2020,March,162.9
+Wheat Atta,2020,March,158.7
+Bajra,2021,March,146.9
+Barley,2021,March,150.0
+Castorseed,2021,March,109.8
+Cotton,2021,March,116.1
+Cotton (Meal/Cake),2021,March,178.5
+Cotton Oil,2021,March,159.5
+Gram,2021,March,159.6
+Groundnut,2021,March,170.4
+Groundnut Oil,2021,March,165.3
+Jowar,2021,March,149.0
+Jute,2021,March,282.6
+Lentil,2021,March,168.4
+Linseed,2021,March,181.9
+Maize,2021,March,135.7
+Mesta,2021,March,186.8
+Moong,2021,March,169.2
+Nigerseed,2021,March,211.5
+Onion,2021,March,241.1
+Paddy,2021,March,161.5
+Palm oil,2021,March,184.3
+Peas,2021,March,188.7
+Potato,2021,March,143.8
+Ragi,2021,March,232.0
+Rajma,2021,March,197.2
+Rapeseed & Mustard,2021,March,172.9
+Rapeseed & Mustard (Meal/Cake),2021,March,217.8
+Rapeseed & Mustard Oil,2021,March,176.3
+Rice,2021,March,151.7
+Safflower,2021,March,164.9
+Sesamum,2021,March,176.0
+Soya oil,2021,March,161.9
+Soybean,2021,March,217.7
+Sugarcane,2021,March,196.3
+Sunflower,2021,March,174.0
+Sunflower oil,2021,March,165.6
+Tobacco,2021,March,113.6
+Tomato,2021,March,142.1
+Tur,2021,March,175.0
+Urad,2021,March,196.7
+Wheat,2021,March,150.3
+Wheat Atta,2021,March,144.1
+Bajra,2022,March,196.4
+Barley,2022,March,187.0
+Castorseed,2022,March,138.8
+Cotton,2022,March,185.0
+Cotton (Meal/Cake),2022,March,209.5
+Cotton Oil,2022,March,187.4
+Gram,2022,March,165.9
+Groundnut,2022,March,169.1
+Groundnut Oil,2022,March,169.7
+Jowar,2022,March,153.9
+Jute,2022,March,291.6
+Lentil,2022,March,205.5
+Linseed,2022,March,259.3
+Maize,2022,March,169.5
+Mesta,2022,March,187.6
+Moong,2022,March,168.8
+Nigerseed,2022,March,259.9
+Onion,2022,March,218.6
+Paddy,2022,March,163.1
+Palm oil,2022,March,217.1
+Peas,2022,March,187.9
+Potato,2022,March,181.7
+Ragi,2022,March,234.9
+Rajma,2022,March,246.7
+Rapeseed & Mustard,2022,March,210.9
+Rapeseed & Mustard (Meal/Cake),2022,March,241.4
+Rapeseed & Mustard Oil,2022,March,218.3
+Rice,2022,March,154.9
+Safflower,2022,March,225.4
+Sesamum,2022,March,186.3
+Soya oil,2022,March,196.1
+Soybean,2022,March,308.2
+Sugarcane,2022,March,199.8
+Sunflower,2022,March,202.6
+Sunflower oil,2022,March,173.0
+Tobacco,2022,March,113.6
+Tomato,2022,March,162.1
+Tur,2022,March,177.9
+Urad,2022,March,176.7
+Wheat,2022,March,171.4
+Wheat Atta,2022,March,160.6
+Bajra,2023,March,225.1
+Barley,2023,March,218.6
+Castorseed,2023,March,120.3
+Cotton,2023,March,169.3
+Cotton (Meal/Cake),2023,March,187.5
+Cotton Oil,2023,March,139.4
+Gram,2023,March,167.4
+Groundnut,2023,March,197.4
+Groundnut Oil,2023,March,178.9
+Jowar,2023,March,208.3
+Jute,2023,March,255.6
+Lentil,2023,March,194.6
+Linseed,2023,March,201.6
+Maize,2023,March,193.7
+Mesta,2023,March,175.2
+Moong,2023,March,172.8
+Nigerseed,2023,March,263.4
+Onion,2023,March,138.1
+Paddy,2023,March,175.4
+Palm oil,2023,March,164.2
+Peas,2023,March,166.9
+Potato,2023,March,135.2
+Ragi,2023,March,224.3
+Rajma,2023,March,240.1
+Rapeseed & Mustard,2023,March,176.2
+Rapeseed & Mustard (Meal/Cake),2023,March,193.5
+Rapeseed & Mustard Oil,2023,March,169.2
+Rice,2023,March,174.1
+Safflower,2023,March,194.0
+Sesamum,2023,March,208.6
+Soya oil,2023,March,151.1
+Soybean,2023,March,225.8
+Sugarcane,2023,March,210.1
+Sunflower,2023,March,153.0
+Sunflower oil,2023,March,140.7
+Tobacco,2023,March,113.6
+Tomato,2023,March,191.1
+Tur,2023,March,201.7
+Urad,2023,March,185.6
+Wheat,2023,March,187.1
+Wheat Atta,2023,March,182.0
+Bajra,2024,March,239.9
+Barley,2024,March,194.8
+Castorseed,2024,March,110.5
+Cotton,2024,March,157.7
+Cotton (Meal/Cake),2024,March,182.3
+Cotton Oil,2024,March,124.0
+Gram,2024,March,192.8
+Groundnut,2024,March,189.7
+Groundnut Oil,2024,March,168.0
+Jowar,2024,March,227.6
+Jute,2024,March,232.1
+Lentil,2024,March,188.8
+Linseed,2024,March,175.5
+Maize,2024,March,196.2
+Mesta,2024,March,169.7
+Moong,2024,March,205.1
+Nigerseed,2024,March,295.3
+Onion,2024,March,216.8
+Paddy,2024,March,196.0
+Palm oil,2024,March,152.3
+Peas,2024,March,185.2
+Potato,2024,March,206.8
+Ragi,2024,March,291.9
+Rajma,2024,March,234.6
+Rapeseed & Mustard,2024,March,162.2
+Rapeseed & Mustard (Meal/Cake),2024,March,207.5
+Rapeseed & Mustard Oil,2024,March,152.5
+Rice,2024,March,190.3
+Safflower,2024,March,188.8
+Sesamum,2024,March,236.1
+Soya oil,2024,March,130.1
+Soybean,2024,March,204.1
+Sugarcane,2024,March,217.0
+Sunflower,2024,March,126.1
+Sunflower oil,2024,March,127.9
+Tobacco,2024,March,113.6
+Tomato,2024,March,250.1
+Tur,2024,March,261.5
+Urad,2024,March,218.2
+Wheat,2024,March,201.0
+Wheat Atta,2024,March,187.1
+Bajra,2012,April,107.7
+Barley,2012,April,117.1
+Castorseed,2012,April,81.9
+Cotton,2012,April,89.9
+Cotton (Meal/Cake),2012,April,104.3
+Cotton Oil,2012,April,107.5
+Gram,2012,April,116.1
+Groundnut,2012,April,112.5
+Groundnut Oil,2012,April,118.9
+Jowar,2012,April,98.3
+Jute,2012,April,101.6
+Lentil,2012,April,102.5
+Linseed,2012,April,114.7
+Maize,2012,April,107.9
+Mesta,2012,April,97.7
+Moong,2012,April,96.3
+Nigerseed,2012,April,116.4
+Onion,2012,April,72.8
+Paddy,2012,April,104.2
+Palm oil,2012,April,112.5
+Peas,2012,April,113.2
+Potato,2012,April,142.4
+Ragi,2012,April,107.2
+Rajma,2012,April,134.7
+Rapeseed & Mustard,2012,April,117.9
+Rapeseed & Mustard (Meal/Cake),2012,April,130.0
+Rapeseed & Mustard Oil,2012,April,115.6
+Rice,2012,April,103.6
+Safflower,2012,April,103.9
+Sesamum,2012,April,123.7
+Soya oil,2012,April,108.3
+Soybean,2012,April,131.0
+Sugarcane,2012,April,100.0
+Sunflower,2012,April,101.9
+Sunflower oil,2012,April,102.2
+Tobacco,2012,April,100.0
+Tomato,2012,April,129.3
+Tur,2012,April,97.1
+Urad,2012,April,90.7
+Wheat,2012,April,104.6
+Wheat Atta,2012,April,104.9
+Bajra,2013,April,136.4
+Barley,2013,April,116.5
+Castorseed,2013,April,80.8
+Cotton,2013,April,98.8
+Cotton (Meal/Cake),2013,April,124.2
+Cotton Oil,2013,April,99.9
+Gram,2013,April,118.8
+Groundnut,2013,April,124.7
+Groundnut Oil,2013,April,124.3
+Jowar,2013,April,101.7
+Jute,2013,April,124.0
+Lentil,2013,April,126.1
+Linseed,2013,April,126.5
+Maize,2013,April,121.4
+Mesta,2013,April,120.0
+Moong,2013,April,120.0
+Nigerseed,2013,April,117.9
+Onion,2013,April,145.2
+Paddy,2013,April,120.4
+Palm oil,2013,April,94.9
+Peas,2013,April,136.2
+Potato,2013,April,148.9
+Ragi,2013,April,173.1
+Rajma,2013,April,166.1
+Rapeseed & Mustard,2013,April,117.7
+Rapeseed & Mustard (Meal/Cake),2013,April,149.9
+Rapeseed & Mustard Oil,2013,April,105.8
+Rice,2013,April,125.4
+Safflower,2013,April,119.4
+Sesamum,2013,April,160.5
+Soya oil,2013,April,108.1
+Soybean,2013,April,163.0
+Sugarcane,2013,April,104.9
+Sunflower,2013,April,111.9
+Sunflower oil,2013,April,107.5
+Tobacco,2013,April,104.0
+Tomato,2013,April,106.9
+Tur,2013,April,118.1
+Urad,2013,April,96.2
+Wheat,2013,April,120.1
+Wheat Atta,2013,April,119.0
+Bajra,2014,April,134.4
+Barley,2014,April,119.2
+Castorseed,2014,April,88.9
+Cotton,2014,April,106.3
+Cotton (Meal/Cake),2014,April,127.8
+Cotton Oil,2014,April,104.8
+Gram,2014,April,102.8
+Groundnut,2014,April,100.4
+Groundnut Oil,2014,April,91.0
+Jowar,2014,April,115.7
+Jute,2014,April,127.6
+Lentil,2014,April,143.3
+Linseed,2014,April,127.0
+Maize,2014,April,119.2
+Mesta,2014,April,120.5
+Moong,2014,April,135.5
+Nigerseed,2014,April,114.3
+Onion,2014,April,130.7
+Paddy,2014,April,133.7
+Palm oil,2014,April,110.9
+Peas,2014,April,129.9
+Potato,2014,April,188.9
+Ragi,2014,April,163.2
+Rajma,2014,April,180.2
+Rapeseed & Mustard,2014,April,116.9
+Rapeseed & Mustard (Meal/Cake),2014,April,153.5
+Rapeseed & Mustard Oil,2014,April,105.8
+Rice,2014,April,130.7
+Safflower,2014,April,125.4
+Sesamum,2014,April,147.1
+Soya oil,2014,April,106.9
+Soybean,2014,April,175.6
+Sugarcane,2014,April,124.3
+Sunflower,2014,April,109.9
+Sunflower oil,2014,April,101.2
+Tobacco,2014,April,110.0
+Tomato,2014,April,102.4
+Tur,2014,April,120.6
+Urad,2014,April,109.7
+Wheat,2014,April,123.5
+Wheat Atta,2014,April,129.2
+Bajra,2015,April,127.3
+Barley,2015,April,120.1
+Castorseed,2015,April,87.1
+Cotton,2015,April,89.5
+Cotton (Meal/Cake),2015,April,136.6
+Cotton Oil,2015,April,94.3
+Gram,2015,April,115.3
+Groundnut,2015,April,119.7
+Groundnut Oil,2015,April,104.3
+Jowar,2015,April,111.3
+Jute,2015,April,141.1
+Lentil,2015,April,165.1
+Linseed,2015,April,129.0
+Maize,2015,April,121.4
+Mesta,2015,April,135.6
+Moong,2015,April,151.4
+Nigerseed,2015,April,165.2
+Onion,2015,April,171.8
+Paddy,2015,April,132.6
+Palm oil,2015,April,95.3
+Peas,2015,April,126.1
+Potato,2015,April,100.5
+Ragi,2015,April,164.2
+Rajma,2015,April,157.2
+Rapeseed & Mustard,2015,April,127.5
+Rapeseed & Mustard (Meal/Cake),2015,April,175.0
+Rapeseed & Mustard Oil,2015,April,113.1
+Rice,2015,April,127.3
+Safflower,2015,April,104.2
+Sesamum,2015,April,116.3
+Soya oil,2015,April,98.9
+Soybean,2015,April,145.5
+Sugarcane,2015,April,150.3
+Sunflower,2015,April,105.8
+Sunflower oil,2015,April,94.7
+Tobacco,2015,April,113.6
+Tomato,2015,April,166.7
+Tur,2015,April,148.4
+Urad,2015,April,138.8
+Wheat,2015,April,125.1
+Wheat Atta,2015,April,128.0
+Bajra,2016,April,155.8
+Barley,2016,April,143.4
+Castorseed,2016,April,78.9
+Cotton,2016,April,89.9
+Cotton (Meal/Cake),2016,April,171.4
+Cotton Oil,2016,April,94.9
+Gram,2016,April,159.1
+Groundnut,2016,April,139.1
+Groundnut Oil,2016,April,118.7
+Jowar,2016,April,115.5
+Jute,2016,April,229.4
+Lentil,2016,April,186.8
+Linseed,2016,April,140.1
+Maize,2016,April,135.2
+Mesta,2016,April,170.7
+Moong,2016,April,162.2
+Nigerseed,2016,April,221.2
+Onion,2016,April,123.5
+Paddy,2016,April,136.3
+Palm oil,2016,April,99.3
+Peas,2016,April,136.6
+Potato,2016,April,167.7
+Ragi,2016,April,174.1
+Rajma,2016,April,153.8
+Rapeseed & Mustard,2016,April,144.2
+Rapeseed & Mustard (Meal/Cake),2016,April,232.9
+Rapeseed & Mustard Oil,2016,April,120.4
+Rice,2016,April,134.3
+Safflower,2016,April,108.9
+Sesamum,2016,April,119.2
+Soya oil,2016,April,101.4
+Soybean,2016,April,167.5
+Sugarcane,2016,April,159.7
+Sunflower,2016,April,115.5
+Sunflower oil,2016,April,105.4
+Tobacco,2016,April,113.6
+Tomato,2016,April,142.7
+Tur,2016,April,217.5
+Urad,2016,April,213.0
+Wheat,2016,April,132.9
+Wheat Atta,2016,April,130.1
+Bajra,2017,April,153.8
+Barley,2017,April,144.5
+Castorseed,2017,April,109.3
+Cotton,2017,April,111.5
+Cotton (Meal/Cake),2017,April,160.8
+Cotton Oil,2017,April,98.3
+Gram,2017,April,183.4
+Groundnut,2017,April,139.8
+Groundnut Oil,2017,April,119.0
+Jowar,2017,April,131.6
+Jute,2017,April,168.9
+Lentil,2017,April,155.3
+Linseed,2017,April,162.0
+Maize,2017,April,135.5
+Mesta,2017,April,130.6
+Moong,2017,April,120.8
+Nigerseed,2017,April,201.6
+Onion,2017,April,107.9
+Paddy,2017,April,147.6
+Palm oil,2017,April,105.9
+Peas,2017,April,133.3
+Potato,2017,April,99.5
+Ragi,2017,April,252.8
+Rajma,2017,April,162.2
+Rapeseed & Mustard,2017,April,130.6
+Rapeseed & Mustard (Meal/Cake),2017,April,196.8
+Rapeseed & Mustard Oil,2017,April,118.1
+Rice,2017,April,147.7
+Safflower,2017,April,126.0
+Sesamum,2017,April,116.4
+Soya oil,2017,April,103.0
+Soybean,2017,April,126.8
+Sugarcane,2017,April,167.6
+Sunflower,2017,April,104.2
+Sunflower oil,2017,April,102.5
+Tobacco,2017,April,113.6
+Tomato,2017,April,118.8
+Tur,2017,April,127.2
+Urad,2017,April,149.5
+Wheat,2017,April,141.0
+Wheat Atta,2017,April,142.3
+Bajra,2018,April,127.0
+Barley,2018,April,138.9
+Castorseed,2018,April,96.7
+Cotton,2018,April,102.9
+Cotton (Meal/Cake),2018,April,134.9
+Cotton Oil,2018,April,110.4
+Gram,2018,April,127.0
+Groundnut,2018,April,109.6
+Groundnut Oil,2018,April,103.3
+Jowar,2018,April,118.0
+Jute,2018,April,166.1
+Lentil,2018,April,120.8
+Linseed,2018,April,141.1
+Maize,2018,April,118.0
+Mesta,2018,April,123.2
+Moong,2018,April,111.5
+Nigerseed,2018,April,169.5
+Onion,2018,April,122.6
+Paddy,2018,April,153.3
+Palm oil,2018,April,122.0
+Peas,2018,April,145.5
+Potato,2018,April,170.8
+Ragi,2018,April,213.5
+Rajma,2018,April,132.6
+Rapeseed & Mustard,2018,April,136.8
+Rapeseed & Mustard (Meal/Cake),2018,April,186.7
+Rapeseed & Mustard Oil,2018,April,120.3
+Rice,2018,April,151.5
+Safflower,2018,April,137.8
+Sesamum,2018,April,128.1
+Soya oil,2018,April,114.4
+Soybean,2018,April,157.5
+Sugarcane,2018,April,169.5
+Sunflower,2018,April,107.2
+Sunflower oil,2018,April,107.4
+Tobacco,2018,April,113.6
+Tomato,2018,April,111.2
+Tur,2018,April,115.3
+Urad,2018,April,110.5
+Wheat,2018,April,140.9
+Wheat Atta,2018,April,140.6
+Bajra,2019,April,188.0
+Barley,2019,April,159.0
+Castorseed,2019,April,129.6
+Cotton,2019,April,125.0
+Cotton (Meal/Cake),2019,April,166.5
+Cotton Oil,2019,April,108.6
+Gram,2019,April,144.1
+Groundnut,2019,April,129.5
+Groundnut Oil,2019,April,114.8
+Jowar,2019,April,150.9
+Jute,2019,April,197.3
+Lentil,2019,April,131.8
+Linseed,2019,April,153.0
+Maize,2019,April,171.3
+Mesta,2019,April,130.6
+Moong,2019,April,128.2
+Nigerseed,2019,April,174.7
+Onion,2019,April,118.6
+Paddy,2019,April,157.0
+Palm oil,2019,April,109.9
+Peas,2019,April,179.0
+Potato,2019,April,143.1
+Ragi,2019,April,221.7
+Rajma,2019,April,131.9
+Rapeseed & Mustard,2019,April,138.2
+Rapeseed & Mustard (Meal/Cake),2019,April,184.4
+Rapeseed & Mustard Oil,2019,April,120.2
+Rice,2019,April,150.9
+Safflower,2019,April,167.6
+Sesamum,2019,April,167.3
+Soya oil,2019,April,111.6
+Soybean,2019,April,162.3
+Sugarcane,2019,April,169.5
+Sunflower,2019,April,120.8
+Sunflower oil,2019,April,108.7
+Tobacco,2019,April,113.6
+Tomato,2019,April,208.8
+Tur,2019,April,136.8
+Urad,2019,April,123.5
+Wheat,2019,April,151.5
+Wheat Atta,2019,April,151.1
+Bajra,2020,April,188.9
+Barley,2020,April,177.8
+Castorseed,2020,April,96.8
+Cotton,2020,April,106.8
+Cotton (Meal/Cake),2020,April,151.8
+Cotton Oil,2020,April,117.7
+Gram,2020,April,146.7
+Groundnut,2020,April,155.8
+Groundnut Oil,2020,April,137.8
+Jowar,2020,April,159.1
+Jute,2020,April,209.1
+Lentil,2020,April,149.7
+Linseed,2020,April,165.6
+Maize,2020,April,155.4
+Mesta,2020,April,136.6
+Moong,2020,April,174.2
+Nigerseed,2020,April,163.6
+Onion,2020,April,204.4
+Paddy,2020,April,162.7
+Palm oil,2020,April,128.3
+Peas,2020,April,187.8
+Potato,2020,April,231.9
+Ragi,2020,April,224.5
+Rajma,2020,April,142.2
+Rapeseed & Mustard,2020,April,147.3
+Rapeseed & Mustard (Meal/Cake),2020,April,183.1
+Rapeseed & Mustard Oil,2020,April,133.0
+Rice,2020,April,156.3
+Safflower,2020,April,155.6
+Sesamum,2020,April,191.6
+Soya oil,2020,April,119.3
+Soybean,2020,April,156.5
+Sugarcane,2020,April,169.5
+Sunflower,2020,April,109.8
+Sunflower oil,2020,April,115.1
+Tobacco,2020,April,113.6
+Tomato,2020,April,146.7
+Tur,2020,April,155.7
+Urad,2020,April,180.6
+Wheat,2020,April,161.2
+Wheat Atta,2020,April,156.3
+Bajra,2021,April,146.6
+Barley,2021,April,150.0
+Castorseed,2021,April,114.9
+Cotton,2021,April,114.9
+Cotton (Meal/Cake),2021,April,186.1
+Cotton Oil,2021,April,170.6
+Gram,2021,April,165.1
+Groundnut,2021,April,167.7
+Groundnut Oil,2021,April,168.4
+Jowar,2021,April,150.5
+Jute,2021,April,289.9
+Lentil,2021,April,171.9
+Linseed,2021,April,186.3
+Maize,2021,April,139.9
+Mesta,2021,April,189.7
+Moong,2021,April,169.7
+Nigerseed,2021,April,233.1
+Onion,2021,April,164.1
+Paddy,2021,April,162.0
+Palm oil,2021,April,195.3
+Peas,2021,April,217.7
+Potato,2021,April,162.3
+Ragi,2021,April,231.8
+Rajma,2021,April,199.8
+Rapeseed & Mustard,2021,April,181.1
+Rapeseed & Mustard (Meal/Cake),2021,April,233.7
+Rapeseed & Mustard Oil,2021,April,197.4
+Rice,2021,April,152.0
+Safflower,2021,April,177.0
+Sesamum,2021,April,178.6
+Soya oil,2021,April,173.0
+Soybean,2021,April,244.6
+Sugarcane,2021,April,196.3
+Sunflower,2021,April,169.8
+Sunflower oil,2021,April,172.4
+Tobacco,2021,April,113.6
+Tomato,2021,April,147.2
+Tur,2021,April,177.4
+Urad,2021,April,195.3
+Wheat,2021,April,156.1
+Wheat Atta,2021,April,145.6
+Bajra,2022,April,205.4
+Barley,2022,April,219.3
+Castorseed,2022,April,137.1
+Cotton,2022,April,209.8
+Cotton (Meal/Cake),2022,April,213.0
+Cotton Oil,2022,April,192.6
+Gram,2022,April,164.8
+Groundnut,2022,April,171.2
+Groundnut Oil,2022,April,177.3
+Jowar,2022,April,161.9
+Jute,2022,April,291.4
+Lentil,2022,April,202.8
+Linseed,2022,April,254.8
+Maize,2022,April,181.1
+Mesta,2022,April,195.4
+Moong,2022,April,167.7
+Nigerseed,2022,April,239.8
+Onion,2022,April,157.5
+Paddy,2022,April,164.4
+Palm oil,2022,April,227.4
+Peas,2022,April,209.6
+Potato,2022,April,194.5
+Ragi,2022,April,233.4
+Rajma,2022,April,246.3
+Rapeseed & Mustard,2022,April,208.3
+Rapeseed & Mustard (Meal/Cake),2022,April,238.1
+Rapeseed & Mustard Oil,2022,April,218.1
+Rice,2022,April,155.0
+Safflower,2022,April,229.6
+Sesamum,2022,April,187.2
+Soya oil,2022,April,201.6
+Soybean,2022,April,311.3
+Sugarcane,2022,April,199.8
+Sunflower,2022,April,198.9
+Sunflower oil,2022,April,181.8
+Tobacco,2022,April,113.6
+Tomato,2022,April,204.0
+Tur,2022,April,176.1
+Urad,2022,April,176.3
+Wheat,2022,April,173.3
+Wheat Atta,2022,April,163.3
+Bajra,2023,April,229.6
+Barley,2023,April,202.8
+Castorseed,2023,April,115.9
+Cotton,2023,April,172.2
+Cotton (Meal/Cake),2023,April,190.3
+Cotton Oil,2023,April,133.7
+Gram,2023,April,169.4
+Groundnut,2023,April,197.8
+Groundnut Oil,2023,April,174.4
+Jowar,2023,April,208.0
+Jute,2023,April,257.1
+Lentil,2023,April,192.1
+Linseed,2023,April,179.6
+Maize,2023,April,189.8
+Mesta,2023,April,156.9
+Moong,2023,April,180.8
+Nigerseed,2023,April,271.8
+Onion,2023,April,128.2
+Paddy,2023,April,176.2
+Palm oil,2023,April,163.7
+Peas,2023,April,195.5
+Potato,2023,April,157.0
+Ragi,2023,April,233.8
+Rajma,2023,April,238.6
+Rapeseed & Mustard,2023,April,171.7
+Rapeseed & Mustard (Meal/Cake),2023,April,197.6
+Rapeseed & Mustard Oil,2023,April,163.1
+Rice,2023,April,172.6
+Safflower,2023,April,181.4
+Sesamum,2023,April,210.3
+Soya oil,2023,April,147.6
+Soybean,2023,April,228.2
+Sugarcane,2023,April,210.1
+Sunflower,2023,April,149.9
+Sunflower oil,2023,April,134.7
+Tobacco,2023,April,113.6
+Tomato,2023,April,173.6
+Tur,2023,April,207.1
+Urad,2023,April,189.0
+Wheat,2023,April,186.4
+Wheat Atta,2023,April,177.2
+Bajra,2024,April,238.0
+Barley,2024,April,188.4
+Castorseed,2024,April,108.6
+Cotton,2024,April,155.4
+Cotton (Meal/Cake),2024,April,185.0
+Cotton Oil,2024,April,126.5
+Gram,2024,April,195.8
+Groundnut,2024,April,187.7
+Groundnut Oil,2024,April,167.7
+Jowar,2024,April,225.8
+Jute,2024,April,232.4
+Lentil,2024,April,186.3
+Linseed,2024,April,177.6
+Maize,2024,April,198.7
+Mesta,2024,April,171.7
+Moong,2024,April,209.6
+Nigerseed,2024,April,295.3
+Onion,2024,April,204.8
+Paddy,2024,April,197.4
+Palm oil,2024,April,156.5
+Peas,2024,April,189.7
+Potato,2024,April,270.0
+Ragi,2024,April,294.5
+Rajma,2024,April,230.6
+Rapeseed & Mustard,2024,April,163.0
+Rapeseed & Mustard (Meal/Cake),2024,April,202.6
+Rapeseed & Mustard Oil,2024,April,153.8
+Rice,2024,April,190.0
+Safflower,2024,April,182.3
+Sesamum,2024,April,233.6
+Soya oil,2024,April,129.7
+Soybean,2024,April,208.0
+Sugarcane,2024,April,217.0
+Sunflower,2024,April,123.6
+Sunflower oil,2024,April,126.8
+Tobacco,2024,April,113.6
+Tomato,2024,April,244.0
+Tur,2024,April,268.3
+Urad,2024,April,223.4
+Wheat,2024,April,197.0
+Wheat Atta,2024,April,185.2
+Bajra,2012,May,109.3
+Barley,2012,May,118.0
+Castorseed,2012,May,78.9
+Cotton,2012,May,92.1
+Cotton (Meal/Cake),2012,May,104.3
+Cotton Oil,2012,May,106.0
+Gram,2012,May,127.5
+Groundnut,2012,May,114.0
+Groundnut Oil,2012,May,121.9
+Jowar,2012,May,98.2
+Jute,2012,May,99.3
+Lentil,2012,May,107.4
+Linseed,2012,May,115.1
+Maize,2012,May,105.5
+Mesta,2012,May,96.9
+Moong,2012,May,96.0
+Nigerseed,2012,May,120.2
+Onion,2012,May,72.0
+Paddy,2012,May,104.2
+Palm oil,2012,May,113.3
+Peas,2012,May,123.1
+Potato,2012,May,155.9
+Ragi,2012,May,110.3
+Rajma,2012,May,138.7
+Rapeseed & Mustard,2012,May,118.4
+Rapeseed & Mustard (Meal/Cake),2012,May,143.5
+Rapeseed & Mustard Oil,2012,May,115.2
+Rice,2012,May,104.9
+Safflower,2012,May,110.9
+Sesamum,2012,May,122.1
+Soya oil,2012,May,109.0
+Soybean,2012,May,139.6
+Sugarcane,2012,May,100.0
+Sunflower,2012,May,101.7
+Sunflower oil,2012,May,102.0
+Tobacco,2012,May,100.0
+Tomato,2012,May,138.3
+Tur,2012,May,99.7
+Urad,2012,May,90.8
+Wheat,2012,May,105.4
+Wheat Atta,2012,May,100.2
+Bajra,2013,May,137.6
+Barley,2013,May,114.7
+Castorseed,2013,May,79.3
+Cotton,2013,May,100.2
+Cotton (Meal/Cake),2013,May,127.7
+Cotton Oil,2013,May,101.4
+Gram,2013,May,117.0
+Groundnut,2013,May,122.2
+Groundnut Oil,2013,May,122.3
+Jowar,2013,May,99.5
+Jute,2013,May,122.7
+Lentil,2013,May,127.1
+Linseed,2013,May,125.9
+Maize,2013,May,120.6
+Mesta,2013,May,120.0
+Moong,2013,May,118.9
+Nigerseed,2013,May,119.6
+Onion,2013,May,141.7
+Paddy,2013,May,121.9
+Palm oil,2013,May,95.3
+Peas,2013,May,139.7
+Potato,2013,May,168.5
+Ragi,2013,May,172.9
+Rajma,2013,May,166.7
+Rapeseed & Mustard,2013,May,117.4
+Rapeseed & Mustard (Meal/Cake),2013,May,147.9
+Rapeseed & Mustard Oil,2013,May,103.8
+Rice,2013,May,127.5
+Safflower,2013,May,115.9
+Sesamum,2013,May,155.2
+Soya oil,2013,May,109.1
+Soybean,2013,May,164.4
+Sugarcane,2013,May,104.9
+Sunflower,2013,May,111.8
+Sunflower oil,2013,May,107.1
+Tobacco,2013,May,104.0
+Tomato,2013,May,162.9
+Tur,2013,May,118.2
+Urad,2013,May,96.3
+Wheat,2013,May,118.9
+Wheat Atta,2013,May,117.4
+Bajra,2014,May,134.6
+Barley,2014,May,120.7
+Castorseed,2014,May,87.7
+Cotton,2014,May,106.1
+Cotton (Meal/Cake),2014,May,133.3
+Cotton Oil,2014,May,104.8
+Gram,2014,May,103.1
+Groundnut,2014,May,103.9
+Groundnut Oil,2014,May,91.5
+Jowar,2014,May,112.8
+Jute,2014,May,133.0
+Lentil,2014,May,145.5
+Linseed,2014,May,126.4
+Maize,2014,May,118.3
+Mesta,2014,May,122.5
+Moong,2014,May,137.8
+Nigerseed,2014,May,116.1
+Onion,2014,May,139.5
+Paddy,2014,May,136.0
+Palm oil,2014,May,109.4
+Peas,2014,May,135.6
+Potato,2014,May,224.0
+Ragi,2014,May,159.2
+Rajma,2014,May,172.6
+Rapeseed & Mustard,2014,May,115.9
+Rapeseed & Mustard (Meal/Cake),2014,May,155.6
+Rapeseed & Mustard Oil,2014,May,106.7
+Rice,2014,May,130.8
+Safflower,2014,May,124.5
+Sesamum,2014,May,140.8
+Soya oil,2014,May,106.6
+Soybean,2014,May,188.5
+Sugarcane,2014,May,124.3
+Sunflower,2014,May,108.8
+Sunflower oil,2014,May,97.4
+Tobacco,2014,May,117.1
+Tomato,2014,May,101.1
+Tur,2014,May,121.0
+Urad,2014,May,115.1
+Wheat,2014,May,120.9
+Wheat Atta,2014,May,124.3
+Bajra,2015,May,126.7
+Barley,2015,May,122.7
+Castorseed,2015,May,92.7
+Cotton,2015,May,93.0
+Cotton (Meal/Cake),2015,May,142.7
+Cotton Oil,2015,May,97.8
+Gram,2015,May,126.4
+Groundnut,2015,May,127.3
+Groundnut Oil,2015,May,107.0
+Jowar,2015,May,117.4
+Jute,2015,May,142.0
+Lentil,2015,May,177.0
+Linseed,2015,May,129.1
+Maize,2015,May,118.9
+Mesta,2015,May,136.8
+Moong,2015,May,155.7
+Nigerseed,2015,May,154.5
+Onion,2015,May,179.9
+Paddy,2015,May,134.2
+Palm oil,2015,May,95.1
+Peas,2015,May,136.9
+Potato,2015,May,105.5
+Ragi,2015,May,159.5
+Rajma,2015,May,156.7
+Rapeseed & Mustard,2015,May,138.6
+Rapeseed & Mustard (Meal/Cake),2015,May,183.8
+Rapeseed & Mustard Oil,2015,May,117.6
+Rice,2015,May,126.4
+Safflower,2015,May,110.1
+Sesamum,2015,May,112.9
+Soya oil,2015,May,98.0
+Soybean,2015,May,166.2
+Sugarcane,2015,May,150.3
+Sunflower,2015,May,110.2
+Sunflower oil,2015,May,99.1
+Tobacco,2015,May,113.6
+Tomato,2015,May,168.7
+Tur,2015,May,157.3
+Urad,2015,May,149.7
+Wheat,2015,May,124.1
+Wheat Atta,2015,May,126.2
+Bajra,2016,May,162.6
+Barley,2016,May,148.7
+Castorseed,2016,May,78.4
+Cotton,2016,May,93.5
+Cotton (Meal/Cake),2016,May,172.0
+Cotton Oil,2016,May,96.1
+Gram,2016,May,172.8
+Groundnut,2016,May,143.4
+Groundnut Oil,2016,May,121.3
+Jowar,2016,May,118.7
+Jute,2016,May,231.5
+Lentil,2016,May,190.2
+Linseed,2016,May,155.2
+Maize,2016,May,135.2
+Mesta,2016,May,172.3
+Moong,2016,May,161.9
+Nigerseed,2016,May,215.9
+Onion,2016,May,117.4
+Paddy,2016,May,139.1
+Palm oil,2016,May,101.4
+Peas,2016,May,146.3
+Potato,2016,May,194.1
+Ragi,2016,May,177.0
+Rajma,2016,May,158.3
+Rapeseed & Mustard,2016,May,147.4
+Rapeseed & Mustard (Meal/Cake),2016,May,236.2
+Rapeseed & Mustard Oil,2016,May,120.4
+Rice,2016,May,136.8
+Safflower,2016,May,115.5
+Sesamum,2016,May,119.6
+Soya oil,2016,May,102.0
+Soybean,2016,May,162.4
+Sugarcane,2016,May,159.7
+Sunflower,2016,May,114.3
+Sunflower oil,2016,May,104.7
+Tobacco,2016,May,113.6
+Tomato,2016,May,179.0
+Tur,2016,May,216.8
+Urad,2016,May,231.0
+Wheat,2016,May,134.5
+Wheat Atta,2016,May,131.7
+Bajra,2017,May,153.2
+Barley,2017,May,137.7
+Castorseed,2017,May,105.6
+Cotton,2017,May,109.4
+Cotton (Meal/Cake),2017,May,157.7
+Cotton Oil,2017,May,96.7
+Gram,2017,May,179.3
+Groundnut,2017,May,136.2
+Groundnut Oil,2017,May,117.5
+Jowar,2017,May,130.5
+Jute,2017,May,163.5
+Lentil,2017,May,148.5
+Linseed,2017,May,161.0
+Maize,2017,May,134.2
+Mesta,2017,May,128.1
+Moong,2017,May,120.1
+Nigerseed,2017,May,204.7
+Onion,2017,May,102.3
+Paddy,2017,May,148.0
+Palm oil,2017,May,104.4
+Peas,2017,May,136.1
+Potato,2017,May,109.0
+Ragi,2017,May,245.0
+Rajma,2017,May,160.0
+Rapeseed & Mustard,2017,May,130.7
+Rapeseed & Mustard (Meal/Cake),2017,May,193.9
+Rapeseed & Mustard Oil,2017,May,117.9
+Rice,2017,May,148.3
+Safflower,2017,May,127.8
+Sesamum,2017,May,116.3
+Soya oil,2017,May,102.6
+Soybean,2017,May,123.4
+Sugarcane,2017,May,167.6
+Sunflower,2017,May,102.6
+Sunflower oil,2017,May,101.8
+Tobacco,2017,May,113.6
+Tomato,2017,May,98.6
+Tur,2017,May,121.6
+Urad,2017,May,145.7
+Wheat,2017,May,137.5
+Wheat Atta,2017,May,138.8
+Bajra,2018,May,128.1
+Barley,2018,May,139.8
+Castorseed,2018,May,95.2
+Cotton,2018,May,105.0
+Cotton (Meal/Cake),2018,May,133.8
+Cotton Oil,2018,May,110.2
+Gram,2018,May,124.3
+Groundnut,2018,May,107.5
+Groundnut Oil,2018,May,103.8
+Jowar,2018,May,117.0
+Jute,2018,May,166.3
+Lentil,2018,May,120.7
+Linseed,2018,May,138.8
+Maize,2018,May,117.6
+Mesta,2018,May,118.3
+Moong,2018,May,113.0
+Nigerseed,2018,May,153.7
+Onion,2018,May,115.8
+Paddy,2018,May,154.2
+Palm oil,2018,May,123.3
+Peas,2018,May,149.9
+Potato,2018,May,205.5
+Ragi,2018,May,211.2
+Rajma,2018,May,132.5
+Rapeseed & Mustard,2018,May,136.9
+Rapeseed & Mustard (Meal/Cake),2018,May,186.0
+Rapeseed & Mustard Oil,2018,May,120.7
+Rice,2018,May,150.9
+Safflower,2018,May,134.6
+Sesamum,2018,May,126.8
+Soya oil,2018,May,112.6
+Soybean,2018,May,155.9
+Sugarcane,2018,May,169.5
+Sunflower,2018,May,98.9
+Sunflower oil,2018,May,108.3
+Tobacco,2018,May,113.6
+Tomato,2018,May,104.6
+Tur,2018,May,115.9
+Urad,2018,May,108.4
+Wheat,2018,May,141.7
+Wheat Atta,2018,May,139.2
+Bajra,2019,May,194.7
+Barley,2019,May,160.9
+Castorseed,2019,May,129.9
+Cotton,2019,May,125.2
+Cotton (Meal/Cake),2019,May,173.9
+Cotton Oil,2019,May,109.1
+Gram,2019,May,146.2
+Groundnut,2019,May,134.5
+Groundnut Oil,2019,May,119.7
+Jowar,2019,May,151.1
+Jute,2019,May,199.8
+Lentil,2019,May,134.9
+Linseed,2019,May,157.3
+Maize,2019,May,171.3
+Mesta,2019,May,132.3
+Moong,2019,May,130.9
+Nigerseed,2019,May,173.1
+Onion,2019,May,134.2
+Paddy,2019,May,157.6
+Palm oil,2019,May,107.9
+Peas,2019,May,185.1
+Potato,2019,May,157.9
+Ragi,2019,May,223.1
+Rajma,2019,May,132.2
+Rapeseed & Mustard,2019,May,139.2
+Rapeseed & Mustard (Meal/Cake),2019,May,186.4
+Rapeseed & Mustard Oil,2019,May,121.2
+Rice,2019,May,151.8
+Safflower,2019,May,178.1
+Sesamum,2019,May,165.6
+Soya oil,2019,May,111.4
+Soybean,2019,May,159.1
+Sugarcane,2019,May,169.5
+Sunflower,2019,May,121.9
+Sunflower oil,2019,May,108.5
+Tobacco,2019,May,113.6
+Tomato,2019,May,287.2
+Tur,2019,May,143.7
+Urad,2019,May,128.5
+Wheat,2019,May,150.7
+Wheat Atta,2019,May,150.5
+Bajra,2020,May,185.0
+Barley,2020,May,166.3
+Castorseed,2020,May,95.4
+Cotton,2020,May,104.4
+Cotton (Meal/Cake),2020,May,155.1
+Cotton Oil,2020,May,116.2
+Gram,2020,May,144.8
+Groundnut,2020,May,157.7
+Groundnut Oil,2020,May,137.9
+Jowar,2020,May,164.7
+Jute,2020,May,210.9
+Lentil,2020,May,150.8
+Linseed,2020,May,169.4
+Maize,2020,May,152.0
+Mesta,2020,May,136.6
+Moong,2020,May,179.7
+Nigerseed,2020,May,160.4
+Onion,2020,May,142.0
+Paddy,2020,May,163.1
+Palm oil,2020,May,125.5
+Peas,2020,May,194.9
+Potato,2020,May,240.9
+Ragi,2020,May,229.6
+Rajma,2020,May,142.9
+Rapeseed & Mustard,2020,May,148.6
+Rapeseed & Mustard (Meal/Cake),2020,May,181.8
+Rapeseed & Mustard Oil,2020,May,138.9
+Rice,2020,May,157.6
+Safflower,2020,May,157.2
+Sesamum,2020,May,193.8
+Soya oil,2020,May,116.4
+Soybean,2020,May,164.1
+Sugarcane,2020,May,169.5
+Sunflower,2020,May,107.6
+Sunflower oil,2020,May,116.3
+Tobacco,2020,May,113.6
+Tomato,2020,May,125.8
+Tur,2020,May,157.0
+Urad,2020,May,187.7
+Wheat,2020,May,161.5
+Wheat Atta,2020,May,152.3
+Bajra,2021,May,149.1
+Barley,2021,May,154.6
+Castorseed,2021,May,116.9
+Cotton,2021,May,116.6
+Cotton (Meal/Cake),2021,May,193.2
+Cotton Oil,2021,May,174.6
+Gram,2021,May,171.5
+Groundnut,2021,May,163.4
+Groundnut Oil,2021,May,167.7
+Jowar,2021,May,148.8
+Jute,2021,May,298.6
+Lentil,2021,May,176.1
+Linseed,2021,May,195.2
+Maize,2021,May,141.5
+Mesta,2021,May,188.9
+Moong,2021,May,169.6
+Nigerseed,2021,May,247.1
+Onion,2021,May,175.0
+Paddy,2021,May,162.2
+Palm oil,2021,May,204.8
+Peas,2021,May,219.0
+Potato,2021,May,178.0
+Ragi,2021,May,233.7
+Rajma,2021,May,200.0
+Rapeseed & Mustard,2021,May,196.0
+Rapeseed & Mustard (Meal/Cake),2021,May,238.7
+Rapeseed & Mustard Oil,2021,May,208.5
+Rice,2021,May,152.1
+Safflower,2021,May,179.8
+Sesamum,2021,May,175.9
+Soya oil,2021,May,183.5
+Soybean,2021,May,276.5
+Sugarcane,2021,May,196.3
+Sunflower,2021,May,176.4
+Sunflower oil,2021,May,175.0
+Tobacco,2021,May,113.6
+Tomato,2021,May,132.2
+Tur,2021,May,179.7
+Urad,2021,May,196.2
+Wheat,2021,May,157.4
+Wheat Atta,2021,May,144.7
+Bajra,2022,May,209.3
+Barley,2022,May,233.4
+Castorseed,2022,May,139.7
+Cotton,2022,May,235.1
+Cotton (Meal/Cake),2022,May,205.2
+Cotton Oil,2022,May,195.4
+Gram,2022,May,162.0
+Groundnut,2022,May,174.3
+Groundnut Oil,2022,May,176.1
+Jowar,2022,May,162.7
+Jute,2022,May,289.0
+Lentil,2022,May,202.5
+Linseed,2022,May,254.2
+Maize,2022,May,182.3
+Mesta,2022,May,205.1
+Moong,2022,May,166.3
+Nigerseed,2022,May,235.4
+Onion,2022,May,139.3
+Paddy,2022,May,165.1
+Palm oil,2022,May,233.2
+Peas,2022,May,223.5
+Potato,2022,May,232.0
+Ragi,2022,May,231.1
+Rajma,2022,May,246.8
+Rapeseed & Mustard,2022,May,210.8
+Rapeseed & Mustard (Meal/Cake),2022,May,204.6
+Rapeseed & Mustard Oil,2022,May,216.1
+Rice,2022,May,156.0
+Safflower,2022,May,212.3
+Sesamum,2022,May,189.1
+Soya oil,2022,May,206.3
+Soybean,2022,May,297.7
+Sugarcane,2022,May,199.8
+Sunflower,2022,May,190.2
+Sunflower oil,2022,May,184.1
+Tobacco,2022,May,113.6
+Tomato,2022,May,421.9
+Tur,2022,May,175.7
+Urad,2022,May,174.3
+Wheat,2022,May,174.1
+Wheat Atta,2022,May,164.2
+Bajra,2023,May,229.4
+Barley,2023,May,187.8
+Castorseed,2023,May,110.8
+Cotton,2023,May,165.9
+Cotton (Meal/Cake),2023,May,187.7
+Cotton Oil,2023,May,123.8
+Gram,2023,May,167.0
+Groundnut,2023,May,196.8
+Groundnut Oil,2023,May,172.4
+Jowar,2023,May,209.2
+Jute,2023,May,254.9
+Lentil,2023,May,188.1
+Linseed,2023,May,175.4
+Maize,2023,May,184.5
+Mesta,2023,May,155.4
+Moong,2023,May,178.6
+Nigerseed,2023,May,276.0
+Onion,2023,May,129.2
+Paddy,2023,May,177.2
+Palm oil,2023,May,159.8
+Peas,2023,May,199.5
+Potato,2023,May,190.0
+Ragi,2023,May,237.0
+Rajma,2023,May,238.2
+Rapeseed & Mustard,2023,May,167.5
+Rapeseed & Mustard (Meal/Cake),2023,May,197.6
+Rapeseed & Mustard Oil,2023,May,152.4
+Rice,2023,May,172.5
+Safflower,2023,May,175.6
+Sesamum,2023,May,208.4
+Soya oil,2023,May,137.0
+Soybean,2023,May,224.8
+Sugarcane,2023,May,210.1
+Sunflower,2023,May,141.8
+Sunflower oil,2023,May,128.5
+Tobacco,2023,May,113.6
+Tomato,2023,May,159.8
+Tur,2023,May,211.6
+Urad,2023,May,185.3
+Wheat,2023,May,184.9
+Wheat Atta,2023,May,176.2
+Bajra,2024,May,240.4
+Barley,2024,May,191.3
+Castorseed,2024,May,106.8
+Cotton,2024,May,149.9
+Cotton (Meal/Cake),2024,May,188.3
+Cotton Oil,2024,May,127.4
+Gram,2024,May,202.0
+Groundnut,2024,May,189.9
+Groundnut Oil,2024,May,167.9
+Jowar,2024,May,221.3
+Jute,2024,May,235.7
+Lentil,2024,May,185.8
+Linseed,2024,May,181.2
+Maize,2024,May,200.9
+Mesta,2024,May,170.8
+Moong,2024,May,210.3
+Nigerseed,2024,May,290.3
+Onion,2024,May,204.2
+Paddy,2024,May,198.1
+Palm oil,2024,May,155.7
+Peas,2024,May,208.5
+Potato,2024,May,311.7
+Ragi,2024,May,300.4
+Rajma,2024,May,231.8
+Rapeseed & Mustard,2024,May,164.3
+Rapeseed & Mustard (Meal/Cake),2024,May,210.4
+Rapeseed & Mustard Oil,2024,May,159.1
+Rice,2024,May,192.2
+Safflower,2024,May,169.9
+Sesamum,2024,May,232.3
+Soya oil,2024,May,129.4
+Soybean,2024,May,205.6
+Sugarcane,2024,May,217.0
+Sunflower,2024,May,120.4
+Sunflower oil,2024,May,127.6
+Tobacco,2024,May,113.6
+Tomato,2024,May,262.8
+Tur,2024,May,291.6
+Urad,2024,May,227.8
+Wheat,2024,May,196.0
+Wheat Atta,2024,May,185.4
+Bajra,2012,June,107.0
+Barley,2012,June,111.2
+Castorseed,2012,June,79.7
+Cotton,2012,June,92.7
+Cotton (Meal/Cake),2012,June,105.8
+Cotton Oil,2012,June,106.3
+Gram,2012,June,130.7
+Groundnut,2012,June,113.9
+Groundnut Oil,2012,June,121.1
+Jowar,2012,June,97.0
+Jute,2012,June,104.0
+Lentil,2012,June,109.7
+Linseed,2012,June,114.8
+Maize,2012,June,107.2
+Mesta,2012,June,97.9
+Moong,2012,June,96.6
+Nigerseed,2012,June,124.4
+Onion,2012,June,80.1
+Paddy,2012,June,107.0
+Palm oil,2012,June,112.4
+Peas,2012,June,134.3
+Potato,2012,June,186.5
+Ragi,2012,June,108.9
+Rajma,2012,June,146.9
+Rapeseed & Mustard,2012,June,119.3
+Rapeseed & Mustard (Meal/Cake),2012,June,145.1
+Rapeseed & Mustard Oil,2012,June,115.1
+Rice,2012,June,107.9
+Safflower,2012,June,112.7
+Sesamum,2012,June,120.4
+Soya oil,2012,June,107.1
+Soybean,2012,June,144.8
+Sugarcane,2012,June,103.9
+Sunflower,2012,June,104.8
+Sunflower oil,2012,June,101.0
+Tobacco,2012,June,100.0
+Tomato,2012,June,144.8
+Tur,2012,June,101.6
+Urad,2012,June,92.1
+Wheat,2012,June,104.4
+Wheat Atta,2012,June,101.7
+Bajra,2013,June,136.9
+Barley,2013,June,115.8
+Castorseed,2013,June,80.1
+Cotton,2013,June,105.7
+Cotton (Meal/Cake),2013,June,130.6
+Cotton Oil,2013,June,102.6
+Gram,2013,June,113.6
+Groundnut,2013,June,115.8
+Groundnut Oil,2013,June,116.4
+Jowar,2013,June,97.7
+Jute,2013,June,119.3
+Lentil,2013,June,130.6
+Linseed,2013,June,125.6
+Maize,2013,June,126.1
+Mesta,2013,June,117.4
+Moong,2013,June,119.0
+Nigerseed,2013,June,117.4
+Onion,2013,June,190.8
+Paddy,2013,June,124.9
+Palm oil,2013,June,97.2
+Peas,2013,June,153.1
+Potato,2013,June,176.9
+Ragi,2013,June,170.4
+Rajma,2013,June,167.2
+Rapeseed & Mustard,2013,June,117.4
+Rapeseed & Mustard (Meal/Cake),2013,June,146.5
+Rapeseed & Mustard Oil,2013,June,103.7
+Rice,2013,June,128.5
+Safflower,2013,June,118.9
+Sesamum,2013,June,155.0
+Soya oil,2013,June,107.5
+Soybean,2013,June,156.7
+Sugarcane,2013,June,104.9
+Sunflower,2013,June,118.0
+Sunflower oil,2013,June,110.5
+Tobacco,2013,June,105.8
+Tomato,2013,June,186.1
+Tur,2013,June,117.7
+Urad,2013,June,95.2
+Wheat,2013,June,121.9
+Wheat Atta,2013,June,123.8
+Bajra,2014,June,132.5
+Barley,2014,June,118.2
+Castorseed,2014,June,93.0
+Cotton,2014,June,108.2
+Cotton (Meal/Cake),2014,June,134.5
+Cotton Oil,2014,June,103.7
+Gram,2014,June,99.6
+Groundnut,2014,June,102.5
+Groundnut Oil,2014,June,90.5
+Jowar,2014,June,113.9
+Jute,2014,June,134.1
+Lentil,2014,June,146.2
+Linseed,2014,June,125.2
+Maize,2014,June,119.8
+Mesta,2014,June,122.9
+Moong,2014,June,136.8
+Nigerseed,2014,June,119.2
+Onion,2014,June,185.0
+Paddy,2014,June,137.2
+Palm oil,2014,June,105.8
+Peas,2014,June,139.8
+Potato,2014,June,248.5
+Ragi,2014,June,157.6
+Rajma,2014,June,172.5
+Rapeseed & Mustard,2014,June,117.7
+Rapeseed & Mustard (Meal/Cake),2014,June,151.9
+Rapeseed & Mustard Oil,2014,June,105.9
+Rice,2014,June,129.5
+Safflower,2014,June,93.2
+Sesamum,2014,June,138.7
+Soya oil,2014,June,105.1
+Soybean,2014,June,175.5
+Sugarcane,2014,June,124.3
+Sunflower,2014,June,111.1
+Sunflower oil,2014,June,96.9
+Tobacco,2014,June,112.2
+Tomato,2014,June,108.3
+Tur,2014,June,120.1
+Urad,2014,June,116.5
+Wheat,2014,June,120.4
+Wheat Atta,2014,June,125.4
+Bajra,2015,June,125.2
+Barley,2015,June,120.7
+Castorseed,2015,June,94.4
+Cotton,2015,June,91.8
+Cotton (Meal/Cake),2015,June,144.6
+Cotton Oil,2015,June,98.7
+Gram,2015,June,135.0
+Groundnut,2015,June,135.7
+Groundnut Oil,2015,June,109.8
+Jowar,2015,June,115.7
+Jute,2015,June,159.7
+Lentil,2015,June,186.3
+Linseed,2015,June,129.7
+Maize,2015,June,118.3
+Mesta,2015,June,138.2
+Moong,2015,June,170.2
+Nigerseed,2015,June,192.6
+Onion,2015,June,204.2
+Paddy,2015,June,133.6
+Palm oil,2015,June,95.2
+Peas,2015,June,150.0
+Potato,2015,June,118.4
+Ragi,2015,June,158.7
+Rajma,2015,June,157.0
+Rapeseed & Mustard,2015,June,143.0
+Rapeseed & Mustard (Meal/Cake),2015,June,181.7
+Rapeseed & Mustard Oil,2015,June,123.5
+Rice,2015,June,127.4
+Safflower,2015,June,108.1
+Sesamum,2015,June,116.1
+Soya oil,2015,June,97.0
+Soybean,2015,June,155.6
+Sugarcane,2015,June,150.3
+Sunflower,2015,June,109.4
+Sunflower oil,2015,June,99.6
+Tobacco,2015,June,113.6
+Tomato,2015,June,196.0
+Tur,2015,June,173.7
+Urad,2015,June,160.4
+Wheat,2015,June,122.3
+Wheat Atta,2015,June,125.7
+Bajra,2016,June,158.7
+Barley,2016,June,151.8
+Castorseed,2016,June,78.4
+Cotton,2016,June,104.5
+Cotton (Meal/Cake),2016,June,173.8
+Cotton Oil,2016,June,97.4
+Gram,2016,June,188.5
+Groundnut,2016,June,146.1
+Groundnut Oil,2016,June,123.0
+Jowar,2016,June,120.9
+Jute,2016,June,251.0
+Lentil,2016,June,191.0
+Linseed,2016,June,166.1
+Maize,2016,June,136.6
+Mesta,2016,June,170.7
+Moong,2016,June,155.4
+Nigerseed,2016,June,210.6
+Onion,2016,June,123.5
+Paddy,2016,June,142.2
+Palm oil,2016,June,101.1
+Peas,2016,June,158.2
+Potato,2016,June,214.3
+Ragi,2016,June,169.3
+Rajma,2016,June,158.4
+Rapeseed & Mustard,2016,June,150.8
+Rapeseed & Mustard (Meal/Cake),2016,June,240.8
+Rapeseed & Mustard Oil,2016,June,120.4
+Rice,2016,June,140.2
+Safflower,2016,June,111.8
+Sesamum,2016,June,117.2
+Soya oil,2016,June,101.8
+Soybean,2016,June,165.1
+Sugarcane,2016,June,159.7
+Sunflower,2016,June,112.7
+Sunflower oil,2016,June,104.0
+Tobacco,2016,June,113.6
+Tomato,2016,June,209.4
+Tur,2016,June,217.2
+Urad,2016,June,247.6
+Wheat,2016,June,136.5
+Wheat Atta,2016,June,136.0
+Bajra,2017,June,149.7
+Barley,2017,June,138.1
+Castorseed,2017,June,102.0
+Cotton,2017,June,110.7
+Cotton (Meal/Cake),2017,June,153.9
+Cotton Oil,2017,June,97.9
+Gram,2017,June,174.0
+Groundnut,2017,June,133.2
+Groundnut Oil,2017,June,111.6
+Jowar,2017,June,126.9
+Jute,2017,June,163.3
+Lentil,2017,June,144.5
+Linseed,2017,June,159.6
+Maize,2017,June,132.6
+Mesta,2017,June,128.6
+Moong,2017,June,116.8
+Nigerseed,2017,June,206.7
+Onion,2017,June,111.8
+Paddy,2017,June,148.4
+Palm oil,2017,June,104.5
+Peas,2017,June,130.2
+Potato,2017,June,112.5
+Ragi,2017,June,237.5
+Rajma,2017,June,157.5
+Rapeseed & Mustard,2017,June,129.9
+Rapeseed & Mustard (Meal/Cake),2017,June,188.2
+Rapeseed & Mustard Oil,2017,June,115.9
+Rice,2017,June,148.9
+Safflower,2017,June,129.3
+Sesamum,2017,June,114.3
+Soya oil,2017,June,103.4
+Soybean,2017,June,121.2
+Sugarcane,2017,June,167.6
+Sunflower,2017,June,98.3
+Sunflower oil,2017,June,101.4
+Tobacco,2017,June,113.6
+Tomato,2017,June,147.8
+Tur,2017,June,118.3
+Urad,2017,June,140.8
+Wheat,2017,June,136.1
+Wheat Atta,2017,June,136.1
+Bajra,2018,June,129.5
+Barley,2018,June,141.7
+Castorseed,2018,June,96.2
+Cotton,2018,June,116.7
+Cotton (Meal/Cake),2018,June,139.5
+Cotton Oil,2018,June,110.4
+Gram,2018,June,121.6
+Groundnut,2018,June,109.7
+Groundnut Oil,2018,June,103.4
+Jowar,2018,June,119.3
+Jute,2018,June,166.9
+Lentil,2018,June,117.8
+Linseed,2018,June,141.0
+Maize,2018,June,121.5
+Mesta,2018,June,120.1
+Moong,2018,June,112.4
+Nigerseed,2018,June,141.7
+Onion,2018,June,135.3
+Paddy,2018,June,153.9
+Palm oil,2018,June,124.3
+Peas,2018,June,150.5
+Potato,2018,June,224.6
+Ragi,2018,June,208.3
+Rajma,2018,June,132.2
+Rapeseed & Mustard,2018,June,137.4
+Rapeseed & Mustard (Meal/Cake),2018,June,184.2
+Rapeseed & Mustard Oil,2018,June,122.3
+Rice,2018,June,150.5
+Safflower,2018,June,137.8
+Sesamum,2018,June,128.1
+Soya oil,2018,June,111.6
+Soybean,2018,June,153.1
+Sugarcane,2018,June,169.5
+Sunflower,2018,June,101.3
+Sunflower oil,2018,June,109.2
+Tobacco,2018,June,113.6
+Tomato,2018,June,147.2
+Tur,2018,June,113.2
+Urad,2018,June,105.9
+Wheat,2018,June,143.1
+Wheat Atta,2018,June,139.8
+Bajra,2019,June,195.3
+Barley,2019,June,167.0
+Castorseed,2019,June,127.4
+Cotton,2019,June,124.9
+Cotton (Meal/Cake),2019,June,177.3
+Cotton Oil,2019,June,110.1
+Gram,2019,June,146.5
+Groundnut,2019,June,140.3
+Groundnut Oil,2019,June,118.0
+Jowar,2019,June,151.2
+Jute,2019,June,197.2
+Lentil,2019,June,137.1
+Linseed,2019,June,155.4
+Maize,2019,June,174.0
+Mesta,2019,June,135.3
+Moong,2019,June,135.6
+Nigerseed,2019,June,170.7
+Onion,2019,June,157.8
+Paddy,2019,June,158.4
+Palm oil,2019,June,106.5
+Peas,2019,June,189.9
+Potato,2019,June,170.1
+Ragi,2019,June,220.3
+Rajma,2019,June,133.0
+Rapeseed & Mustard,2019,June,141.5
+Rapeseed & Mustard (Meal/Cake),2019,June,188.6
+Rapeseed & Mustard Oil,2019,June,122.0
+Rice,2019,June,153.6
+Safflower,2019,June,183.0
+Sesamum,2019,June,160.7
+Soya oil,2019,June,111.5
+Soybean,2019,June,161.8
+Sugarcane,2019,June,169.5
+Sunflower,2019,June,120.9
+Sunflower oil,2019,June,109.4
+Tobacco,2019,June,113.6
+Tomato,2019,June,318.9
+Tur,2019,June,149.5
+Urad,2019,June,132.1
+Wheat,2019,June,150.8
+Wheat Atta,2019,June,151.2
+Bajra,2020,June,176.1
+Barley,2020,June,157.4
+Castorseed,2020,June,98.0
+Cotton,2020,June,106.1
+Cotton (Meal/Cake),2020,June,160.1
+Cotton Oil,2020,June,117.1
+Gram,2020,June,143.8
+Groundnut,2020,June,158.8
+Groundnut Oil,2020,June,137.6
+Jowar,2020,June,161.3
+Jute,2020,June,206.6
+Lentil,2020,June,155.1
+Linseed,2020,June,168.1
+Maize,2020,June,148.4
+Mesta,2020,June,136.2
+Moong,2020,June,176.1
+Nigerseed,2020,June,153.1
+Onion,2020,June,133.7
+Paddy,2020,June,165.6
+Palm oil,2020,June,129.8
+Peas,2020,June,199.6
+Potato,2020,June,265.7
+Ragi,2020,June,228.2
+Rajma,2020,June,145.5
+Rapeseed & Mustard,2020,June,151.9
+Rapeseed & Mustard (Meal/Cake),2020,June,181.2
+Rapeseed & Mustard Oil,2020,June,145.7
+Rice,2020,June,157.4
+Safflower,2020,June,160.2
+Sesamum,2020,June,194.0
+Soya oil,2020,June,115.3
+Soybean,2020,June,164.1
+Sugarcane,2020,June,169.5
+Sunflower,2020,June,115.1
+Sunflower oil,2020,June,119.2
+Tobacco,2020,June,113.6
+Tomato,2020,June,173.5
+Tur,2020,June,158.6
+Urad,2020,June,184.0
+Wheat,2020,June,158.5
+Wheat Atta,2020,June,149.2
+Bajra,2021,June,150.1
+Barley,2021,June,156.0
+Castorseed,2021,June,116.5
+Cotton,2021,June,125.6
+Cotton (Meal/Cake),2021,June,203.8
+Cotton Oil,2021,June,172.6
+Gram,2021,June,169.5
+Groundnut,2021,June,163.3
+Groundnut Oil,2021,June,158.3
+Jowar,2021,June,144.7
+Jute,2021,June,309.3
+Lentil,2021,June,179.6
+Linseed,2021,June,189.5
+Maize,2021,June,142.6
+Mesta,2021,June,185.9
+Moong,2021,June,167.4
+Nigerseed,2021,June,249.0
+Onion,2021,June,219.7
+Paddy,2021,June,161.7
+Palm oil,2021,June,194.3
+Peas,2021,June,216.5
+Potato,2021,June,183.1
+Ragi,2021,June,235.2
+Rajma,2021,June,201.9
+Rapeseed & Mustard,2021,June,200.2
+Rapeseed & Mustard (Meal/Cake),2021,June,234.8
+Rapeseed & Mustard Oil,2021,June,204.7
+Rice,2021,June,153.9
+Safflower,2021,June,181.8
+Sesamum,2021,June,179.0
+Soya oil,2021,June,180.9
+Soybean,2021,June,282.6
+Sugarcane,2021,June,196.3
+Sunflower,2021,June,160.2
+Sunflower oil,2021,June,162.8
+Tobacco,2021,June,113.6
+Tomato,2021,June,145.2
+Tur,2021,June,178.8
+Urad,2021,June,194.2
+Wheat,2021,June,155.7
+Wheat Atta,2021,June,143.7
+Bajra,2022,June,207.0
+Barley,2022,June,234.9
+Castorseed,2022,June,140.9
+Cotton,2022,June,226.2
+Cotton (Meal/Cake),2022,June,200.6
+Cotton Oil,2022,June,191.2
+Gram,2022,June,161.3
+Groundnut,2022,June,171.0
+Groundnut Oil,2022,June,176.9
+Jowar,2022,June,161.7
+Jute,2022,June,283.8
+Lentil,2022,June,200.6
+Linseed,2022,June,239.6
+Maize,2022,June,178.3
+Mesta,2022,June,206.9
+Moong,2022,June,165.1
+Nigerseed,2022,June,234.2
+Onion,2022,June,150.9
+Paddy,2022,June,165.5
+Palm oil,2022,June,220.0
+Peas,2022,June,220.6
+Potato,2022,June,259.1
+Ragi,2022,June,225.9
+Rajma,2022,June,245.0
+Rapeseed & Mustard,2022,June,206.0
+Rapeseed & Mustard (Meal/Cake),2022,June,202.7
+Rapeseed & Mustard Oil,2022,June,210.2
+Rice,2022,June,158.3
+Safflower,2022,June,195.1
+Sesamum,2022,June,184.6
+Soya oil,2022,June,198.6
+Soybean,2022,June,287.5
+Sugarcane,2022,June,199.8
+Sunflower,2022,June,187.7
+Sunflower oil,2022,June,180.9
+Tobacco,2022,June,113.6
+Tomato,2022,June,553.3
+Tur,2022,June,174.2
+Urad,2022,June,175.3
+Wheat,2022,June,171.8
+Wheat Atta,2022,June,163.2
+Bajra,2023,June,226.7
+Barley,2023,June,191.6
+Castorseed,2023,June,106.5
+Cotton,2023,June,161.7
+Cotton (Meal/Cake),2023,June,184.4
+Cotton Oil,2023,June,122.9
+Gram,2023,June,166.5
+Groundnut,2023,June,200.1
+Groundnut Oil,2023,June,171.6
+Jowar,2023,June,219.6
+Jute,2023,June,245.5
+Lentil,2023,June,187.7
+Linseed,2023,June,177.0
+Maize,2023,June,181.9
+Mesta,2023,June,158.0
+Moong,2023,June,184.8
+Nigerseed,2023,June,280.4
+Onion,2023,June,144.4
+Paddy,2023,June,178.2
+Palm oil,2023,June,153.0
+Peas,2023,June,196.0
+Potato,2023,June,204.3
+Ragi,2023,June,237.1
+Rajma,2023,June,241.8
+Rapeseed & Mustard,2023,June,162.0
+Rapeseed & Mustard (Meal/Cake),2023,June,200.7
+Rapeseed & Mustard Oil,2023,June,150.3
+Rice,2023,June,174.3
+Safflower,2023,June,176.8
+Sesamum,2023,June,219.0
+Soya oil,2023,June,129.9
+Soybean,2023,June,221.5
+Sugarcane,2023,June,210.1
+Sunflower,2023,June,137.1
+Sunflower oil,2023,June,126.2
+Tobacco,2023,June,113.6
+Tomato,2023,June,249.4
+Tur,2023,June,226.3
+Urad,2023,June,196.5
+Wheat,2023,June,187.3
+Wheat Atta,2023,June,178.6
+Bajra,2024,June,239.6
+Barley,2024,June,197.8
+Castorseed,2024,June,107.2
+Cotton,2024,June,150.6
+Cotton (Meal/Cake),2024,June,192.4
+Cotton Oil,2024,June,127.6
+Gram,2024,June,209.8
+Groundnut,2024,June,185.5
+Groundnut Oil,2024,June,166.6
+Jowar,2024,June,219.6
+Jute,2024,June,238.0
+Lentil,2024,June,189.1
+Linseed,2024,June,187.7
+Maize,2024,June,202.7
+Mesta,2024,June,172.1
+Moong,2024,June,202.8
+Nigerseed,2024,June,288.5
+Onion,2024,June,279.2
+Paddy,2024,June,199.7
+Palm oil,2024,June,153.7
+Peas,2024,June,214.8
+Potato,2024,June,339.9
+Ragi,2024,June,303.5
+Rajma,2024,June,237.9
+Rapeseed & Mustard,2024,June,172.0
+Rapeseed & Mustard (Meal/Cake),2024,June,216.6
+Rapeseed & Mustard Oil,2024,June,170.6
+Rice,2024,June,194.2
+Safflower,2024,June,175.0
+Sesamum,2024,June,232.5
+Soya oil,2024,June,131.0
+Soybean,2024,June,205.2
+Sugarcane,2024,June,217.0
+Sunflower,2024,June,121.5
+Sunflower oil,2024,June,128.6
+Tobacco,2024,June,113.6
+Tomato,2024,June,393.6
+Tur,2024,June,303.5
+Urad,2024,June,227.9
+Wheat,2024,June,199.0
+Wheat Atta,2024,June,187.4
+Bajra,2012,July,113.9
+Barley,2012,July,113.2
+Castorseed,2012,July,87.6
+Cotton,2012,July,102.0
+Cotton (Meal/Cake),2012,July,115.5
+Cotton Oil,2012,July,110.1
+Gram,2012,July,143.7
+Groundnut,2012,July,116.7
+Groundnut Oil,2012,July,120.7
+Jowar,2012,July,93.7
+Jute,2012,July,111.6
+Lentil,2012,July,115.2
+Linseed,2012,July,117.7
+Maize,2012,July,111.3
+Mesta,2012,July,104.8
+Moong,2012,July,103.6
+Nigerseed,2012,July,114.0
+Onion,2012,July,94.1
+Paddy,2012,July,111.0
+Palm oil,2012,July,112.5
+Peas,2012,July,147.4
+Potato,2012,July,194.6
+Ragi,2012,July,115.6
+Rajma,2012,July,151.2
+Rapeseed & Mustard,2012,July,129.5
+Rapeseed & Mustard (Meal/Cake),2012,July,159.1
+Rapeseed & Mustard Oil,2012,July,118.8
+Rice,2012,July,108.9
+Safflower,2012,July,116.1
+Sesamum,2012,July,125.6
+Soya oil,2012,July,113.5
+Soybean,2012,July,182.7
+Sugarcane,2012,July,101.2
+Sunflower,2012,July,112.8
+Sunflower oil,2012,July,105.5
+Tobacco,2012,July,100.0
+Tomato,2012,July,182.3
+Tur,2012,July,108.6
+Urad,2012,July,97.9
+Wheat,2012,July,105.8
+Wheat Atta,2012,July,106.2
+Bajra,2013,July,135.3
+Barley,2013,July,115.8
+Castorseed,2013,July,80.3
+Cotton,2013,July,111.6
+Cotton (Meal/Cake),2013,July,130.9
+Cotton Oil,2013,July,102.9
+Gram,2013,July,110.0
+Groundnut,2013,July,110.3
+Groundnut Oil,2013,July,109.0
+Jowar,2013,July,99.5
+Jute,2013,July,117.7
+Lentil,2013,July,131.5
+Linseed,2013,July,127.7
+Maize,2013,July,127.6
+Mesta,2013,July,118.1
+Moong,2013,July,118.0
+Nigerseed,2013,July,117.1
+Onion,2013,July,279.0
+Paddy,2013,July,129.4
+Palm oil,2013,July,99.6
+Peas,2013,July,151.7
+Potato,2013,July,181.1
+Ragi,2013,July,174.2
+Rajma,2013,July,171.6
+Rapeseed & Mustard,2013,July,116.5
+Rapeseed & Mustard (Meal/Cake),2013,July,144.4
+Rapeseed & Mustard Oil,2013,July,102.5
+Rice,2013,July,129.1
+Safflower,2013,July,118.9
+Sesamum,2013,July,157.2
+Soya oil,2013,July,108.3
+Soybean,2013,July,153.5
+Sugarcane,2013,July,104.9
+Sunflower,2013,July,112.3
+Sunflower oil,2013,July,108.2
+Tobacco,2013,July,104.0
+Tomato,2013,July,158.3
+Tur,2013,July,116.5
+Urad,2013,July,96.6
+Wheat,2013,July,122.3
+Wheat Atta,2013,July,124.6
+Bajra,2014,July,134.4
+Barley,2014,July,120.1
+Castorseed,2014,July,94.2
+Cotton,2014,July,106.4
+Cotton (Meal/Cake),2014,July,141.0
+Cotton Oil,2014,July,104.9
+Gram,2014,July,97.8
+Groundnut,2014,July,103.5
+Groundnut Oil,2014,July,92.1
+Jowar,2014,July,120.7
+Jute,2014,July,128.6
+Lentil,2014,July,147.9
+Linseed,2014,July,124.9
+Maize,2014,July,124.6
+Mesta,2014,July,124.2
+Moong,2014,July,142.5
+Nigerseed,2014,July,120.9
+Onion,2014,July,243.4
+Paddy,2014,July,139.6
+Palm oil,2014,July,106.1
+Peas,2014,July,145.7
+Potato,2014,July,265.9
+Ragi,2014,July,159.6
+Rajma,2014,July,173.0
+Rapeseed & Mustard,2014,July,121.1
+Rapeseed & Mustard (Meal/Cake),2014,July,148.7
+Rapeseed & Mustard Oil,2014,July,106.7
+Rice,2014,July,131.9
+Safflower,2014,July,94.8
+Sesamum,2014,July,138.5
+Soya oil,2014,July,104.8
+Soybean,2014,July,175.9
+Sugarcane,2014,July,124.3
+Sunflower,2014,July,106.6
+Sunflower oil,2014,July,96.3
+Tobacco,2014,July,112.9
+Tomato,2014,July,248.3
+Tur,2014,July,122.2
+Urad,2014,July,122.3
+Wheat,2014,July,121.9
+Wheat Atta,2014,July,128.0
+Bajra,2015,July,124.3
+Barley,2015,July,121.9
+Castorseed,2015,July,94.1
+Cotton,2015,July,91.5
+Cotton (Meal/Cake),2015,July,146.3
+Cotton Oil,2015,July,98.5
+Gram,2015,July,137.9
+Groundnut,2015,July,133.1
+Groundnut Oil,2015,July,111.4
+Jowar,2015,July,110.7
+Jute,2015,July,161.9
+Lentil,2015,July,188.4
+Linseed,2015,July,130.7
+Maize,2015,July,119.9
+Mesta,2015,July,138.6
+Moong,2015,July,165.3
+Nigerseed,2015,July,220.3
+Onion,2015,July,275.5
+Paddy,2015,July,133.4
+Palm oil,2015,July,95.0
+Peas,2015,July,142.1
+Potato,2015,July,130.6
+Ragi,2015,July,156.1
+Rajma,2015,July,155.0
+Rapeseed & Mustard,2015,July,143.8
+Rapeseed & Mustard (Meal/Cake),2015,July,181.0
+Rapeseed & Mustard Oil,2015,July,125.5
+Rice,2015,July,127.0
+Safflower,2015,July,105.8
+Sesamum,2015,July,116.1
+Soya oil,2015,July,98.0
+Soybean,2015,July,147.1
+Sugarcane,2015,July,150.3
+Sunflower,2015,July,109.0
+Sunflower oil,2015,July,99.3
+Tobacco,2015,July,113.6
+Tomato,2015,July,164.1
+Tur,2015,July,174.8
+Urad,2015,July,162.8
+Wheat,2015,July,124.8
+Wheat Atta,2015,July,127.1
+Bajra,2016,July,159.6
+Barley,2016,July,154.2
+Castorseed,2016,July,83.6
+Cotton,2016,July,116.4
+Cotton (Meal/Cake),2016,July,176.9
+Cotton Oil,2016,July,100.1
+Gram,2016,July,227.1
+Groundnut,2016,July,150.0
+Groundnut Oil,2016,July,124.9
+Jowar,2016,July,120.1
+Jute,2016,July,242.9
+Lentil,2016,July,190.7
+Linseed,2016,July,171.5
+Maize,2016,July,142.2
+Mesta,2016,July,168.1
+Moong,2016,July,150.4
+Nigerseed,2016,July,212.8
+Onion,2016,July,129.5
+Paddy,2016,July,144.2
+Palm oil,2016,July,99.5
+Peas,2016,July,156.6
+Potato,2016,July,230.4
+Ragi,2016,July,169.3
+Rajma,2016,July,159.5
+Rapeseed & Mustard,2016,July,155.0
+Rapeseed & Mustard (Meal/Cake),2016,July,244.9
+Rapeseed & Mustard Oil,2016,July,128.1
+Rice,2016,July,143.7
+Safflower,2016,July,111.4
+Sesamum,2016,July,116.0
+Soya oil,2016,July,102.4
+Soybean,2016,July,158.7
+Sugarcane,2016,July,159.7
+Sunflower,2016,July,112.5
+Sunflower oil,2016,July,104.0
+Tobacco,2016,July,113.6
+Tomato,2016,July,147.5
+Tur,2016,July,215.1
+Urad,2016,July,243.7
+Wheat,2016,July,137.9
+Wheat Atta,2016,July,137.8
+Bajra,2017,July,145.4
+Barley,2017,July,139.3
+Castorseed,2017,July,102.6
+Cotton,2017,July,110.7
+Cotton (Meal/Cake),2017,July,151.3
+Cotton Oil,2017,July,100.1
+Gram,2017,July,176.0
+Groundnut,2017,July,127.6
+Groundnut Oil,2017,July,109.9
+Jowar,2017,July,126.3
+Jute,2017,July,158.1
+Lentil,2017,July,137.5
+Linseed,2017,July,160.0
+Maize,2017,July,129.2
+Mesta,2017,July,129.9
+Moong,2017,July,113.0
+Nigerseed,2017,July,207.2
+Onion,2017,July,117.2
+Paddy,2017,July,149.1
+Palm oil,2017,July,104.4
+Peas,2017,July,137.6
+Potato,2017,July,132.6
+Ragi,2017,July,247.0
+Rajma,2017,July,157.9
+Rapeseed & Mustard,2017,July,131.0
+Rapeseed & Mustard (Meal/Cake),2017,July,175.5
+Rapeseed & Mustard Oil,2017,July,113.5
+Rice,2017,July,150.2
+Safflower,2017,July,134.1
+Sesamum,2017,July,113.2
+Soya oil,2017,July,103.1
+Soybean,2017,July,121.6
+Sugarcane,2017,July,167.6
+Sunflower,2017,July,96.8
+Sunflower oil,2017,July,102.4
+Tobacco,2017,July,113.6
+Tomato,2017,July,456.6
+Tur,2017,July,114.1
+Urad,2017,July,134.1
+Wheat,2017,July,136.3
+Wheat Atta,2017,July,137.0
+Bajra,2018,July,132.9
+Barley,2018,July,141.0
+Castorseed,2018,July,102.5
+Cotton,2018,July,121.9
+Cotton (Meal/Cake),2018,July,147.5
+Cotton Oil,2018,July,112.0
+Gram,2018,July,128.3
+Groundnut,2018,July,112.4
+Groundnut Oil,2018,July,105.0
+Jowar,2018,July,119.6
+Jute,2018,July,170.2
+Lentil,2018,July,117.9
+Linseed,2018,July,143.4
+Maize,2018,July,121.6
+Mesta,2018,July,122.1
+Moong,2018,July,115.0
+Nigerseed,2018,July,132.8
+Onion,2018,July,169.0
+Paddy,2018,July,155.0
+Palm oil,2018,July,121.6
+Peas,2018,July,154.0
+Potato,2018,July,232.3
+Ragi,2018,July,206.6
+Rajma,2018,July,132.3
+Rapeseed & Mustard,2018,July,140.8
+Rapeseed & Mustard (Meal/Cake),2018,July,181.8
+Rapeseed & Mustard Oil,2018,July,127.0
+Rice,2018,July,148.5
+Safflower,2018,July,134.8
+Sesamum,2018,July,130.0
+Soya oil,2018,July,112.0
+Soybean,2018,July,150.1
+Sugarcane,2018,July,169.5
+Sunflower,2018,July,104.8
+Sunflower oil,2018,July,109.8
+Tobacco,2018,July,113.6
+Tomato,2018,July,232.3
+Tur,2018,July,111.2
+Urad,2018,July,106.9
+Wheat,2018,July,145.0
+Wheat Atta,2018,July,143.6
+Bajra,2019,July,199.6
+Barley,2019,July,169.0
+Castorseed,2019,July,128.0
+Cotton,2019,July,123.2
+Cotton (Meal/Cake),2019,July,179.1
+Cotton Oil,2019,July,111.8
+Gram,2019,July,145.9
+Groundnut,2019,July,147.1
+Groundnut Oil,2019,July,118.9
+Jowar,2019,July,157.6
+Jute,2019,July,191.4
+Lentil,2019,July,137.5
+Linseed,2019,July,154.0
+Maize,2019,July,181.5
+Mesta,2019,July,131.5
+Moong,2019,July,137.1
+Nigerseed,2019,July,168.0
+Onion,2019,July,181.9
+Paddy,2019,July,159.9
+Palm oil,2019,July,105.0
+Peas,2019,July,190.7
+Potato,2019,July,176.2
+Ragi,2019,July,221.4
+Rajma,2019,July,132.9
+Rapeseed & Mustard,2019,July,141.9
+Rapeseed & Mustard (Meal/Cake),2019,July,189.0
+Rapeseed & Mustard Oil,2019,July,122.8
+Rice,2019,July,153.9
+Safflower,2019,July,181.2
+Sesamum,2019,July,165.0
+Soya oil,2019,July,110.8
+Soybean,2019,July,156.9
+Sugarcane,2019,July,169.5
+Sunflower,2019,July,117.5
+Sunflower oil,2019,July,110.5
+Tobacco,2019,July,113.6
+Tomato,2019,July,326.3
+Tur,2019,July,150.2
+Urad,2019,July,131.5
+Wheat,2019,July,153.4
+Wheat Atta,2019,July,152.8
+Bajra,2020,July,167.3
+Barley,2020,July,153.1
+Castorseed,2020,July,100.6
+Cotton,2020,July,106.4
+Cotton (Meal/Cake),2020,July,160.1
+Cotton Oil,2020,July,118.4
+Gram,2020,July,144.3
+Groundnut,2020,July,156.5
+Groundnut Oil,2020,July,137.7
+Jowar,2020,July,157.5
+Jute,2020,July,208.4
+Lentil,2020,July,157.5
+Linseed,2020,July,162.0
+Maize,2020,July,147.6
+Mesta,2020,July,135.0
+Moong,2020,July,173.6
+Nigerseed,2020,July,152.5
+Onion,2020,July,135.4
+Paddy,2020,July,165.8
+Palm oil,2020,July,131.8
+Peas,2020,July,200.0
+Potato,2020,July,297.9
+Ragi,2020,July,232.7
+Rajma,2020,July,145.9
+Rapeseed & Mustard,2020,July,154.6
+Rapeseed & Mustard (Meal/Cake),2020,July,183.9
+Rapeseed & Mustard Oil,2020,July,147.7
+Rice,2020,July,155.6
+Safflower,2020,July,162.4
+Sesamum,2020,July,191.7
+Soya oil,2020,July,118.1
+Soybean,2020,July,160.9
+Sugarcane,2020,July,189.4
+Sunflower,2020,July,116.0
+Sunflower oil,2020,July,119.6
+Tobacco,2020,July,113.6
+Tomato,2020,July,388.4
+Tur,2020,July,160.1
+Urad,2020,July,181.7
+Wheat,2020,July,157.3
+Wheat Atta,2020,July,149.1
+Bajra,2021,July,153.9
+Barley,2021,July,156.7
+Castorseed,2021,July,118.4
+Cotton,2021,July,131.2
+Cotton (Meal/Cake),2021,July,206.0
+Cotton Oil,2021,July,173.3
+Gram,2021,July,165.0
+Groundnut,2021,July,160.0
+Groundnut Oil,2021,July,158.3
+Jowar,2021,July,142.6
+Jute,2021,July,295.8
+Lentil,2021,July,179.9
+Linseed,2021,July,183.2
+Maize,2021,July,147.6
+Mesta,2021,July,179.4
+Moong,2021,July,163.5
+Nigerseed,2021,July,247.5
+Onion,2021,July,232.9
+Paddy,2021,July,161.2
+Palm oil,2021,July,195.4
+Peas,2021,July,214.0
+Potato,2021,July,188.6
+Ragi,2021,July,233.1
+Rajma,2021,July,206.1
+Rapeseed & Mustard,2021,July,202.3
+Rapeseed & Mustard (Meal/Cake),2021,July,239.9
+Rapeseed & Mustard Oil,2021,July,211.5
+Rice,2021,July,151.4
+Safflower,2021,July,183.8
+Sesamum,2021,July,177.4
+Soya oil,2021,July,179.6
+Soybean,2021,July,299.0
+Sugarcane,2021,July,196.3
+Sunflower,2021,July,169.5
+Sunflower oil,2021,July,161.6
+Tobacco,2021,July,113.6
+Tomato,2021,July,228.5
+Tur,2021,July,174.4
+Urad,2021,July,182.9
+Wheat,2021,July,152.8
+Wheat Atta,2021,July,143.9
+Bajra,2022,July,208.0
+Barley,2022,July,235.0
+Castorseed,2022,July,139.6
+Cotton,2022,July,203.6
+Cotton (Meal/Cake),2022,July,198.0
+Cotton Oil,2022,July,184.9
+Gram,2022,July,163.2
+Groundnut,2022,July,172.0
+Groundnut Oil,2022,July,177.3
+Jowar,2022,July,167.0
+Jute,2022,July,277.1
+Lentil,2022,July,202.1
+Linseed,2022,July,234.8
+Maize,2022,July,186.1
+Mesta,2022,July,208.2
+Moong,2022,July,166.2
+Nigerseed,2022,July,237.8
+Onion,2022,July,172.5
+Paddy,2022,July,166.2
+Palm oil,2022,July,201.5
+Peas,2022,July,218.3
+Potato,2022,July,291.4
+Ragi,2022,July,219.4
+Rajma,2022,July,250.4
+Rapeseed & Mustard,2022,July,204.0
+Rapeseed & Mustard (Meal/Cake),2022,July,198.6
+Rapeseed & Mustard Oil,2022,July,202.5
+Rice,2022,July,160.9
+Safflower,2022,July,199.3
+Sesamum,2022,July,177.4
+Soya oil,2022,July,179.9
+Soybean,2022,July,261.5
+Sugarcane,2022,July,199.8
+Sunflower,2022,July,180.0
+Sunflower oil,2022,July,175.1
+Tobacco,2022,July,113.6
+Tomato,2022,July,301.8
+Tur,2022,July,180.3
+Urad,2022,July,177.4
+Wheat,2022,July,173.6
+Wheat Atta,2022,July,168.9
+Bajra,2023,July,226.9
+Barley,2023,July,186.6
+Castorseed,2023,July,117.0
+Cotton,2023,July,157.6
+Cotton (Meal/Cake),2023,July,182.9
+Cotton Oil,2023,July,127.3
+Gram,2023,July,166.2
+Groundnut,2023,July,203.9
+Groundnut Oil,2023,July,175.6
+Jowar,2023,July,224.1
+Jute,2023,July,249.6
+Lentil,2023,July,186.5
+Linseed,2023,July,176.4
+Maize,2023,July,186.0
+Mesta,2023,July,161.6
+Moong,2023,July,189.0
+Nigerseed,2023,July,278.1
+Onion,2023,July,184.8
+Paddy,2023,July,181.2
+Palm oil,2023,July,152.2
+Peas,2023,July,215.9
+Potato,2023,July,220.3
+Ragi,2023,July,245.4
+Rajma,2023,July,243.8
+Rapeseed & Mustard,2023,July,163.8
+Rapeseed & Mustard (Meal/Cake),2023,July,205.0
+Rapeseed & Mustard Oil,2023,July,157.5
+Rice,2023,July,176.5
+Safflower,2023,July,168.6
+Sesamum,2023,July,225.9
+Soya oil,2023,July,132.5
+Soybean,2023,July,219.8
+Sugarcane,2023,July,210.1
+Sunflower,2023,July,141.2
+Sunflower oil,2023,July,127.3
+Tobacco,2023,July,113.6
+Tomato,2023,July,1015.0
+Tur,2023,July,238.5
+Urad,2023,July,195.8
+Wheat,2023,July,187.5
+Wheat Atta,2023,July,179.6
+Bajra,2024,July,241.0
+Barley,2024,July,203.6
+Castorseed,2024,July,112.5
+Cotton,2024,July,155.3
+Cotton (Meal/Cake),2024,July,195.7
+Cotton Oil,2024,July,126.6
+Gram,2024,July,212.9
+Groundnut,2024,July,182.2
+Groundnut Oil,2024,July,167.6
+Jowar,2024,July,212.8
+Jute,2024,July,241.0
+Lentil,2024,July,190.4
+Linseed,2024,July,187.8
+Maize,2024,July,207.2
+Mesta,2024,July,172.5
+Moong,2024,July,198.8
+Nigerseed,2024,July,294.2
+Onion,2024,July,347.9
+Paddy,2024,July,201.1
+Palm oil,2024,July,154.5
+Peas,2024,July,221.7
+Potato,2024,July,390.0
+Ragi,2024,July,309.2
+Rajma,2024,July,242.5
+Rapeseed & Mustard,2024,July,173.4
+Rapeseed & Mustard (Meal/Cake),2024,July,213.2
+Rapeseed & Mustard Oil,2024,July,171.9
+Rice,2024,July,193.8
+Safflower,2024,July,167.7
+Sesamum,2024,July,229.3
+Soya oil,2024,July,132.4
+Soybean,2024,July,204.0
+Sugarcane,2024,July,217.0
+Sunflower,2024,July,124.3
+Sunflower oil,2024,July,129.0
+Tobacco,2024,July,113.6
+Tomato,2024,July,630.5
+Tur,2024,July,306.8
+Urad,2024,July,224.8
+Wheat,2024,July,200.2
+Wheat Atta,2024,July,190.4
+Bajra,2012,August,120.7
+Barley,2012,August,113.8
+Castorseed,2012,August,96.1
+Cotton,2012,August,103.6
+Cotton (Meal/Cake),2012,August,125.3
+Cotton Oil,2012,August,113.3
+Gram,2012,August,149.9
+Groundnut,2012,August,122.9
+Groundnut Oil,2012,August,124.4
+Jowar,2012,August,96.2
+Jute,2012,August,114.2
+Lentil,2012,August,119.2
+Linseed,2012,August,122.9
+Maize,2012,August,117.8
+Mesta,2012,August,102.7
+Moong,2012,August,108.7
+Nigerseed,2012,August,125.2
+Onion,2012,August,105.6
+Paddy,2012,August,114.0
+Palm oil,2012,August,111.9
+Peas,2012,August,143.3
+Potato,2012,August,198.0
+Ragi,2012,August,126.4
+Rajma,2012,August,153.9
+Rapeseed & Mustard,2012,August,134.6
+Rapeseed & Mustard (Meal/Cake),2012,August,174.5
+Rapeseed & Mustard Oil,2012,August,122.1
+Rice,2012,August,109.9
+Safflower,2012,August,118.1
+Sesamum,2012,August,134.8
+Soya oil,2012,August,115.2
+Soybean,2012,August,183.8
+Sugarcane,2012,August,104.9
+Sunflower,2012,August,118.4
+Sunflower oil,2012,August,106.2
+Tobacco,2012,August,100.0
+Tomato,2012,August,147.2
+Tur,2012,August,115.6
+Urad,2012,August,102.3
+Wheat,2012,August,116.0
+Wheat Atta,2012,August,115.9
+Bajra,2013,August,131.0
+Barley,2013,August,116.3
+Castorseed,2013,August,83.0
+Cotton,2013,August,116.3
+Cotton (Meal/Cake),2013,August,134.5
+Cotton Oil,2013,August,103.1
+Gram,2013,August,107.9
+Groundnut,2013,August,106.2
+Groundnut Oil,2013,August,105.2
+Jowar,2013,August,94.5
+Jute,2013,August,113.5
+Lentil,2013,August,132.2
+Linseed,2013,August,126.5
+Maize,2013,August,126.5
+Mesta,2013,August,117.4
+Moong,2013,August,113.9
+Nigerseed,2013,August,116.5
+Onion,2013,August,441.3
+Paddy,2013,August,132.0
+Palm oil,2013,August,102.8
+Peas,2013,August,147.4
+Potato,2013,August,170.8
+Ragi,2013,August,174.5
+Rajma,2013,August,174.9
+Rapeseed & Mustard,2013,August,116.9
+Rapeseed & Mustard (Meal/Cake),2013,August,143.2
+Rapeseed & Mustard Oil,2013,August,102.4
+Rice,2013,August,128.9
+Safflower,2013,August,114.6
+Sesamum,2013,August,157.2
+Soya oil,2013,August,107.4
+Soybean,2013,August,148.0
+Sugarcane,2013,August,104.9
+Sunflower,2013,August,121.9
+Sunflower oil,2013,August,110.2
+Tobacco,2013,August,104.0
+Tomato,2013,August,184.8
+Tur,2013,August,116.7
+Urad,2013,August,96.3
+Wheat,2013,August,123.1
+Wheat Atta,2013,August,125.2
+Bajra,2014,August,133.2
+Barley,2014,August,124.2
+Castorseed,2014,August,96.7
+Cotton,2014,August,104.8
+Cotton (Meal/Cake),2014,August,141.9
+Cotton Oil,2014,August,104.6
+Gram,2014,August,100.4
+Groundnut,2014,August,106.3
+Groundnut Oil,2014,August,93.2
+Jowar,2014,August,116.1
+Jute,2014,August,123.7
+Lentil,2014,August,150.2
+Linseed,2014,August,126.4
+Maize,2014,August,121.7
+Mesta,2014,August,123.4
+Moong,2014,August,142.2
+Nigerseed,2014,August,123.8
+Onion,2014,August,232.0
+Paddy,2014,August,140.5
+Palm oil,2014,August,103.2
+Peas,2014,August,147.2
+Potato,2014,August,289.9
+Ragi,2014,August,163.7
+Rajma,2014,August,166.9
+Rapeseed & Mustard,2014,August,121.0
+Rapeseed & Mustard (Meal/Cake),2014,August,146.2
+Rapeseed & Mustard Oil,2014,August,106.7
+Rice,2014,August,133.8
+Safflower,2014,August,94.1
+Sesamum,2014,August,141.9
+Soya oil,2014,August,103.9
+Soybean,2014,August,162.4
+Sugarcane,2014,August,124.3
+Sunflower,2014,August,110.4
+Sunflower oil,2014,August,95.3
+Tobacco,2014,August,112.9
+Tomato,2014,August,325.1
+Tur,2014,August,126.8
+Urad,2014,August,127.0
+Wheat,2014,August,122.5
+Wheat Atta,2014,August,126.9
+Bajra,2015,August,127.4
+Barley,2015,August,122.6
+Castorseed,2015,August,94.9
+Cotton,2015,August,90.8
+Cotton (Meal/Cake),2015,August,148.9
+Cotton Oil,2015,August,98.9
+Gram,2015,August,142.3
+Groundnut,2015,August,134.8
+Groundnut Oil,2015,August,112.9
+Jowar,2015,August,108.4
+Jute,2015,August,160.1
+Lentil,2015,August,195.6
+Linseed,2015,August,129.5
+Maize,2015,August,120.4
+Mesta,2015,August,139.9
+Moong,2015,August,164.8
+Nigerseed,2015,August,227.6
+Onion,2015,August,440.2
+Paddy,2015,August,133.9
+Palm oil,2015,August,92.2
+Peas,2015,August,139.7
+Potato,2015,August,132.0
+Ragi,2015,August,159.1
+Rajma,2015,August,155.0
+Rapeseed & Mustard,2015,August,145.1
+Rapeseed & Mustard (Meal/Cake),2015,August,222.6
+Rapeseed & Mustard Oil,2015,August,124.7
+Rice,2015,August,128.0
+Safflower,2015,August,107.4
+Sesamum,2015,August,114.6
+Soya oil,2015,August,95.9
+Soybean,2015,August,139.2
+Sugarcane,2015,August,150.3
+Sunflower,2015,August,112.6
+Sunflower oil,2015,August,98.5
+Tobacco,2015,August,113.6
+Tomato,2015,August,149.3
+Tur,2015,August,185.5
+Urad,2015,August,167.7
+Wheat,2015,August,126.1
+Wheat Atta,2015,August,125.1
+Bajra,2016,August,159.3
+Barley,2016,August,155.5
+Castorseed,2016,August,83.7
+Cotton,2016,August,115.6
+Cotton (Meal/Cake),2016,August,178.8
+Cotton Oil,2016,August,102.2
+Gram,2016,August,225.7
+Groundnut,2016,August,145.5
+Groundnut Oil,2016,August,127.0
+Jowar,2016,August,121.4
+Jute,2016,August,196.8
+Lentil,2016,August,185.6
+Linseed,2016,August,174.8
+Maize,2016,August,139.3
+Mesta,2016,August,159.3
+Moong,2016,August,143.5
+Nigerseed,2016,August,208.0
+Onion,2016,August,117.0
+Paddy,2016,August,144.6
+Palm oil,2016,August,102.8
+Peas,2016,August,147.4
+Potato,2016,August,235.5
+Ragi,2016,August,167.1
+Rajma,2016,August,153.9
+Rapeseed & Mustard,2016,August,155.9
+Rapeseed & Mustard (Meal/Cake),2016,August,246.3
+Rapeseed & Mustard Oil,2016,August,128.4
+Rice,2016,August,143.3
+Safflower,2016,August,112.0
+Sesamum,2016,August,123.7
+Soya oil,2016,August,102.7
+Soybean,2016,August,156.3
+Sugarcane,2016,August,159.7
+Sunflower,2016,August,112.0
+Sunflower oil,2016,August,103.6
+Tobacco,2016,August,113.6
+Tomato,2016,August,114.9
+Tur,2016,August,195.0
+Urad,2016,August,229.3
+Wheat,2016,August,139.1
+Wheat Atta,2016,August,139.4
+Bajra,2017,August,143.8
+Barley,2017,August,139.1
+Castorseed,2017,August,105.4
+Cotton,2017,August,110.1
+Cotton (Meal/Cake),2017,August,147.5
+Cotton Oil,2017,August,102.1
+Gram,2017,August,176.7
+Groundnut,2017,August,124.3
+Groundnut Oil,2017,August,107.4
+Jowar,2017,August,124.5
+Jute,2017,August,154.6
+Lentil,2017,August,136.0
+Linseed,2017,August,155.9
+Maize,2017,August,127.7
+Mesta,2017,August,129.1
+Moong,2017,August,112.6
+Nigerseed,2017,August,205.4
+Onion,2017,August,220.5
+Paddy,2017,August,148.5
+Palm oil,2017,August,103.6
+Peas,2017,August,141.4
+Potato,2017,August,132.0
+Ragi,2017,August,261.9
+Rajma,2017,August,157.3
+Rapeseed & Mustard,2017,August,133.3
+Rapeseed & Mustard (Meal/Cake),2017,August,172.1
+Rapeseed & Mustard Oil,2017,August,115.6
+Rice,2017,August,152.4
+Safflower,2017,August,139.3
+Sesamum,2017,August,115.9
+Soya oil,2017,August,103.6
+Soybean,2017,August,122.8
+Sugarcane,2017,August,167.6
+Sunflower,2017,August,94.5
+Sunflower oil,2017,August,101.9
+Tobacco,2017,August,113.6
+Tomato,2017,August,413.3
+Tur,2017,August,115.4
+Urad,2017,August,127.2
+Wheat,2017,August,137.1
+Wheat Atta,2017,August,138.6
+Bajra,2018,August,138.2
+Barley,2018,August,145.0
+Castorseed,2018,August,106.8
+Cotton,2018,August,122.6
+Cotton (Meal/Cake),2018,August,155.0
+Cotton Oil,2018,August,113.8
+Gram,2018,August,135.7
+Groundnut,2018,August,119.9
+Groundnut Oil,2018,August,110.4
+Jowar,2018,August,121.9
+Jute,2018,August,172.7
+Lentil,2018,August,121.0
+Linseed,2018,August,145.6
+Maize,2018,August,123.2
+Mesta,2018,August,124.0
+Moong,2018,August,118.9
+Nigerseed,2018,August,130.9
+Onion,2018,August,163.3
+Paddy,2018,August,155.6
+Palm oil,2018,August,118.0
+Peas,2018,August,158.4
+Potato,2018,August,226.0
+Ragi,2018,August,216.2
+Rajma,2018,August,133.2
+Rapeseed & Mustard,2018,August,143.8
+Rapeseed & Mustard (Meal/Cake),2018,August,184.7
+Rapeseed & Mustard Oil,2018,August,126.6
+Rice,2018,August,149.4
+Safflower,2018,August,136.0
+Sesamum,2018,August,133.9
+Soya oil,2018,August,111.7
+Soybean,2018,August,147.1
+Sugarcane,2018,August,169.5
+Sunflower,2018,August,105.9
+Sunflower oil,2018,August,110.6
+Tobacco,2018,August,113.6
+Tomato,2018,August,190.4
+Tur,2018,August,110.8
+Urad,2018,August,109.8
+Wheat,2018,August,148.6
+Wheat Atta,2018,August,148.4
+Bajra,2019,August,200.4
+Barley,2019,August,173.4
+Castorseed,2019,August,128.1
+Cotton,2019,August,120.7
+Cotton (Meal/Cake),2019,August,183.5
+Cotton Oil,2019,August,112.9
+Gram,2019,August,145.1
+Groundnut,2019,August,149.6
+Groundnut Oil,2019,August,120.0
+Jowar,2019,August,163.6
+Jute,2019,August,191.0
+Lentil,2019,August,137.3
+Linseed,2019,August,159.9
+Maize,2019,August,184.8
+Mesta,2019,August,132.9
+Moong,2019,August,137.2
+Nigerseed,2019,August,163.8
+Onion,2019,August,217.2
+Paddy,2019,August,160.8
+Palm oil,2019,August,106.9
+Peas,2019,August,194.9
+Potato,2019,August,175.7
+Ragi,2019,August,228.9
+Rajma,2019,August,134.3
+Rapeseed & Mustard,2019,August,143.2
+Rapeseed & Mustard (Meal/Cake),2019,August,190.4
+Rapeseed & Mustard Oil,2019,August,122.6
+Rice,2019,August,154.8
+Safflower,2019,August,187.2
+Sesamum,2019,August,169.0
+Soya oil,2019,August,111.2
+Soybean,2019,August,157.8
+Sugarcane,2019,August,169.5
+Sunflower,2019,August,121.5
+Sunflower oil,2019,August,112.4
+Tobacco,2019,August,113.6
+Tomato,2019,August,299.3
+Tur,2019,August,153.0
+Urad,2019,August,131.8
+Wheat,2019,August,156.5
+Wheat Atta,2019,August,155.3
+Bajra,2020,August,161.1
+Barley,2020,August,150.3
+Castorseed,2020,August,100.6
+Cotton,2020,August,92.0
+Cotton (Meal/Cake),2020,August,158.8
+Cotton Oil,2020,August,122.2
+Gram,2020,August,144.8
+Groundnut,2020,August,154.2
+Groundnut Oil,2020,August,137.2
+Jowar,2020,August,154.3
+Jute,2020,August,213.9
+Lentil,2020,August,158.0
+Linseed,2020,August,162.6
+Maize,2020,August,146.9
+Mesta,2020,August,133.3
+Moong,2020,August,170.4
+Nigerseed,2020,August,187.9
+Onion,2020,August,142.4
+Paddy,2020,August,165.4
+Palm oil,2020,August,136.6
+Peas,2020,August,202.4
+Potato,2020,August,322.3
+Ragi,2020,August,231.9
+Rajma,2020,August,145.5
+Rapeseed & Mustard,2020,August,159.3
+Rapeseed & Mustard (Meal/Cake),2020,August,189.5
+Rapeseed & Mustard Oil,2020,August,152.2
+Rice,2020,August,156.9
+Safflower,2020,August,162.7
+Sesamum,2020,August,188.6
+Soya oil,2020,August,120.6
+Soybean,2020,August,163.5
+Sugarcane,2020,August,189.4
+Sunflower,2020,August,120.1
+Sunflower oil,2020,August,121.6
+Tobacco,2020,August,113.6
+Tomato,2020,August,345.3
+Tur,2020,August,160.9
+Urad,2020,August,180.9
+Wheat,2020,August,154.2
+Wheat Atta,2020,August,147.9
+Bajra,2021,August,161.1
+Barley,2021,August,160.0
+Castorseed,2021,August,120.3
+Cotton,2021,August,134.0
+Cotton (Meal/Cake),2021,August,208.9
+Cotton Oil,2021,August,176.9
+Gram,2021,August,167.6
+Groundnut,2021,August,161.9
+Groundnut Oil,2021,August,160.8
+Jowar,2021,August,140.3
+Jute,2021,August,262.4
+Lentil,2021,August,184.0
+Linseed,2021,August,189.0
+Maize,2021,August,153.6
+Mesta,2021,August,181.2
+Moong,2021,August,162.5
+Nigerseed,2021,August,241.8
+Onion,2021,August,231.8
+Paddy,2021,August,161.8
+Palm oil,2021,August,197.0
+Peas,2021,August,217.6
+Potato,2021,August,201.8
+Ragi,2021,August,230.1
+Rajma,2021,August,217.4
+Rapeseed & Mustard,2021,August,210.9
+Rapeseed & Mustard (Meal/Cake),2021,August,246.9
+Rapeseed & Mustard Oil,2021,August,222.6
+Rice,2021,August,151.5
+Safflower,2021,August,188.4
+Sesamum,2021,August,182.1
+Soya oil,2021,August,182.9
+Soybean,2021,August,358.4
+Sugarcane,2021,August,196.3
+Sunflower,2021,August,184.1
+Sunflower oil,2021,August,160.5
+Tobacco,2021,August,113.6
+Tomato,2021,August,235.7
+Tur,2021,August,177.4
+Urad,2021,August,179.9
+Wheat,2021,August,153.9
+Wheat Atta,2021,August,146.9
+Bajra,2022,August,214.3
+Barley,2022,August,234.0
+Castorseed,2022,August,139.0
+Cotton,2022,August,219.6
+Cotton (Meal/Cake),2022,August,197.7
+Cotton Oil,2022,August,182.2
+Gram,2022,August,165.9
+Groundnut,2022,August,175.3
+Groundnut Oil,2022,August,174.3
+Jowar,2022,August,171.7
+Jute,2022,August,269.2
+Lentil,2022,August,204.4
+Linseed,2022,August,236.2
+Maize,2022,August,192.4
+Mesta,2022,August,209.5
+Moong,2022,August,167.6
+Nigerseed,2022,August,240.1
+Onion,2022,August,174.4
+Paddy,2022,August,168.8
+Palm oil,2022,August,196.1
+Peas,2022,August,230.1
+Potato,2022,August,291.4
+Ragi,2022,August,209.7
+Rajma,2022,August,257.1
+Rapeseed & Mustard,2022,August,201.6
+Rapeseed & Mustard (Meal/Cake),2022,August,201.0
+Rapeseed & Mustard Oil,2022,August,199.4
+Rice,2022,August,165.7
+Safflower,2022,August,203.5
+Sesamum,2022,August,181.6
+Soya oil,2022,August,175.9
+Soybean,2022,August,258.3
+Sugarcane,2022,August,199.8
+Sunflower,2022,August,184.4
+Sunflower oil,2022,August,170.1
+Tobacco,2022,August,113.6
+Tomato,2022,August,249.8
+Tur,2022,August,188.8
+Urad,2022,August,178.3
+Wheat,2022,August,180.6
+Wheat Atta,2022,August,178.5
+Bajra,2023,August,225.9
+Barley,2023,August,191.1
+Castorseed,2023,August,118.9
+Cotton,2023,August,162.2
+Cotton (Meal/Cake),2023,August,182.3
+Cotton Oil,2023,August,126.2
+Gram,2023,August,174.2
+Groundnut,2023,August,203.0
+Groundnut Oil,2023,August,181.4
+Jowar,2023,August,224.7
+Jute,2023,August,248.4
+Lentil,2023,August,186.8
+Linseed,2023,August,183.9
+Maize,2023,August,186.8
+Mesta,2023,August,164.1
+Moong,2023,August,188.6
+Nigerseed,2023,August,284.4
+Onion,2023,August,229.2
+Paddy,2023,August,184.3
+Palm oil,2023,August,151.3
+Peas,2023,August,224.0
+Potato,2023,August,221.4
+Ragi,2023,August,256.6
+Rajma,2023,August,249.8
+Rapeseed & Mustard,2023,August,166.2
+Rapeseed & Mustard (Meal/Cake),2023,August,211.2
+Rapeseed & Mustard Oil,2023,August,163.4
+Rice,2023,August,181.0
+Safflower,2023,August,167.8
+Sesamum,2023,August,228.8
+Soya oil,2023,August,134.5
+Soybean,2023,August,216.2
+Sugarcane,2023,August,210.1
+Sunflower,2023,August,153.2
+Sunflower oil,2023,August,127.3
+Tobacco,2023,August,113.6
+Tomato,2023,August,817.6
+Tur,2023,August,248.5
+Urad,2023,August,196.9
+Wheat,2023,August,191.1
+Wheat Atta,2023,August,183.2
+Bajra,2024,August,245.2
+Barley,2024,August,210.3
+Castorseed,2024,August,113.6
+Cotton,2024,August,152.1
+Cotton (Meal/Cake),2024,August,201.0
+Cotton Oil,2024,August,127.1
+Gram,2024,August,224.1
+Groundnut,2024,August,180.0
+Groundnut Oil,2024,August,169.2
+Jowar,2024,August,208.2
+Jute,2024,August,236.4
+Lentil,2024,August,188.9
+Linseed,2024,August,193.2
+Maize,2024,August,213.6
+Mesta,2024,August,177.0
+Moong,2024,August,194.6
+Nigerseed,2024,August,305.0
+Onion,2024,August,387.7
+Paddy,2024,August,201.1
+Palm oil,2024,August,155.8
+Peas,2024,August,229.9
+Potato,2024,August,394.0
+Ragi,2024,August,321.5
+Rajma,2024,August,242.0
+Rapeseed & Mustard,2024,August,174.2
+Rapeseed & Mustard (Meal/Cake),2024,August,211.1
+Rapeseed & Mustard Oil,2024,August,172.9
+Rice,2024,August,191.7
+Safflower,2024,August,173.3
+Sesamum,2024,August,229.8
+Soya oil,2024,August,131.2
+Soybean,2024,August,197.1
+Sugarcane,2024,August,217.0
+Sunflower,2024,August,126.2
+Sunflower oil,2024,August,129.2
+Tobacco,2024,August,113.6
+Tomato,2024,August,385.7
+Tur,2024,August,303.9
+Urad,2024,August,223.3
+Wheat,2024,August,202.0
+Wheat Atta,2024,August,195.8
+Bajra,2012,September,121.7
+Barley,2012,September,111.8
+Castorseed,2012,September,88.7
+Cotton,2012,September,97.5
+Cotton (Meal/Cake),2012,September,127.5
+Cotton Oil,2012,September,113.2
+Gram,2012,September,148.9
+Groundnut,2012,September,122.0
+Groundnut Oil,2012,September,122.2
+Jowar,2012,September,97.2
+Jute,2012,September,116.1
+Lentil,2012,September,119.0
+Linseed,2012,September,126.6
+Maize,2012,September,117.3
+Mesta,2012,September,104.8
+Moong,2012,September,108.4
+Nigerseed,2012,September,124.7
+Onion,2012,September,104.5
+Paddy,2012,September,116.1
+Palm oil,2012,September,108.9
+Peas,2012,September,153.8
+Potato,2012,September,189.4
+Ragi,2012,September,134.1
+Rajma,2012,September,151.2
+Rapeseed & Mustard,2012,September,136.7
+Rapeseed & Mustard (Meal/Cake),2012,September,176.2
+Rapeseed & Mustard Oil,2012,September,121.0
+Rice,2012,September,111.4
+Safflower,2012,September,120.3
+Sesamum,2012,September,137.9
+Soya oil,2012,September,116.0
+Soybean,2012,September,166.2
+Sugarcane,2012,September,104.9
+Sunflower,2012,September,113.7
+Sunflower oil,2012,September,107.0
+Tobacco,2012,September,100.0
+Tomato,2012,September,107.0
+Tur,2012,September,118.6
+Urad,2012,September,102.3
+Wheat,2012,September,119.4
+Wheat Atta,2012,September,120.2
+Bajra,2013,September,130.9
+Barley,2013,September,118.0
+Castorseed,2013,September,81.9
+Cotton,2013,September,115.5
+Cotton (Meal/Cake),2013,September,136.6
+Cotton Oil,2013,September,104.0
+Gram,2013,September,109.3
+Groundnut,2013,September,107.1
+Groundnut Oil,2013,September,102.9
+Jowar,2013,September,98.0
+Jute,2013,September,113.7
+Lentil,2013,September,132.7
+Linseed,2013,September,126.7
+Maize,2013,September,128.9
+Mesta,2013,September,117.4
+Moong,2013,September,117.5
+Nigerseed,2013,September,114.6
+Onion,2013,September,491.0
+Paddy,2013,September,131.3
+Palm oil,2013,September,104.7
+Peas,2013,September,157.1
+Potato,2013,September,162.4
+Ragi,2013,September,169.9
+Rajma,2013,September,174.6
+Rapeseed & Mustard,2013,September,119.0
+Rapeseed & Mustard (Meal/Cake),2013,September,146.0
+Rapeseed & Mustard Oil,2013,September,104.4
+Rice,2013,September,128.7
+Safflower,2013,September,112.8
+Sesamum,2013,September,159.6
+Soya oil,2013,September,106.7
+Soybean,2013,September,148.1
+Sugarcane,2013,September,104.9
+Sunflower,2013,September,117.6
+Sunflower oil,2013,September,110.6
+Tobacco,2013,September,104.0
+Tomato,2013,September,206.4
+Tur,2013,September,117.2
+Urad,2013,September,97.1
+Wheat,2013,September,124.6
+Wheat Atta,2013,September,124.8
+Bajra,2014,September,133.9
+Barley,2014,September,127.1
+Castorseed,2014,September,95.8
+Cotton,2014,September,95.9
+Cotton (Meal/Cake),2014,September,138.0
+Cotton Oil,2014,September,102.0
+Gram,2014,September,100.2
+Groundnut,2014,September,109.8
+Groundnut Oil,2014,September,95.1
+Jowar,2014,September,115.0
+Jute,2014,September,124.3
+Lentil,2014,September,152.6
+Linseed,2014,September,125.6
+Maize,2014,September,117.4
+Mesta,2014,September,119.3
+Moong,2014,September,141.2
+Nigerseed,2014,September,128.3
+Onion,2014,September,206.1
+Paddy,2014,September,140.5
+Palm oil,2014,September,99.0
+Peas,2014,September,146.4
+Potato,2014,September,310.7
+Ragi,2014,September,163.0
+Rajma,2014,September,162.7
+Rapeseed & Mustard,2014,September,122.0
+Rapeseed & Mustard (Meal/Cake),2014,September,148.6
+Rapeseed & Mustard Oil,2014,September,107.7
+Rice,2014,September,133.5
+Safflower,2014,September,94.3
+Sesamum,2014,September,136.8
+Soya oil,2014,September,101.2
+Soybean,2014,September,141.8
+Sugarcane,2014,September,124.3
+Sunflower,2014,September,108.2
+Sunflower oil,2014,September,91.7
+Tobacco,2014,September,113.6
+Tomato,2014,September,213.9
+Tur,2014,September,126.5
+Urad,2014,September,128.0
+Wheat,2014,September,121.8
+Wheat Atta,2014,September,130.2
+Bajra,2015,September,132.2
+Barley,2015,September,124.3
+Castorseed,2015,September,97.0
+Cotton,2015,September,91.3
+Cotton (Meal/Cake),2015,September,150.3
+Cotton Oil,2015,September,99.0
+Gram,2015,September,146.3
+Groundnut,2015,September,136.1
+Groundnut Oil,2015,September,113.5
+Jowar,2015,September,108.4
+Jute,2015,September,167.2
+Lentil,2015,September,195.1
+Linseed,2015,September,132.6
+Maize,2015,September,121.9
+Mesta,2015,September,139.9
+Moong,2015,September,167.5
+Nigerseed,2015,September,234.0
+Onion,2015,September,460.3
+Paddy,2015,September,135.2
+Palm oil,2015,September,89.8
+Peas,2015,September,148.2
+Potato,2015,September,131.2
+Ragi,2015,September,161.5
+Rajma,2015,September,155.0
+Rapeseed & Mustard,2015,September,148.0
+Rapeseed & Mustard (Meal/Cake),2015,September,232.0
+Rapeseed & Mustard Oil,2015,September,127.1
+Rice,2015,September,128.9
+Safflower,2015,September,105.3
+Sesamum,2015,September,110.5
+Soya oil,2015,September,96.9
+Soybean,2015,September,139.2
+Sugarcane,2015,September,150.3
+Sunflower,2015,September,116.4
+Sunflower oil,2015,September,102.0
+Tobacco,2015,September,113.6
+Tomato,2015,September,164.4
+Tur,2015,September,196.9
+Urad,2015,September,171.8
+Wheat,2015,September,126.2
+Wheat Atta,2015,September,126.2
+Bajra,2016,September,155.1
+Barley,2016,September,154.0
+Castorseed,2016,September,85.4
+Cotton,2016,September,111.0
+Cotton (Meal/Cake),2016,September,178.3
+Cotton Oil,2016,September,102.1
+Gram,2016,September,227.4
+Groundnut,2016,September,140.3
+Groundnut Oil,2016,September,123.3
+Jowar,2016,September,124.0
+Jute,2016,September,194.0
+Lentil,2016,September,182.0
+Linseed,2016,September,175.6
+Maize,2016,September,139.8
+Mesta,2016,September,153.6
+Moong,2016,September,134.7
+Nigerseed,2016,September,207.6
+Onion,2016,September,107.8
+Paddy,2016,September,144.7
+Palm oil,2016,September,105.5
+Peas,2016,September,147.4
+Potato,2016,September,229.8
+Ragi,2016,September,167.3
+Rajma,2016,September,153.8
+Rapeseed & Mustard,2016,September,155.5
+Rapeseed & Mustard (Meal/Cake),2016,September,244.5
+Rapeseed & Mustard Oil,2016,September,131.3
+Rice,2016,September,144.8
+Safflower,2016,September,112.9
+Sesamum,2016,September,122.6
+Soya oil,2016,September,103.8
+Soybean,2016,September,149.3
+Sugarcane,2016,September,159.7
+Sunflower,2016,September,113.5
+Sunflower oil,2016,September,105.5
+Tobacco,2016,September,113.6
+Tomato,2016,September,116.6
+Tur,2016,September,184.6
+Urad,2016,September,211.6
+Wheat,2016,September,140.0
+Wheat Atta,2016,September,141.6
+Bajra,2017,September,139.4
+Barley,2017,September,140.3
+Castorseed,2017,September,106.6
+Cotton,2017,September,106.5
+Cotton (Meal/Cake),2017,September,144.9
+Cotton Oil,2017,September,101.5
+Gram,2017,September,186.9
+Groundnut,2017,September,118.0
+Groundnut Oil,2017,September,105.1
+Jowar,2017,September,126.1
+Jute,2017,September,159.9
+Lentil,2017,September,138.3
+Linseed,2017,September,154.8
+Maize,2017,September,125.1
+Mesta,2017,September,130.2
+Moong,2017,September,112.9
+Nigerseed,2017,September,204.8
+Onion,2017,September,193.8
+Paddy,2017,September,148.8
+Palm oil,2017,September,106.2
+Peas,2017,September,142.3
+Potato,2017,September,122.3
+Ragi,2017,September,252.5
+Rajma,2017,September,157.8
+Rapeseed & Mustard,2017,September,134.6
+Rapeseed & Mustard (Meal/Cake),2017,September,170.6
+Rapeseed & Mustard Oil,2017,September,116.4
+Rice,2017,September,152.4
+Safflower,2017,September,140.2
+Sesamum,2017,September,119.7
+Soya oil,2017,September,105.8
+Soybean,2017,September,124.8
+Sugarcane,2017,September,167.6
+Sunflower,2017,September,98.4
+Sunflower oil,2017,September,102.1
+Tobacco,2017,September,113.6
+Tomato,2017,September,219.3
+Tur,2017,September,118.4
+Urad,2017,September,129.1
+Wheat,2017,September,137.6
+Wheat Atta,2017,September,138.0
+Bajra,2018,September,141.7
+Barley,2018,September,146.7
+Castorseed,2018,September,107.0
+Cotton,2018,September,120.9
+Cotton (Meal/Cake),2018,September,161.4
+Cotton Oil,2018,September,113.3
+Gram,2018,September,132.5
+Groundnut,2018,September,118.2
+Groundnut Oil,2018,September,110.6
+Jowar,2018,September,121.4
+Jute,2018,September,181.7
+Lentil,2018,September,121.8
+Linseed,2018,September,146.5
+Maize,2018,September,125.7
+Mesta,2018,September,121.4
+Moong,2018,September,119.8
+Nigerseed,2018,September,139.7
+Onion,2018,September,147.8
+Paddy,2018,September,155.7
+Palm oil,2018,September,118.7
+Peas,2018,September,157.6
+Potato,2018,September,220.0
+Ragi,2018,September,213.0
+Rajma,2018,September,132.8
+Rapeseed & Mustard,2018,September,145.6
+Rapeseed & Mustard (Meal/Cake),2018,September,186.7
+Rapeseed & Mustard Oil,2018,September,127.0
+Rice,2018,September,149.9
+Safflower,2018,September,139.3
+Sesamum,2018,September,141.3
+Soya oil,2018,September,111.4
+Soybean,2018,September,142.9
+Sugarcane,2018,September,169.5
+Sunflower,2018,September,111.4
+Sunflower oil,2018,September,111.7
+Tobacco,2018,September,117.2
+Tomato,2018,September,140.2
+Tur,2018,September,110.8
+Urad,2018,September,107.6
+Wheat,2018,September,149.8
+Wheat Atta,2018,September,151.4
+Bajra,2019,September,195.9
+Barley,2019,September,175.4
+Castorseed,2019,September,128.1
+Cotton,2019,September,117.7
+Cotton (Meal/Cake),2019,September,187.5
+Cotton Oil,2019,September,111.9
+Gram,2019,September,145.5
+Groundnut,2019,September,150.2
+Groundnut Oil,2019,September,120.0
+Jowar,2019,September,160.0
+Jute,2019,September,194.6
+Lentil,2019,September,137.3
+Linseed,2019,September,161.7
+Maize,2019,September,185.8
+Mesta,2019,September,133.3
+Moong,2019,September,138.7
+Nigerseed,2019,September,166.1
+Onion,2019,September,328.7
+Paddy,2019,September,161.9
+Palm oil,2019,September,110.2
+Peas,2019,September,199.9
+Potato,2019,September,170.4
+Ragi,2019,September,233.1
+Rajma,2019,September,135.9
+Rapeseed & Mustard,2019,September,144.0
+Rapeseed & Mustard (Meal/Cake),2019,September,195.4
+Rapeseed & Mustard Oil,2019,September,122.6
+Rice,2019,September,156.5
+Safflower,2019,September,187.9
+Sesamum,2019,September,173.2
+Soya oil,2019,September,111.6
+Soybean,2019,September,164.9
+Sugarcane,2019,September,169.5
+Sunflower,2019,September,120.5
+Sunflower oil,2019,September,112.4
+Tobacco,2019,September,113.6
+Tomato,2019,September,217.8
+Tur,2019,September,150.5
+Urad,2019,September,133.0
+Wheat,2019,September,158.3
+Wheat Atta,2019,September,156.1
+Bajra,2020,September,155.7
+Barley,2020,September,149.1
+Castorseed,2020,September,101.3
+Cotton,2020,September,94.8
+Cotton (Meal/Cake),2020,September,159.2
+Cotton Oil,2020,September,125.4
+Gram,2020,September,154.8
+Groundnut,2020,September,145.5
+Groundnut Oil,2020,September,138.3
+Jowar,2020,September,148.0
+Jute,2020,September,230.6
+Lentil,2020,September,159.0
+Linseed,2020,September,166.4
+Maize,2020,September,142.5
+Mesta,2020,September,132.6
+Moong,2020,September,164.3
+Nigerseed,2020,September,214.5
+Onion,2020,September,224.7
+Paddy,2020,September,165.0
+Palm oil,2020,September,138.9
+Peas,2020,September,205.1
+Potato,2020,September,372.6
+Ragi,2020,September,225.1
+Rajma,2020,September,147.8
+Rapeseed & Mustard,2020,September,164.0
+Rapeseed & Mustard (Meal/Cake),2020,September,196.6
+Rapeseed & Mustard Oil,2020,September,158.0
+Rice,2020,September,155.9
+Safflower,2020,September,157.4
+Sesamum,2020,September,182.3
+Soya oil,2020,September,123.6
+Soybean,2020,September,164.5
+Sugarcane,2020,September,189.4
+Sunflower,2020,September,126.0
+Sunflower oil,2020,September,130.1
+Tobacco,2020,September,113.6
+Tomato,2020,September,434.0
+Tur,2020,September,165.8
+Urad,2020,September,177.6
+Wheat,2020,September,150.0
+Wheat Atta,2020,September,145.3
+Bajra,2021,September,166.4
+Barley,2021,September,166.4
+Castorseed,2021,September,126.0
+Cotton,2021,September,132.6
+Cotton (Meal/Cake),2021,September,210.9
+Cotton Oil,2021,September,176.9
+Gram,2021,September,172.6
+Groundnut,2021,September,162.9
+Groundnut Oil,2021,September,159.6
+Jowar,2021,September,138.4
+Jute,2021,September,270.4
+Lentil,2021,September,197.3
+Linseed,2021,September,209.8
+Maize,2021,September,154.8
+Mesta,2021,September,182.0
+Moong,2021,September,164.9
+Nigerseed,2021,September,241.0
+Onion,2021,September,220.4
+Paddy,2021,September,162.3
+Palm oil,2021,September,193.8
+Peas,2021,September,219.0
+Potato,2021,September,190.2
+Ragi,2021,September,227.8
+Rajma,2021,September,220.3
+Rapeseed & Mustard,2021,September,219.1
+Rapeseed & Mustard (Meal/Cake),2021,September,251.5
+Rapeseed & Mustard Oil,2021,September,235.1
+Rice,2021,September,152.3
+Safflower,2021,September,193.8
+Sesamum,2021,September,183.0
+Soya oil,2021,September,188.0
+Soybean,2021,September,337.1
+Sugarcane,2021,September,196.3
+Sunflower,2021,September,174.9
+Sunflower oil,2021,September,161.3
+Tobacco,2021,September,113.6
+Tomato,2021,September,214.3
+Tur,2021,September,179.9
+Urad,2021,September,181.5
+Wheat,2021,September,156.6
+Wheat Atta,2021,September,150.8
+Bajra,2022,September,212.8
+Barley,2022,September,234.4
+Castorseed,2022,September,138.8
+Cotton,2022,September,201.5
+Cotton (Meal/Cake),2022,September,193.3
+Cotton Oil,2022,September,175.1
+Gram,2022,September,163.1
+Groundnut,2022,September,175.2
+Groundnut Oil,2022,September,173.6
+Jowar,2022,September,172.9
+Jute,2022,September,276.6
+Lentil,2022,September,199.7
+Linseed,2022,September,244.9
+Maize,2022,September,193.4
+Mesta,2022,September,211.9
+Moong,2022,September,166.2
+Nigerseed,2022,September,240.8
+Onion,2022,September,174.2
+Paddy,2022,September,171.7
+Palm oil,2022,September,175.9
+Peas,2022,September,235.7
+Potato,2022,September,284.9
+Ragi,2022,September,203.9
+Rajma,2022,September,253.3
+Rapeseed & Mustard,2022,September,198.2
+Rapeseed & Mustard (Meal/Cake),2022,September,193.6
+Rapeseed & Mustard Oil,2022,September,189.3
+Rice,2022,September,167.8
+Safflower,2022,September,208.2
+Sesamum,2022,September,181.9
+Soya oil,2022,September,168.1
+Soybean,2022,September,226.9
+Sugarcane,2022,September,199.8
+Sunflower,2022,September,180.0
+Sunflower oil,2022,September,162.9
+Tobacco,2022,September,113.6
+Tomato,2022,September,354.3
+Tur,2022,September,191.2
+Urad,2022,September,179.9
+Wheat,2022,September,181.8
+Wheat Atta,2022,September,180.6
+Bajra,2023,September,225.5
+Barley,2023,September,194.2
+Castorseed,2023,September,117.4
+Cotton,2023,September,164.0
+Cotton (Meal/Cake),2023,September,185.0
+Cotton Oil,2023,September,122.4
+Gram,2023,September,187.2
+Groundnut,2023,September,201.0
+Groundnut Oil,2023,September,180.2
+Jowar,2023,September,229.7
+Jute,2023,September,235.9
+Lentil,2023,September,191.5
+Linseed,2023,September,178.2
+Maize,2023,September,182.9
+Mesta,2023,September,170.9
+Moong,2023,September,197.3
+Nigerseed,2023,September,296.8
+Onion,2023,September,270.1
+Paddy,2023,September,187.1
+Palm oil,2023,September,146.4
+Peas,2023,September,227.4
+Potato,2023,September,213.0
+Ragi,2023,September,259.0
+Rajma,2023,September,250.0
+Rapeseed & Mustard,2023,September,165.4
+Rapeseed & Mustard (Meal/Cake),2023,September,221.0
+Rapeseed & Mustard Oil,2023,September,157.2
+Rice,2023,September,181.6
+Safflower,2023,September,172.8
+Sesamum,2023,September,229.7
+Soya oil,2023,September,128.6
+Soybean,2023,September,213.1
+Sugarcane,2023,September,210.1
+Sunflower,2023,September,152.1
+Sunflower oil,2023,September,124.1
+Tobacco,2023,September,113.6
+Tomato,2023,September,221.0
+Tur,2023,September,267.3
+Urad,2023,September,205.5
+Wheat,2023,September,193.3
+Wheat Atta,2023,September,185.6
+Bajra,2024,September,246.7
+Barley,2024,September,217.2
+Castorseed,2024,September,116.2
+Cotton,2024,September,156.8
+Cotton (Meal/Cake),2024,September,209.9
+Cotton Oil,2024,September,132.0
+Gram,2024,September,232.5
+Groundnut,2024,September,176.7
+Groundnut Oil,2024,September,169.2
+Jowar,2024,September,206.9
+Jute,2024,September,237.8
+Lentil,2024,September,187.2
+Linseed,2024,September,195.2
+Maize,2024,September,216.5
+Mesta,2024,September,182.2
+Moong,2024,September,192.2
+Nigerseed,2024,September,305.2
+Onion,2024,September,486.2
+Paddy,2024,September,202.1
+Palm oil,2024,September,166.9
+Peas,2024,September,258.8
+Potato,2024,September,378.0
+Ragi,2024,September,321.2
+Rajma,2024,September,242.4
+Rapeseed & Mustard,2024,September,182.5
+Rapeseed & Mustard (Meal/Cake),2024,September,214.6
+Rapeseed & Mustard Oil,2024,September,186.0
+Rice,2024,September,191.9
+Safflower,2024,September,183.4
+Sesamum,2024,September,227.1
+Soya oil,2024,September,135.6
+Soybean,2024,September,207.0
+Sugarcane,2024,September,217.0
+Sunflower,2024,September,131.0
+Sunflower oil,2024,September,138.4
+Tobacco,2024,September,113.6
+Tomato,2024,September,383.1
+Tur,2024,September,300.7
+Urad,2024,September,220.8
+Wheat,2024,September,205.2
+Wheat Atta,2024,September,199.6
+Bajra,2012,October,114.8
+Barley,2012,October,110.5
+Castorseed,2012,October,85.7
+Cotton,2012,October,91.8
+Cotton (Meal/Cake),2012,October,125.0
+Cotton Oil,2012,October,109.1
+Gram,2012,October,145.5
+Groundnut,2012,October,121.5
+Groundnut Oil,2012,October,117.9
+Jowar,2012,October,95.5
+Jute,2012,October,110.8
+Lentil,2012,October,118.6
+Linseed,2012,October,128.8
+Maize,2012,October,117.8
+Mesta,2012,October,105.2
+Moong,2012,October,112.2
+Nigerseed,2012,October,119.0
+Onion,2012,October,111.8
+Paddy,2012,October,116.6
+Palm oil,2012,October,100.0
+Peas,2012,October,146.6
+Potato,2012,October,172.9
+Ragi,2012,October,149.5
+Rajma,2012,October,153.9
+Rapeseed & Mustard,2012,October,141.0
+Rapeseed & Mustard (Meal/Cake),2012,October,181.2
+Rapeseed & Mustard Oil,2012,October,118.2
+Rice,2012,October,113.2
+Safflower,2012,October,117.8
+Sesamum,2012,October,138.1
+Soya oil,2012,October,109.4
+Soybean,2012,October,134.2
+Sugarcane,2012,October,104.9
+Sunflower,2012,October,115.3
+Sunflower oil,2012,October,105.7
+Tobacco,2012,October,100.0
+Tomato,2012,October,105.5
+Tur,2012,October,116.3
+Urad,2012,October,99.3
+Wheat,2012,October,117.4
+Wheat Atta,2012,October,121.9
+Bajra,2013,October,129.7
+Barley,2013,October,118.6
+Castorseed,2013,October,80.7
+Cotton,2013,October,111.9
+Cotton (Meal/Cake),2013,October,136.3
+Cotton Oil,2013,October,106.1
+Gram,2013,October,111.0
+Groundnut,2013,October,107.6
+Groundnut Oil,2013,October,102.4
+Jowar,2013,October,98.4
+Jute,2013,October,119.9
+Lentil,2013,October,130.9
+Linseed,2013,October,126.1
+Maize,2013,October,121.2
+Mesta,2013,October,117.4
+Moong,2013,October,122.9
+Nigerseed,2013,October,115.5
+Onion,2013,October,530.9
+Paddy,2013,October,131.0
+Palm oil,2013,October,105.8
+Peas,2013,October,157.0
+Potato,2013,October,187.9
+Ragi,2013,October,166.7
+Rajma,2013,October,175.9
+Rapeseed & Mustard,2013,October,120.1
+Rapeseed & Mustard (Meal/Cake),2013,October,150.8
+Rapeseed & Mustard Oil,2013,October,106.9
+Rice,2013,October,127.8
+Safflower,2013,October,112.3
+Sesamum,2013,October,149.7
+Soya oil,2013,October,107.5
+Soybean,2013,October,147.0
+Sugarcane,2013,October,109.4
+Sunflower,2013,October,114.4
+Sunflower oil,2013,October,109.6
+Tobacco,2013,October,104.0
+Tomato,2013,October,269.5
+Tur,2013,October,118.4
+Urad,2013,October,97.9
+Wheat,2013,October,125.7
+Wheat Atta,2013,October,126.1
+Bajra,2014,October,129.3
+Barley,2014,October,129.8
+Castorseed,2014,October,98.6
+Cotton,2014,October,90.6
+Cotton (Meal/Cake),2014,October,128.4
+Cotton Oil,2014,October,100.4
+Gram,2014,October,100.8
+Groundnut,2014,October,109.0
+Groundnut Oil,2014,October,94.2
+Jowar,2014,October,117.0
+Jute,2014,October,128.0
+Lentil,2014,October,152.1
+Linseed,2014,October,127.5
+Maize,2014,October,114.2
+Mesta,2014,October,121.0
+Moong,2014,October,144.6
+Nigerseed,2014,October,128.3
+Onion,2014,October,201.8
+Paddy,2014,October,140.0
+Palm oil,2014,October,97.9
+Peas,2014,October,147.3
+Potato,2014,October,315.4
+Ragi,2014,October,161.7
+Rajma,2014,October,162.0
+Rapeseed & Mustard,2014,October,122.3
+Rapeseed & Mustard (Meal/Cake),2014,October,149.0
+Rapeseed & Mustard Oil,2014,October,107.8
+Rice,2014,October,133.7
+Safflower,2014,October,93.0
+Sesamum,2014,October,136.0
+Soya oil,2014,October,101.5
+Soybean,2014,October,131.6
+Sugarcane,2014,October,124.3
+Sunflower,2014,October,110.1
+Sunflower oil,2014,October,92.9
+Tobacco,2014,October,113.6
+Tomato,2014,October,168.4
+Tur,2014,October,126.3
+Urad,2014,October,124.3
+Wheat,2014,October,122.3
+Wheat Atta,2014,October,127.6
+Bajra,2015,October,132.7
+Barley,2015,October,128.5
+Castorseed,2015,October,96.2
+Cotton,2015,October,86.7
+Cotton (Meal/Cake),2015,October,151.9
+Cotton Oil,2015,October,100.2
+Gram,2015,October,153.0
+Groundnut,2015,October,122.3
+Groundnut Oil,2015,October,112.2
+Jowar,2015,October,114.4
+Jute,2015,October,181.0
+Lentil,2015,October,197.0
+Linseed,2015,October,133.3
+Maize,2015,October,123.5
+Mesta,2015,October,140.5
+Moong,2015,October,173.5
+Nigerseed,2015,October,244.2
+Onion,2015,October,369.4
+Paddy,2015,October,135.8
+Palm oil,2015,October,90.1
+Peas,2015,October,142.7
+Potato,2015,October,138.2
+Ragi,2015,October,159.5
+Rajma,2015,October,155.0
+Rapeseed & Mustard,2015,October,158.8
+Rapeseed & Mustard (Meal/Cake),2015,October,240.6
+Rapeseed & Mustard Oil,2015,October,135.2
+Rice,2015,October,129.8
+Safflower,2015,October,105.0
+Sesamum,2015,October,110.1
+Soya oil,2015,October,97.3
+Soybean,2015,October,156.9
+Sugarcane,2015,October,150.3
+Sunflower,2015,October,117.1
+Sunflower oil,2015,October,105.9
+Tobacco,2015,October,113.6
+Tomato,2015,October,220.9
+Tur,2015,October,219.0
+Urad,2015,October,196.9
+Wheat,2015,October,128.5
+Wheat Atta,2015,October,129.3
+Bajra,2016,October,148.1
+Barley,2016,October,153.6
+Castorseed,2016,October,84.6
+Cotton,2016,October,105.9
+Cotton (Meal/Cake),2016,October,173.1
+Cotton Oil,2016,October,103.6
+Gram,2016,October,262.3
+Groundnut,2016,October,132.3
+Groundnut Oil,2016,October,118.3
+Jowar,2016,October,121.9
+Jute,2016,October,194.2
+Lentil,2016,October,179.2
+Linseed,2016,October,177.4
+Maize,2016,October,138.6
+Mesta,2016,October,153.1
+Moong,2016,October,131.6
+Nigerseed,2016,October,207.6
+Onion,2016,October,104.3
+Paddy,2016,October,145.1
+Palm oil,2016,October,103.4
+Peas,2016,October,153.7
+Potato,2016,October,214.7
+Ragi,2016,October,178.1
+Rajma,2016,October,157.7
+Rapeseed & Mustard,2016,October,152.8
+Rapeseed & Mustard (Meal/Cake),2016,October,244.2
+Rapeseed & Mustard Oil,2016,October,128.1
+Rice,2016,October,144.5
+Safflower,2016,October,113.5
+Sesamum,2016,October,118.5
+Soya oil,2016,October,105.4
+Soybean,2016,October,132.3
+Sugarcane,2016,October,164.4
+Sunflower,2016,October,113.0
+Sunflower oil,2016,October,105.3
+Tobacco,2016,October,113.6
+Tomato,2016,October,132.3
+Tur,2016,October,182.4
+Urad,2016,October,199.0
+Wheat,2016,October,140.8
+Wheat Atta,2016,October,144.0
+Bajra,2017,October,132.9
+Barley,2017,October,141.2
+Castorseed,2017,October,104.9
+Cotton,2017,October,100.8
+Cotton (Meal/Cake),2017,October,138.8
+Cotton Oil,2017,October,100.5
+Gram,2017,October,177.9
+Groundnut,2017,October,116.9
+Groundnut Oil,2017,October,105.4
+Jowar,2017,October,123.3
+Jute,2017,October,158.0
+Lentil,2017,October,133.8
+Linseed,2017,October,155.4
+Maize,2017,October,123.7
+Mesta,2017,October,126.6
+Moong,2017,October,111.5
+Nigerseed,2017,October,205.9
+Onion,2017,October,237.6
+Paddy,2017,October,149.6
+Palm oil,2017,October,107.5
+Peas,2017,October,142.4
+Potato,2017,October,119.6
+Ragi,2017,October,233.7
+Rajma,2017,October,156.1
+Rapeseed & Mustard,2017,October,134.2
+Rapeseed & Mustard (Meal/Cake),2017,October,173.0
+Rapeseed & Mustard Oil,2017,October,118.9
+Rice,2017,October,151.6
+Safflower,2017,October,137.2
+Sesamum,2017,October,118.5
+Soya oil,2017,October,105.2
+Soybean,2017,October,126.0
+Sugarcane,2017,October,167.6
+Sunflower,2017,October,99.1
+Sunflower oil,2017,October,101.7
+Tobacco,2017,October,113.6
+Tomato,2017,October,260.3
+Tur,2017,October,113.8
+Urad,2017,October,127.7
+Wheat,2017,October,138.0
+Wheat Atta,2017,October,139.4
+Bajra,2018,October,148.6
+Barley,2018,October,150.2
+Castorseed,2018,October,112.5
+Cotton,2018,October,121.1
+Cotton (Meal/Cake),2018,October,163.7
+Cotton Oil,2018,October,111.7
+Gram,2018,October,135.7
+Groundnut,2018,October,118.8
+Groundnut Oil,2018,October,112.0
+Jowar,2018,October,125.8
+Jute,2018,October,182.8
+Lentil,2018,October,121.7
+Linseed,2018,October,147.0
+Maize,2018,October,129.3
+Mesta,2018,October,122.6
+Moong,2018,October,118.1
+Nigerseed,2018,October,140.8
+Onion,2018,October,162.3
+Paddy,2018,October,155.7
+Palm oil,2018,October,118.2
+Peas,2018,October,183.0
+Potato,2018,October,232.6
+Ragi,2018,October,214.1
+Rajma,2018,October,132.2
+Rapeseed & Mustard,2018,October,145.8
+Rapeseed & Mustard (Meal/Cake),2018,October,191.7
+Rapeseed & Mustard Oil,2018,October,126.2
+Rice,2018,October,150.3
+Safflower,2018,October,143.5
+Sesamum,2018,October,150.1
+Soya oil,2018,October,112.6
+Soybean,2018,October,140.2
+Sugarcane,2018,October,169.5
+Sunflower,2018,October,116.6
+Sunflower oil,2018,October,111.4
+Tobacco,2018,October,113.6
+Tomato,2018,October,141.0
+Tur,2018,October,109.4
+Urad,2018,October,111.0
+Wheat,2018,October,151.1
+Wheat Atta,2018,October,152.1
+Bajra,2019,October,184.9
+Barley,2019,October,174.4
+Castorseed,2019,October,108.9
+Cotton,2019,October,113.6
+Cotton (Meal/Cake),2019,October,185.0
+Cotton Oil,2019,October,112.4
+Gram,2019,October,146.6
+Groundnut,2019,October,148.8
+Groundnut Oil,2019,October,119.7
+Jowar,2019,October,159.6
+Jute,2019,October,199.3
+Lentil,2019,October,137.0
+Linseed,2019,October,161.5
+Maize,2019,October,183.6
+Mesta,2019,October,133.3
+Moong,2019,October,139.7
+Nigerseed,2019,October,174.6
+Onion,2019,October,356.8
+Paddy,2019,October,162.7
+Palm oil,2019,October,111.7
+Peas,2019,October,200.6
+Potato,2019,October,187.0
+Ragi,2019,October,226.9
+Rajma,2019,October,137.7
+Rapeseed & Mustard,2019,October,144.9
+Rapeseed & Mustard (Meal/Cake),2019,October,200.1
+Rapeseed & Mustard Oil,2019,October,124.7
+Rice,2019,October,157.6
+Safflower,2019,October,194.8
+Sesamum,2019,October,177.8
+Soya oil,2019,October,112.3
+Soybean,2019,October,160.8
+Sugarcane,2019,October,169.5
+Sunflower,2019,October,121.6
+Sunflower oil,2019,October,112.4
+Tobacco,2019,October,113.6
+Tomato,2019,October,341.9
+Tur,2019,October,150.4
+Urad,2019,October,136.1
+Wheat,2019,October,160.4
+Wheat Atta,2019,October,157.3
+Bajra,2020,October,155.4
+Barley,2020,October,148.6
+Castorseed,2020,October,104.6
+Cotton,2020,October,99.6
+Cotton (Meal/Cake),2020,October,158.2
+Cotton Oil,2020,October,131.1
+Gram,2020,October,163.6
+Groundnut,2020,October,145.1
+Groundnut Oil,2020,October,140.6
+Jowar,2020,October,147.8
+Jute,2020,October,238.5
+Lentil,2020,October,162.8
+Linseed,2020,October,172.5
+Maize,2020,October,137.9
+Mesta,2020,October,133.5
+Moong,2020,October,162.6
+Nigerseed,2020,October,215.2
+Onion,2020,October,387.1
+Paddy,2020,October,163.7
+Palm oil,2020,October,143.0
+Peas,2020,October,213.5
+Potato,2020,October,410.0
+Ragi,2020,October,223.9
+Rajma,2020,October,153.4
+Rapeseed & Mustard,2020,October,166.4
+Rapeseed & Mustard (Meal/Cake),2020,October,208.1
+Rapeseed & Mustard Oil,2020,October,164.5
+Rice,2020,October,154.0
+Safflower,2020,October,161.6
+Sesamum,2020,October,176.2
+Soya oil,2020,October,128.6
+Soybean,2020,October,168.7
+Sugarcane,2020,October,189.4
+Sunflower,2020,October,129.3
+Sunflower oil,2020,October,134.2
+Tobacco,2020,October,113.6
+Tomato,2020,October,389.9
+Tur,2020,October,173.6
+Urad,2020,October,181.5
+Wheat,2020,October,147.4
+Wheat Atta,2020,October,142.6
+Bajra,2021,October,164.8
+Barley,2021,October,170.7
+Castorseed,2021,October,126.2
+Cotton,2021,October,141.5
+Cotton (Meal/Cake),2021,October,197.8
+Cotton Oil,2021,October,174.9
+Gram,2021,October,170.9
+Groundnut,2021,October,160.4
+Groundnut Oil,2021,October,160.6
+Jowar,2021,October,136.8
+Jute,2021,October,279.3
+Lentil,2021,October,203.3
+Linseed,2021,October,230.7
+Maize,2021,October,151.6
+Mesta,2021,October,183.4
+Moong,2021,October,166.3
+Nigerseed,2021,October,251.9
+Onion,2021,October,293.1
+Paddy,2021,October,162.8
+Palm oil,2021,October,192.9
+Peas,2021,October,209.7
+Potato,2021,October,204.6
+Ragi,2021,October,227.1
+Rajma,2021,October,224.0
+Rapeseed & Mustard,2021,October,224.0
+Rapeseed & Mustard (Meal/Cake),2021,October,256.8
+Rapeseed & Mustard Oil,2021,October,232.5
+Rice,2021,October,152.1
+Safflower,2021,October,193.9
+Sesamum,2021,October,184.9
+Soya oil,2021,October,180.6
+Soybean,2021,October,230.6
+Sugarcane,2021,October,196.3
+Sunflower,2021,October,171.5
+Sunflower oil,2021,October,160.2
+Tobacco,2021,October,113.6
+Tomato,2021,October,415.3
+Tur,2021,October,180.8
+Urad,2021,October,179.5
+Wheat,2021,October,159.4
+Wheat Atta,2021,October,153.1
+Bajra,2022,October,201.5
+Barley,2022,October,231.8
+Castorseed,2022,October,137.1
+Cotton,2022,October,179.4
+Cotton (Meal/Cake),2022,October,189.6
+Cotton Oil,2022,October,174.5
+Gram,2022,October,162.0
+Groundnut,2022,October,175.2
+Groundnut Oil,2022,October,175.0
+Jowar,2022,October,166.1
+Jute,2022,October,274.1
+Lentil,2022,October,199.8
+Linseed,2022,October,239.1
+Maize,2022,October,186.1
+Mesta,2022,October,212.6
+Moong,2022,October,166.2
+Nigerseed,2022,October,243.0
+Onion,2022,October,205.1
+Paddy,2022,October,173.6
+Palm oil,2022,October,171.7
+Peas,2022,October,250.2
+Potato,2022,October,296.5
+Ragi,2022,October,207.0
+Rajma,2022,October,253.2
+Rapeseed & Mustard,2022,October,197.4
+Rapeseed & Mustard (Meal/Cake),2022,October,192.0
+Rapeseed & Mustard Oil,2022,October,195.5
+Rice,2022,October,169.9
+Safflower,2022,October,204.0
+Sesamum,2022,October,184.9
+Soya oil,2022,October,171.9
+Soybean,2022,October,208.0
+Sugarcane,2022,October,210.1
+Sunflower,2022,October,166.5
+Sunflower oil,2022,October,165.7
+Tobacco,2022,October,113.6
+Tomato,2022,October,437.4
+Tur,2022,October,192.2
+Urad,2022,October,184.0
+Wheat,2022,October,185.3
+Wheat Atta,2022,October,182.4
+Bajra,2023,October,231.5
+Barley,2023,October,197.5
+Castorseed,2023,October,114.1
+Cotton,2023,October,159.4
+Cotton (Meal/Cake),2023,October,190.1
+Cotton Oil,2023,October,121.3
+Gram,2023,October,192.1
+Groundnut,2023,October,201.1
+Groundnut Oil,2023,October,177.7
+Jowar,2023,October,223.4
+Jute,2023,October,225.3
+Lentil,2023,October,191.3
+Linseed,2023,October,179.7
+Maize,2023,October,183.9
+Mesta,2023,October,175.0
+Moong,2023,October,203.9
+Nigerseed,2023,October,291.7
+Onion,2023,October,333.5
+Paddy,2023,October,189.9
+Palm oil,2023,October,146.2
+Peas,2023,October,236.4
+Potato,2023,October,209.7
+Ragi,2023,October,263.5
+Rajma,2023,October,246.4
+Rapeseed & Mustard,2023,October,166.0
+Rapeseed & Mustard (Meal/Cake),2023,October,228.7
+Rapeseed & Mustard Oil,2023,October,154.9
+Rice,2023,October,183.5
+Safflower,2023,October,165.1
+Sesamum,2023,October,227.9
+Soya oil,2023,October,127.1
+Soybean,2023,October,202.6
+Sugarcane,2023,October,217.0
+Sunflower,2023,October,144.6
+Sunflower oil,2023,October,124.0
+Tobacco,2023,October,113.6
+Tomato,2023,October,189.9
+Tur,2023,October,272.0
+Urad,2023,October,207.2
+Wheat,2023,October,194.1
+Wheat Atta,2023,October,189.4
+Bajra,2024,October,248.7
+Barley,2024,October,218.3
+Castorseed,2024,October,123.7
+Cotton,2024,October,151.3
+Cotton (Meal/Cake),2024,October,210.6
+Cotton Oil,2024,October,139.6
+Gram,2024,October,230.6
+Groundnut,2024,October,175.8
+Groundnut Oil,2024,October,167.4
+Jowar,2024,October,206.7
+Jute,2024,October,247.4
+Lentil,2024,October,187.5
+Linseed,2024,October,198.0
+Maize,2024,October,215.6
+Mesta,2024,October,174.1
+Moong,2024,October,190.9
+Nigerseed,2024,October,306.4
+Onion,2024,October,478.2
+Paddy,2024,October,204.4
+Palm oil,2024,October,180.8
+Peas,2024,October,262.3
+Potato,2024,October,374.8
+Ragi,2024,October,316.1
+Rajma,2024,October,243.5
+Rapeseed & Mustard,2024,October,191.9
+Rapeseed & Mustard (Meal/Cake),2024,October,209.2
+Rapeseed & Mustard Oil,2024,October,195.1
+Rice,2024,October,192.6
+Safflower,2024,October,189.1
+Sesamum,2024,October,227.4
+Soya oil,2024,October,152.0
+Soybean,2024,October,199.3
+Sugarcane,2024,October,234.2
+Sunflower,2024,October,139.2
+Sunflower oil,2024,October,147.0
+Tobacco,2024,October,113.6
+Tomato,2024,October,644.5
+Tur,2024,October,294.8
+Urad,2024,October,220.5
+Wheat,2024,October,209.6
+Wheat Atta,2024,October,207.4
+Bajra,2012,November,120.4
+Barley,2012,November,113.9
+Castorseed,2012,November,85.1
+Cotton,2012,November,92.4
+Cotton (Meal/Cake),2012,November,123.1
+Cotton Oil,2012,November,109.9
+Gram,2012,November,146.0
+Groundnut,2012,November,121.9
+Groundnut Oil,2012,November,120.2
+Jowar,2012,November,95.6
+Jute,2012,November,108.1
+Lentil,2012,November,118.1
+Linseed,2012,November,131.9
+Maize,2012,November,117.9
+Mesta,2012,November,110.5
+Moong,2012,November,113.5
+Nigerseed,2012,November,114.7
+Onion,2012,November,145.2
+Paddy,2012,November,116.3
+Palm oil,2012,November,96.0
+Peas,2012,November,131.8
+Potato,2012,November,171.1
+Ragi,2012,November,161.5
+Rajma,2012,November,157.6
+Rapeseed & Mustard,2012,November,142.2
+Rapeseed & Mustard (Meal/Cake),2012,November,185.1
+Rapeseed & Mustard Oil,2012,November,118.5
+Rice,2012,November,113.8
+Safflower,2012,November,114.8
+Sesamum,2012,November,143.3
+Soya oil,2012,November,110.2
+Soybean,2012,November,140.1
+Sugarcane,2012,November,104.9
+Sunflower,2012,November,117.4
+Sunflower oil,2012,November,106.2
+Tobacco,2012,November,102.0
+Tomato,2012,November,111.4
+Tur,2012,November,114.4
+Urad,2012,November,97.5
+Wheat,2012,November,120.7
+Wheat Atta,2012,November,122.0
+Bajra,2013,November,129.5
+Barley,2013,November,120.1
+Castorseed,2013,November,84.2
+Cotton,2013,November,107.5
+Cotton (Meal/Cake),2013,November,123.4
+Cotton Oil,2013,November,105.7
+Gram,2013,November,108.8
+Groundnut,2013,November,104.7
+Groundnut Oil,2013,November,98.3
+Jowar,2013,November,99.5
+Jute,2013,November,117.8
+Lentil,2013,November,134.1
+Linseed,2013,November,126.0
+Maize,2013,November,122.1
+Mesta,2013,November,117.8
+Moong,2013,November,126.4
+Nigerseed,2013,November,116.1
+Onion,2013,November,392.7
+Paddy,2013,November,131.3
+Palm oil,2013,November,107.5
+Peas,2013,November,150.2
+Potato,2013,November,249.9
+Ragi,2013,November,167.2
+Rajma,2013,November,180.5
+Rapeseed & Mustard,2013,November,122.9
+Rapeseed & Mustard (Meal/Cake),2013,November,153.3
+Rapeseed & Mustard Oil,2013,November,109.7
+Rice,2013,November,128.5
+Safflower,2013,November,112.7
+Sesamum,2013,November,159.7
+Soya oil,2013,November,107.2
+Soybean,2013,November,160.3
+Sugarcane,2013,November,124.3
+Sunflower,2013,November,112.1
+Sunflower oil,2013,November,108.6
+Tobacco,2013,November,110.9
+Tomato,2013,November,258.8
+Tur,2013,November,119.0
+Urad,2013,November,103.1
+Wheat,2013,November,127.6
+Wheat Atta,2013,November,126.0
+Bajra,2014,November,125.6
+Barley,2014,November,128.4
+Castorseed,2014,November,100.5
+Cotton,2014,November,88.3
+Cotton (Meal/Cake),2014,November,120.0
+Cotton Oil,2014,November,95.8
+Gram,2014,November,100.5
+Groundnut,2014,November,106.5
+Groundnut Oil,2014,November,93.3
+Jowar,2014,November,115.3
+Jute,2014,November,133.8
+Lentil,2014,November,153.9
+Linseed,2014,November,127.7
+Maize,2014,November,113.0
+Mesta,2014,November,122.5
+Moong,2014,November,148.5
+Nigerseed,2014,November,122.7
+Onion,2014,November,204.4
+Paddy,2014,November,138.0
+Palm oil,2014,November,95.6
+Peas,2014,November,136.5
+Potato,2014,November,320.2
+Ragi,2014,November,154.4
+Rajma,2014,November,159.9
+Rapeseed & Mustard,2014,November,124.3
+Rapeseed & Mustard (Meal/Cake),2014,November,155.8
+Rapeseed & Mustard Oil,2014,November,109.3
+Rice,2014,November,132.2
+Safflower,2014,November,92.3
+Sesamum,2014,November,130.2
+Soya oil,2014,November,99.2
+Soybean,2014,November,135.0
+Sugarcane,2014,November,124.3
+Sunflower,2014,November,107.3
+Sunflower oil,2014,November,93.2
+Tobacco,2014,November,113.6
+Tomato,2014,November,139.1
+Tur,2014,November,127.7
+Urad,2014,November,124.0
+Wheat,2014,November,123.7
+Wheat Atta,2014,November,130.3
+Bajra,2015,November,135.3
+Barley,2015,November,133.1
+Castorseed,2015,November,93.2
+Cotton,2015,November,86.2
+Cotton (Meal/Cake),2015,November,141.7
+Cotton Oil,2015,November,96.9
+Gram,2015,November,154.8
+Groundnut,2015,November,122.4
+Groundnut Oil,2015,November,107.2
+Jowar,2015,November,113.4
+Jute,2015,November,195.9
+Lentil,2015,November,198.8
+Linseed,2015,November,133.1
+Maize,2015,November,126.6
+Mesta,2015,November,144.7
+Moong,2015,November,178.1
+Nigerseed,2015,November,260.4
+Onion,2015,November,269.9
+Paddy,2015,November,135.6
+Palm oil,2015,November,90.0
+Peas,2015,November,140.3
+Potato,2015,November,152.2
+Ragi,2015,November,157.0
+Rajma,2015,November,155.0
+Rapeseed & Mustard,2015,November,163.2
+Rapeseed & Mustard (Meal/Cake),2015,November,243.6
+Rapeseed & Mustard Oil,2015,November,135.0
+Rice,2015,November,130.0
+Safflower,2015,November,105.9
+Sesamum,2015,November,109.5
+Soya oil,2015,November,98.6
+Soybean,2015,November,158.3
+Sugarcane,2015,November,150.3
+Sunflower,2015,November,119.1
+Sunflower oil,2015,November,103.3
+Tobacco,2015,November,113.6
+Tomato,2015,November,293.9
+Tur,2015,November,217.1
+Urad,2015,November,204.7
+Wheat,2015,November,129.9
+Wheat Atta,2015,November,130.4
+Bajra,2016,November,151.0
+Barley,2016,November,159.5
+Castorseed,2016,November,84.7
+Cotton,2016,November,102.1
+Cotton (Meal/Cake),2016,November,158.9
+Cotton Oil,2016,November,101.8
+Gram,2016,November,278.9
+Groundnut,2016,November,126.4
+Groundnut Oil,2016,November,114.8
+Jowar,2016,November,123.2
+Jute,2016,November,196.7
+Lentil,2016,November,176.8
+Linseed,2016,November,173.2
+Maize,2016,November,137.7
+Mesta,2016,November,147.6
+Moong,2016,November,127.4
+Nigerseed,2016,November,207.6
+Onion,2016,November,120.6
+Paddy,2016,November,145.0
+Palm oil,2016,November,103.0
+Peas,2016,November,152.2
+Potato,2016,November,201.8
+Ragi,2016,November,209.0
+Rajma,2016,November,160.4
+Rapeseed & Mustard,2016,November,153.5
+Rapeseed & Mustard (Meal/Cake),2016,November,247.2
+Rapeseed & Mustard Oil,2016,November,128.7
+Rice,2016,November,146.4
+Safflower,2016,November,112.3
+Sesamum,2016,November,118.8
+Soya oil,2016,November,106.7
+Soybean,2016,November,126.2
+Sugarcane,2016,November,167.6
+Sunflower,2016,November,110.1
+Sunflower oil,2016,November,105.1
+Tobacco,2016,November,113.6
+Tomato,2016,November,114.4
+Tur,2016,November,178.9
+Urad,2016,November,188.4
+Wheat,2016,November,147.9
+Wheat Atta,2016,November,151.7
+Bajra,2017,November,130.2
+Barley,2017,November,140.4
+Castorseed,2017,November,101.6
+Cotton,2017,November,101.7
+Cotton (Meal/Cake),2017,November,135.2
+Cotton Oil,2017,November,100.7
+Gram,2017,November,165.0
+Groundnut,2017,November,117.0
+Groundnut Oil,2017,November,104.9
+Jowar,2017,November,118.5
+Jute,2017,November,152.4
+Lentil,2017,November,130.9
+Linseed,2017,November,155.4
+Maize,2017,November,119.1
+Mesta,2017,November,124.0
+Moong,2017,November,109.8
+Nigerseed,2017,November,205.5
+Onion,2017,November,335.5
+Paddy,2017,November,149.2
+Palm oil,2017,November,109.8
+Peas,2017,November,141.2
+Potato,2017,November,119.6
+Ragi,2017,November,217.3
+Rajma,2017,November,151.3
+Rapeseed & Mustard,2017,November,135.6
+Rapeseed & Mustard (Meal/Cake),2017,November,180.4
+Rapeseed & Mustard Oil,2017,November,119.4
+Rice,2017,November,150.9
+Safflower,2017,November,135.6
+Sesamum,2017,November,120.4
+Soya oil,2017,November,105.8
+Soybean,2017,November,122.2
+Sugarcane,2017,November,169.5
+Sunflower,2017,November,99.2
+Sunflower oil,2017,November,102.7
+Tobacco,2017,November,113.6
+Tomato,2017,November,422.6
+Tur,2017,November,111.6
+Urad,2017,November,123.7
+Wheat,2017,November,139.4
+Wheat Atta,2017,November,141.0
+Bajra,2018,November,161.7
+Barley,2018,November,153.5
+Castorseed,2018,November,127.1
+Cotton,2018,November,122.6
+Cotton (Meal/Cake),2018,November,157.3
+Cotton Oil,2018,November,107.9
+Gram,2018,November,140.8
+Groundnut,2018,November,125.3
+Groundnut Oil,2018,November,114.3
+Jowar,2018,November,137.7
+Jute,2018,November,184.8
+Lentil,2018,November,121.2
+Linseed,2018,November,146.5
+Maize,2018,November,131.9
+Mesta,2018,November,122.6
+Moong,2018,November,121.6
+Nigerseed,2018,November,141.1
+Onion,2018,November,175.8
+Paddy,2018,November,155.5
+Palm oil,2018,November,113.0
+Peas,2018,November,203.9
+Potato,2018,November,225.5
+Ragi,2018,November,211.4
+Rajma,2018,November,133.0
+Rapeseed & Mustard,2018,November,146.6
+Rapeseed & Mustard (Meal/Cake),2018,November,192.0
+Rapeseed & Mustard Oil,2018,November,127.0
+Rice,2018,November,149.3
+Safflower,2018,November,150.5
+Sesamum,2018,November,160.8
+Soya oil,2018,November,111.8
+Soybean,2018,November,141.6
+Sugarcane,2018,November,169.5
+Sunflower,2018,November,117.5
+Sunflower oil,2018,November,110.3
+Tobacco,2018,November,113.6
+Tomato,2018,November,144.1
+Tur,2018,November,114.0
+Urad,2018,November,118.6
+Wheat,2018,November,152.2
+Wheat Atta,2018,November,152.1
+Bajra,2019,November,188.4
+Barley,2019,November,174.9
+Castorseed,2019,November,104.2
+Cotton,2019,November,109.6
+Cotton (Meal/Cake),2019,November,168.4
+Cotton Oil,2019,November,113.9
+Gram,2019,November,148.3
+Groundnut,2019,November,140.6
+Groundnut Oil,2019,November,120.1
+Jowar,2019,November,165.0
+Jute,2019,November,204.1
+Lentil,2019,November,140.5
+Linseed,2019,November,163.5
+Maize,2019,November,172.4
+Mesta,2019,November,133.3
+Moong,2019,November,146.7
+Nigerseed,2019,November,175.4
+Onion,2019,November,478.7
+Paddy,2019,November,162.1
+Palm oil,2019,November,115.8
+Peas,2019,November,202.4
+Potato,2019,November,206.3
+Ragi,2019,November,220.9
+Rajma,2019,November,142.5
+Rapeseed & Mustard,2019,November,146.5
+Rapeseed & Mustard (Meal/Cake),2019,November,206.7
+Rapeseed & Mustard Oil,2019,November,129.2
+Rice,2019,November,156.5
+Safflower,2019,November,196.0
+Sesamum,2019,November,178.8
+Soya oil,2019,November,113.7
+Soybean,2019,November,161.8
+Sugarcane,2019,November,169.5
+Sunflower,2019,November,121.5
+Sunflower oil,2019,November,113.2
+Tobacco,2019,November,113.6
+Tomato,2019,November,302.7
+Tur,2019,November,153.6
+Urad,2019,November,162.1
+Wheat,2019,November,164.5
+Wheat Atta,2019,November,158.7
+Bajra,2020,November,154.2
+Barley,2020,November,149.4
+Castorseed,2020,November,109.6
+Cotton,2020,November,105.4
+Cotton (Meal/Cake),2020,November,159.0
+Cotton Oil,2020,November,136.0
+Gram,2020,November,164.3
+Groundnut,2020,November,146.3
+Groundnut Oil,2020,November,145.2
+Jowar,2020,November,155.2
+Jute,2020,November,252.5
+Lentil,2020,November,166.3
+Linseed,2020,November,175.0
+Maize,2020,November,139.8
+Mesta,2020,November,133.9
+Moong,2020,November,165.1
+Nigerseed,2020,November,216.6
+Onion,2020,November,442.3
+Paddy,2020,November,163.1
+Palm oil,2020,November,151.2
+Peas,2020,November,230.2
+Potato,2020,November,491.1
+Ragi,2020,November,228.4
+Rajma,2020,November,155.6
+Rapeseed & Mustard,2020,November,171.9
+Rapeseed & Mustard (Meal/Cake),2020,November,220.8
+Rapeseed & Mustard Oil,2020,November,169.5
+Rice,2020,November,152.9
+Safflower,2020,November,163.4
+Sesamum,2020,November,171.3
+Soya oil,2020,November,137.7
+Soybean,2020,November,174.6
+Sugarcane,2020,November,189.4
+Sunflower,2020,November,125.7
+Sunflower oil,2020,November,138.0
+Tobacco,2020,November,113.6
+Tomato,2020,November,339.6
+Tur,2020,November,174.5
+Urad,2020,November,188.1
+Wheat,2020,November,147.9
+Wheat Atta,2020,November,141.9
+Bajra,2021,November,172.6
+Barley,2021,November,174.8
+Castorseed,2021,November,129.4
+Cotton,2021,November,147.9
+Cotton (Meal/Cake),2021,November,184.0
+Cotton Oil,2021,November,160.7
+Gram,2021,November,168.8
+Groundnut,2021,November,163.6
+Groundnut Oil,2021,November,156.0
+Jowar,2021,November,135.4
+Jute,2021,November,284.0
+Lentil,2021,November,203.4
+Linseed,2021,November,246.4
+Maize,2021,November,150.4
+Mesta,2021,November,181.1
+Moong,2021,November,164.7
+Nigerseed,2021,November,252.9
+Onion,2021,November,290.2
+Paddy,2021,November,162.8
+Palm oil,2021,November,191.9
+Peas,2021,November,237.0
+Potato,2021,November,254.5
+Ragi,2021,November,229.3
+Rajma,2021,November,227.2
+Rapeseed & Mustard,2021,November,225.1
+Rapeseed & Mustard (Meal/Cake),2021,November,261.1
+Rapeseed & Mustard Oil,2021,November,235.2
+Rice,2021,November,153.0
+Safflower,2021,November,203.9
+Sesamum,2021,November,187.4
+Soya oil,2021,November,174.8
+Soybean,2021,November,234.6
+Sugarcane,2021,November,199.8
+Sunflower,2021,November,163.8
+Sunflower oil,2021,November,153.4
+Tobacco,2021,November,113.6
+Tomato,2021,November,560.9
+Tur,2021,November,176.2
+Urad,2021,November,179.7
+Wheat,2021,November,162.9
+Wheat Atta,2021,November,154.2
+Bajra,2022,November,209.7
+Barley,2022,November,238.6
+Castorseed,2022,November,138.8
+Cotton,2022,November,183.0
+Cotton (Meal/Cake),2022,November,197.5
+Cotton Oil,2022,November,170.0
+Gram,2022,November,161.2
+Groundnut,2022,November,176.6
+Groundnut Oil,2022,November,174.0
+Jowar,2022,November,183.6
+Jute,2022,November,259.5
+Lentil,2022,November,202.1
+Linseed,2022,November,239.8
+Maize,2022,November,182.4
+Mesta,2022,November,212.8
+Moong,2022,November,165.7
+Nigerseed,2022,November,244.8
+Onion,2022,November,234.2
+Paddy,2022,November,173.3
+Palm oil,2022,November,170.0
+Peas,2022,November,223.1
+Potato,2022,November,289.5
+Ragi,2022,November,208.6
+Rajma,2022,November,246.3
+Rapeseed & Mustard,2022,November,201.9
+Rapeseed & Mustard (Meal/Cake),2022,November,196.0
+Rapeseed & Mustard Oil,2022,November,203.5
+Rice,2022,November,169.9
+Safflower,2022,November,208.5
+Sesamum,2022,November,189.1
+Soya oil,2022,November,181.4
+Soybean,2022,November,235.2
+Sugarcane,2022,November,210.1
+Sunflower,2022,November,171.4
+Sunflower oil,2022,November,166.9
+Tobacco,2022,November,113.6
+Tomato,2022,November,266.6
+Tur,2022,November,193.7
+Urad,2022,November,186.2
+Wheat,2022,November,192.4
+Wheat Atta,2022,November,188.6
+Bajra,2023,November,238.5
+Barley,2023,November,196.2
+Castorseed,2023,November,112.0
+Cotton,2023,November,158.1
+Cotton (Meal/Cake),2023,November,192.0
+Cotton Oil,2023,November,122.0
+Gram,2023,November,195.7
+Groundnut,2023,November,197.7
+Groundnut Oil,2023,November,174.3
+Jowar,2023,November,232.2
+Jute,2023,November,229.9
+Lentil,2023,November,193.1
+Linseed,2023,November,179.0
+Maize,2023,November,183.5
+Mesta,2023,November,175.9
+Moong,2023,November,202.0
+Nigerseed,2023,November,282.5
+Onion,2023,November,471.3
+Paddy,2023,November,191.4
+Palm oil,2023,November,145.5
+Peas,2023,November,235.8
+Potato,2023,November,210.7
+Ragi,2023,November,269.5
+Rajma,2023,November,244.2
+Rapeseed & Mustard,2023,November,167.1
+Rapeseed & Mustard (Meal/Cake),2023,November,233.5
+Rapeseed & Mustard Oil,2023,November,159.4
+Rice,2023,November,184.3
+Safflower,2023,November,174.7
+Sesamum,2023,November,232.8
+Soya oil,2023,November,130.2
+Soybean,2023,November,214.5
+Sugarcane,2023,November,217.0
+Sunflower,2023,November,140.1
+Sunflower oil,2023,November,125.9
+Tobacco,2023,November,113.6
+Tomato,2023,November,330.7
+Tur,2023,November,273.5
+Urad,2023,November,217.1
+Wheat,2023,November,197.3
+Wheat Atta,2023,November,190.7
+Bajra,2024,November,253.6
+Barley,2024,November,227.3
+Castorseed,2024,November,121.5
+Cotton,2024,November,149.0
+Cotton (Meal/Cake),2024,November,199.6
+Cotton Oil,2024,November,146.7
+Gram,2024,November,226.8
+Groundnut,2024,November,177.7
+Groundnut Oil,2024,November,167.1
+Jowar,2024,November,204.1
+Jute,2024,November,251.4
+Lentil,2024,November,190.0
+Linseed,2024,November,201.0
+Maize,2024,November,213.3
+Mesta,2024,November,171.4
+Moong,2024,November,187.3
+Nigerseed,2024,November,307.4
+Onion,2024,November,504.5
+Paddy,2024,November,205.9
+Palm oil,2024,November,198.3
+Peas,2024,November,241.1
+Potato,2024,November,384.4
+Ragi,2024,November,312.4
+Rajma,2024,November,236.2
+Rapeseed & Mustard,2024,November,191.8
+Rapeseed & Mustard (Meal/Cake),2024,November,202.4
+Rapeseed & Mustard Oil,2024,November,195.7
+Rice,2024,November,193.3
+Safflower,2024,November,195.6
+Sesamum,2024,November,221.9
+Soya oil,2024,November,167.0
+Soybean,2024,November,199.0
+Sugarcane,2024,November,234.2
+Sunflower,2024,November,140.2
+Sunflower oil,2024,November,155.1
+Tobacco,2024,November,113.6
+Tomato,2024,November,425.8
+Tur,2024,November,286.7
+Urad,2024,November,217.6
+Wheat,2024,November,214.1
+Wheat Atta,2024,November,212.5
+Bajra,2012,December,127.7
+Barley,2012,December,119.0
+Castorseed,2012,December,87.1
+Cotton,2012,December,92.5
+Cotton (Meal/Cake),2012,December,113.6
+Cotton Oil,2012,December,104.8
+Gram,2012,December,139.4
+Groundnut,2012,December,125.8
+Groundnut Oil,2012,December,127.2
+Jowar,2012,December,95.0
+Jute,2012,December,106.5
+Lentil,2012,December,117.4
+Linseed,2012,December,133.7
+Maize,2012,December,121.2
+Mesta,2012,December,108.9
+Moong,2012,December,115.4
+Nigerseed,2012,December,112.5
+Onion,2012,December,161.6
+Paddy,2012,December,115.9
+Palm oil,2012,December,92.1
+Peas,2012,December,124.8
+Potato,2012,December,147.9
+Ragi,2012,December,162.1
+Rajma,2012,December,148.4
+Rapeseed & Mustard,2012,December,141.2
+Rapeseed & Mustard (Meal/Cake),2012,December,178.3
+Rapeseed & Mustard Oil,2012,December,118.5
+Rice,2012,December,113.5
+Safflower,2012,December,114.8
+Sesamum,2012,December,149.7
+Soya oil,2012,December,110.8
+Soybean,2012,December,142.6
+Sugarcane,2012,December,104.9
+Sunflower,2012,December,116.0
+Sunflower oil,2012,December,106.2
+Tobacco,2012,December,104.0
+Tomato,2012,December,86.6
+Tur,2012,December,110.2
+Urad,2012,December,97.2
+Wheat,2012,December,121.7
+Wheat Atta,2012,December,125.7
+Bajra,2013,December,131.1
+Barley,2013,December,123.3
+Castorseed,2013,December,96.6
+Cotton,2013,December,105.0
+Cotton (Meal/Cake),2013,December,116.0
+Cotton Oil,2013,December,102.0
+Gram,2013,December,107.3
+Groundnut,2013,December,100.4
+Groundnut Oil,2013,December,95.2
+Jowar,2013,December,100.8
+Jute,2013,December,124.9
+Lentil,2013,December,135.6
+Linseed,2013,December,126.2
+Maize,2013,December,123.0
+Mesta,2013,December,119.5
+Moong,2013,December,126.7
+Nigerseed,2013,December,116.6
+Onion,2013,December,210.1
+Paddy,2013,December,130.6
+Palm oil,2013,December,109.4
+Peas,2013,December,131.9
+Potato,2013,December,213.8
+Ragi,2013,December,164.3
+Rajma,2013,December,185.8
+Rapeseed & Mustard,2013,December,122.7
+Rapeseed & Mustard (Meal/Cake),2013,December,152.8
+Rapeseed & Mustard Oil,2013,December,109.1
+Rice,2013,December,124.8
+Safflower,2013,December,112.1
+Sesamum,2013,December,164.5
+Soya oil,2013,December,105.8
+Soybean,2013,December,160.1
+Sugarcane,2013,December,124.3
+Sunflower,2013,December,114.5
+Sunflower oil,2013,December,103.7
+Tobacco,2013,December,108.5
+Tomato,2013,December,151.0
+Tur,2013,December,118.4
+Urad,2013,December,103.7
+Wheat,2013,December,128.6
+Wheat Atta,2013,December,130.1
+Bajra,2014,December,123.9
+Barley,2014,December,131.0
+Castorseed,2014,December,100.6
+Cotton,2014,December,89.5
+Cotton (Meal/Cake),2014,December,117.5
+Cotton Oil,2014,December,91.2
+Gram,2014,December,102.6
+Groundnut,2014,December,105.0
+Groundnut Oil,2014,December,93.8
+Jowar,2014,December,110.3
+Jute,2014,December,137.1
+Lentil,2014,December,157.5
+Linseed,2014,December,128.2
+Maize,2014,December,113.7
+Mesta,2014,December,128.1
+Moong,2014,December,153.9
+Nigerseed,2014,December,125.7
+Onion,2014,December,208.7
+Paddy,2014,December,134.6
+Palm oil,2014,December,94.9
+Peas,2014,December,119.1
+Potato,2014,December,201.1
+Ragi,2014,December,160.6
+Rajma,2014,December,157.7
+Rapeseed & Mustard,2014,December,129.1
+Rapeseed & Mustard (Meal/Cake),2014,December,168.9
+Rapeseed & Mustard Oil,2014,December,113.2
+Rice,2014,December,129.8
+Safflower,2014,December,93.4
+Sesamum,2014,December,127.6
+Soya oil,2014,December,98.3
+Soybean,2014,December,140.8
+Sugarcane,2014,December,124.3
+Sunflower,2014,December,107.2
+Sunflower oil,2014,December,93.6
+Tobacco,2014,December,113.6
+Tomato,2014,December,147.2
+Tur,2014,December,128.2
+Urad,2014,December,124.7
+Wheat,2014,December,125.8
+Wheat Atta,2014,December,132.0
+Bajra,2015,December,139.2
+Barley,2015,December,136.1
+Castorseed,2015,December,89.0
+Cotton,2015,December,89.4
+Cotton (Meal/Cake),2015,December,145.1
+Cotton Oil,2015,December,97.4
+Gram,2015,December,153.8
+Groundnut,2015,December,126.0
+Groundnut Oil,2015,December,108.8
+Jowar,2015,December,119.2
+Jute,2015,December,204.5
+Lentil,2015,December,195.5
+Linseed,2015,December,137.5
+Maize,2015,December,129.2
+Mesta,2015,December,158.0
+Moong,2015,December,168.8
+Nigerseed,2015,December,251.3
+Onion,2015,December,209.5
+Paddy,2015,December,135.4
+Palm oil,2015,December,89.7
+Peas,2015,December,122.8
+Potato,2015,December,137.2
+Ragi,2015,December,158.1
+Rajma,2015,December,155.0
+Rapeseed & Mustard,2015,December,161.3
+Rapeseed & Mustard (Meal/Cake),2015,December,252.1
+Rapeseed & Mustard Oil,2015,December,130.3
+Rice,2015,December,131.3
+Safflower,2015,December,106.4
+Sesamum,2015,December,108.0
+Soya oil,2015,December,100.5
+Soybean,2015,December,152.2
+Sugarcane,2015,December,150.3
+Sunflower,2015,December,119.7
+Sunflower oil,2015,December,104.7
+Tobacco,2015,December,113.6
+Tomato,2015,December,211.3
+Tur,2015,December,222.8
+Urad,2015,December,203.4
+Wheat,2015,December,131.9
+Wheat Atta,2015,December,129.9
+Bajra,2016,December,154.7
+Barley,2016,December,161.2
+Castorseed,2016,December,85.7
+Cotton,2016,December,103.6
+Cotton (Meal/Cake),2016,December,157.1
+Cotton Oil,2016,December,103.6
+Gram,2016,December,270.3
+Groundnut,2016,December,131.5
+Groundnut Oil,2016,December,115.1
+Jowar,2016,December,127.8
+Jute,2016,December,190.2
+Lentil,2016,December,169.6
+Linseed,2016,December,174.1
+Maize,2016,December,134.0
+Mesta,2016,December,147.4
+Moong,2016,December,122.7
+Nigerseed,2016,December,199.7
+Onion,2016,December,122.2
+Paddy,2016,December,144.2
+Palm oil,2016,December,106.4
+Peas,2016,December,134.7
+Potato,2016,December,128.5
+Ragi,2016,December,228.6
+Rajma,2016,December,166.1
+Rapeseed & Mustard,2016,December,151.2
+Rapeseed & Mustard (Meal/Cake),2016,December,239.0
+Rapeseed & Mustard Oil,2016,December,127.6
+Rice,2016,December,146.2
+Safflower,2016,December,113.9
+Sesamum,2016,December,117.3
+Soya oil,2016,December,107.8
+Soybean,2016,December,128.9
+Sugarcane,2016,December,167.6
+Sunflower,2016,December,109.4
+Sunflower oil,2016,December,106.8
+Tobacco,2016,December,113.6
+Tomato,2016,December,95.3
+Tur,2016,December,166.0
+Urad,2016,December,178.4
+Wheat,2016,December,152.3
+Wheat Atta,2016,December,153.2
+Bajra,2017,December,133.9
+Barley,2017,December,142.9
+Castorseed,2017,December,103.4
+Cotton,2017,December,107.6
+Cotton (Meal/Cake),2017,December,140.0
+Cotton Oil,2017,December,102.9
+Gram,2017,December,152.9
+Groundnut,2017,December,113.9
+Groundnut Oil,2017,December,105.6
+Jowar,2017,December,121.3
+Jute,2017,December,154.4
+Lentil,2017,December,130.3
+Linseed,2017,December,154.5
+Maize,2017,December,117.9
+Mesta,2017,December,113.6
+Moong,2017,December,110.7
+Nigerseed,2017,December,203.0
+Onion,2017,December,363.0
+Paddy,2017,December,148.8
+Palm oil,2017,December,110.8
+Peas,2017,December,137.8
+Potato,2017,December,117.7
+Ragi,2017,December,217.6
+Rajma,2017,December,144.9
+Rapeseed & Mustard,2017,December,138.2
+Rapeseed & Mustard (Meal/Cake),2017,December,181.6
+Rapeseed & Mustard Oil,2017,December,120.9
+Rice,2017,December,152.0
+Safflower,2017,December,133.2
+Sesamum,2017,December,128.3
+Soya oil,2017,December,106.1
+Soybean,2017,December,125.3
+Sugarcane,2017,December,169.5
+Sunflower,2017,December,100.2
+Sunflower oil,2017,December,105.0
+Tobacco,2017,December,113.6
+Tomato,2017,December,224.5
+Tur,2017,December,112.6
+Urad,2017,December,121.0
+Wheat,2017,December,139.4
+Wheat Atta,2017,December,140.6
+Bajra,2018,December,165.1
+Barley,2018,December,154.8
+Castorseed,2018,December,123.8
+Cotton,2018,December,119.3
+Cotton (Meal/Cake),2018,December,154.1
+Cotton Oil,2018,December,105.5
+Gram,2018,December,146.7
+Groundnut,2018,December,122.6
+Groundnut Oil,2018,December,112.5
+Jowar,2018,December,142.3
+Jute,2018,December,189.3
+Lentil,2018,December,124.6
+Linseed,2018,December,150.3
+Maize,2018,December,139.2
+Mesta,2018,December,128.1
+Moong,2018,December,123.0
+Nigerseed,2018,December,141.1
+Onion,2018,December,131.3
+Paddy,2018,December,155.7
+Palm oil,2018,December,109.2
+Peas,2018,December,189.9
+Potato,2018,December,167.0
+Ragi,2018,December,212.9
+Rajma,2018,December,134.8
+Rapeseed & Mustard,2018,December,145.7
+Rapeseed & Mustard (Meal/Cake),2018,December,191.9
+Rapeseed & Mustard Oil,2018,December,126.1
+Rice,2018,December,149.4
+Safflower,2018,December,155.5
+Sesamum,2018,December,168.8
+Soya oil,2018,December,111.1
+Soybean,2018,December,143.9
+Sugarcane,2018,December,169.5
+Sunflower,2018,December,118.2
+Sunflower oil,2018,December,110.0
+Tobacco,2018,December,113.6
+Tomato,2018,December,139.7
+Tur,2018,December,123.9
+Urad,2018,December,123.3
+Wheat,2018,December,152.8
+Wheat Atta,2018,December,154.0
+Bajra,2019,December,194.7
+Barley,2019,December,176.8
+Castorseed,2019,December,102.1
+Cotton,2019,December,108.9
+Cotton (Meal/Cake),2019,December,159.3
+Cotton Oil,2019,December,118.6
+Gram,2019,December,146.3
+Groundnut,2019,December,137.3
+Groundnut Oil,2019,December,127.0
+Jowar,2019,December,173.2
+Jute,2019,December,203.4
+Lentil,2019,December,143.2
+Linseed,2019,December,167.2
+Maize,2019,December,175.6
+Mesta,2019,December,136.6
+Moong,2019,December,149.6
+Nigerseed,2019,December,169.4
+Onion,2019,December,729.8
+Paddy,2019,December,162.0
+Palm oil,2019,December,127.3
+Peas,2019,December,177.4
+Potato,2019,December,250.6
+Ragi,2019,December,213.5
+Rajma,2019,December,141.3
+Rapeseed & Mustard,2019,December,150.1
+Rapeseed & Mustard (Meal/Cake),2019,December,206.4
+Rapeseed & Mustard Oil,2019,December,132.8
+Rice,2019,December,155.2
+Safflower,2019,December,196.3
+Sesamum,2019,December,182.0
+Soya oil,2019,December,117.6
+Soybean,2019,December,172.5
+Sugarcane,2019,December,169.5
+Sunflower,2019,December,124.3
+Sunflower oil,2019,December,116.0
+Tobacco,2019,December,113.6
+Tomato,2019,December,191.5
+Tur,2019,December,154.6
+Urad,2019,December,177.0
+Wheat,2019,December,165.7
+Wheat Atta,2019,December,159.1
+Bajra,2020,December,150.0
+Barley,2020,December,152.0
+Castorseed,2020,December,107.4
+Cotton,2020,December,107.9
+Cotton (Meal/Cake),2020,December,159.1
+Cotton Oil,2020,December,142.8
+Gram,2020,December,159.8
+Groundnut,2020,December,149.1
+Groundnut Oil,2020,December,148.3
+Jowar,2020,December,154.6
+Jute,2020,December,253.1
+Lentil,2020,December,163.8
+Linseed,2020,December,178.8
+Maize,2020,December,140.5
+Mesta,2020,December,157.2
+Moong,2020,December,168.5
+Nigerseed,2020,December,205.2
+Onion,2020,December,330.7
+Paddy,2020,December,162.2
+Palm oil,2020,December,161.2
+Peas,2020,December,187.1
+Potato,2020,December,364.4
+Ragi,2020,December,230.1
+Rajma,2020,December,167.4
+Rapeseed & Mustard,2020,December,171.3
+Rapeseed & Mustard (Meal/Cake),2020,December,221.0
+Rapeseed & Mustard Oil,2020,December,172.3
+Rice,2020,December,151.4
+Safflower,2020,December,164.9
+Sesamum,2020,December,175.0
+Soya oil,2020,December,146.3
+Soybean,2020,December,178.3
+Sugarcane,2020,December,189.4
+Sunflower,2020,December,127.0
+Sunflower oil,2020,December,145.2
+Tobacco,2020,December,113.6
+Tomato,2020,December,268.5
+Tur,2020,December,169.1
+Urad,2020,December,191.0
+Wheat,2020,December,147.3
+Wheat Atta,2020,December,141.7
+Bajra,2021,December,183.4
+Barley,2021,December,179.9
+Castorseed,2021,December,126.7
+Cotton,2021,December,146.6
+Cotton (Meal/Cake),2021,December,192.1
+Cotton Oil,2021,December,156.0
+Gram,2021,December,166.0
+Groundnut,2021,December,165.3
+Groundnut Oil,2021,December,153.1
+Jowar,2021,December,136.4
+Jute,2021,December,282.7
+Lentil,2021,December,201.7
+Linseed,2021,December,257.0
+Maize,2021,December,154.2
+Mesta,2021,December,183.2
+Moong,2021,December,165.1
+Nigerseed,2021,December,253.9
+Onion,2021,December,267.6
+Paddy,2021,December,162.6
+Palm oil,2021,December,188.8
+Peas,2021,December,199.2
+Potato,2021,December,209.6
+Ragi,2021,December,229.6
+Rajma,2021,December,250.3
+Rapeseed & Mustard,2021,December,222.8
+Rapeseed & Mustard (Meal/Cake),2021,December,255.1
+Rapeseed & Mustard Oil,2021,December,226.5
+Rice,2021,December,152.7
+Safflower,2021,December,206.4
+Sesamum,2021,December,187.4
+Soya oil,2021,December,170.2
+Soybean,2021,December,258.1
+Sugarcane,2021,December,199.8
+Sunflower,2021,December,169.4
+Sunflower oil,2021,December,152.2
+Tobacco,2021,December,113.6
+Tomato,2021,December,520.1
+Tur,2021,December,176.5
+Urad,2021,December,181.0
+Wheat,2021,December,164.1
+Wheat Atta,2021,December,154.3
+Bajra,2022,December,219.2
+Barley,2022,December,243.0
+Castorseed,2022,December,136.5
+Cotton,2022,December,178.9
+Cotton (Meal/Cake),2022,December,194.0
+Cotton Oil,2022,December,161.2
+Gram,2022,December,162.9
+Groundnut,2022,December,181.6
+Groundnut Oil,2022,December,174.7
+Jowar,2022,December,192.8
+Jute,2022,December,257.5
+Lentil,2022,December,199.8
+Linseed,2022,December,228.1
+Maize,2022,December,186.6
+Mesta,2022,December,211.1
+Moong,2022,December,168.2
+Nigerseed,2022,December,248.2
+Onion,2022,December,194.3
+Paddy,2022,December,173.7
+Palm oil,2022,December,163.0
+Peas,2022,December,175.9
+Potato,2022,December,251.7
+Ragi,2022,December,213.3
+Rajma,2022,December,237.8
+Rapeseed & Mustard,2022,December,199.3
+Rapeseed & Mustard (Meal/Cake),2022,December,199.0
+Rapeseed & Mustard Oil,2022,December,196.5
+Rice,2022,December,171.0
+Safflower,2022,December,212.9
+Sesamum,2022,December,191.8
+Soya oil,2022,December,174.5
+Soybean,2022,December,234.6
+Sugarcane,2022,December,210.1
+Sunflower,2022,December,165.1
+Sunflower oil,2022,December,160.8
+Tobacco,2022,December,113.6
+Tomato,2022,December,181.8
+Tur,2022,December,194.7
+Urad,2022,December,190.0
+Wheat,2022,December,198.2
+Wheat Atta,2022,December,191.6
+Bajra,2023,December,246.2
+Barley,2023,December,197.7
+Castorseed,2023,December,111.1
+Cotton,2023,December,152.8
+Cotton (Meal/Cake),2023,December,189.7
+Cotton Oil,2023,December,120.3
+Gram,2023,December,194.1
+Groundnut,2023,December,200.7
+Groundnut Oil,2023,December,172.3
+Jowar,2023,December,241.1
+Jute,2023,December,229.6
+Lentil,2023,December,189.2
+Linseed,2023,December,182.2
+Maize,2023,December,188.0
+Mesta,2023,December,179.4
+Moong,2023,December,203.9
+Nigerseed,2023,December,281.2
+Onion,2023,December,372.6
+Paddy,2023,December,192.0
+Palm oil,2023,December,145.1
+Peas,2023,December,184.3
+Potato,2023,December,191.1
+Ragi,2023,December,279.2
+Rajma,2023,December,243.2
+Rapeseed & Mustard,2023,December,165.3
+Rapeseed & Mustard (Meal/Cake),2023,December,232.7
+Rapeseed & Mustard Oil,2023,December,156.0
+Rice,2023,December,184.4
+Safflower,2023,December,186.0
+Sesamum,2023,December,234.4
+Soya oil,2023,December,127.1
+Soybean,2023,December,213.3
+Sugarcane,2023,December,217.0
+Sunflower,2023,December,138.5
+Sunflower oil,2023,December,124.8
+Tobacco,2023,December,113.6
+Tomato,2023,December,330.3
+Tur,2023,December,267.9
+Urad,2023,December,216.6
+Wheat,2023,December,197.4
+Wheat Atta,2023,December,189.3
+Bajra,2024,December,255.1
+Barley,2024,December,234.9
+Castorseed,2024,December,118.5
+Cotton,2024,December,148.2
+Cotton (Meal/Cake),2024,December,189.9
+Cotton Oil,2024,December,148.2
+Gram,2024,December,221.4
+Groundnut,2024,December,175.7
+Groundnut Oil,2024,December,167.8
+Jowar,2024,December,201.4
+Jute,2024,December,257.6
+Lentil,2024,December,187.4
+Linseed,2024,December,198.2
+Maize,2024,December,213.3
+Mesta,2024,December,171.8
+Moong,2024,December,186.0
+Nigerseed,2024,December,307.7
+Onion,2024,December,414.1
+Paddy,2024,December,205.3
+Palm oil,2024,December,202.2
+Peas,2024,December,218.4
+Potato,2024,December,366.7
+Ragi,2024,December,317.2
+Rajma,2024,December,229.5
+Rapeseed & Mustard,2024,December,189.9
+Rapeseed & Mustard (Meal/Cake),2024,December,196.8
+Rapeseed & Mustard Oil,2024,December,194.8
+Rice,2024,December,193.5
+Safflower,2024,December,196.0
+Sesamum,2024,December,213.5
+Soya oil,2024,December,169.4
+Soybean,2024,December,191.9
+Sugarcane,2024,December,234.2
+Sunflower,2024,December,142.6
+Sunflower oil,2024,December,156.7
+Tobacco,2024,December,113.6
+Tomato,2024,December,346.4
+Tur,2024,December,273.8
+Urad,2024,December,212.9
+Wheat,2024,December,215.8
+Wheat Atta,2024,December,213.4
